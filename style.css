@@ -1,0 +1,62 @@
+﻿body {
+	font-family: Arial, Helvetica, sans-serif;
+}
+TD {
+	font-family: Arial, Helvetica, sans-serif;
+}
+A:link {
+	color: #596132;
+	font-weight: 600;
+	text-decoration: none;
+}
+A:visited {
+	color: #596132;
+	font-weight: 600;
+	text-decoration: none;
+}
+A:active {
+	color: #ba7025;
+	font-weight: 600;
+	text-decoration: none;
+}
+A:hover {
+	color: #ba7025;
+	font-weight: 600;
+	text-decoration: underline;
+}
+IMG {
+	border-bottom-color: black;
+	border-top-color: black;
+	border-right-color: black;
+	border-left-color: black;
+}
+.none:visited {
+	color: #596132;
+}
+.label {
+	text-align: center;
+	font-weight: bold;
+}
+th.header{
+	background-image: url(/images/bg.gif);
+	background-repeat: no-repeat;
+	background-position-x:right;
+	background-position-y:center;
+	background-color: #ffffff; 
+	
+}
+th.headerSortUp {     
+	background-image: url(/images/asc.gif);     
+	background-repeat: no-repeat;
+	background-position-x:right;
+	background-position-y:center;
+	background-color: #ffffff; 
+} 
+
+th.headerSortDown {     
+	background-image: url(/images/desc.gif);
+	background-repeat: no-repeat;
+	background-position-x:right;
+	background-position-y:center;
+	background-color: #ffffFF; 
+}

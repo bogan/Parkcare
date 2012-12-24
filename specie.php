@@ -53,214 +53,216 @@ while($row = mysql_fetch_array($result))
 ?>
 
 <table align="center" cellpadding="10" width="800">
-<tr>
-<td colspan="5">&nbsp;</td>
-</tr>
+	<tr>
+		<td colspan="5">&nbsp;</td>
+	</tr>
 
-<!-- Scientfic Name -->
-<tr>
-<td width="20">&nbsp;</td>
-<td>
-<div class="content">
-<div>
-<h2>Scientific Name</h2>
-</div>
-<div>
-<p>
-						<?php 
-						echo $row['genusName'] . " " . $row['speciesName'];
-						?> 
-</p>
-</div>
-<div>
-<a href="buh.php" style="align:right">Edit</a>
-</div>
-</div>
-</td>
-<td width="20">&nbsp;</td>
-</tr>
+	<!-- Scientfic Name -->
+	<tr>
+		<td width="20">&nbsp;</td>
+	<td>
+		<div class="content">
+			<div>
+				<h2>Scientific Name</h2>
+			</div>
+			<div>
+				<p>
+								<?php 
+								echo $row['genusName'] . " " . $row['speciesName'];
+								?> 
+				</p>
+			</div>
+			<div>
+				<a href="buh.php" style="align:right">Edit</a>
+			</div>
+		</div>
+	</td>
+	<td width="20">&nbsp;</td>
+	</tr>
 
-<!-- Common Name -->
-<tr>
-<td width="20">&nbsp;</td>
-<td>
-<div class="content">
-<div>
-<h2>Common Name</h2>
-</div>
-<div>
-<p>
+	<!-- Common Name -->
+	<tr>
+		<td width="20">&nbsp;</td>
+		<td>
+			<div class="content">
+				<div>
+					<h2>Common Name</h2>
+				</div>
+			<div>
+				<p>
 						<?php 
 						echo $row['commonName'];
 						?>
-</p>
-</div>
-<div>
-<a href="buh.php" style="align:right">Edit</a>
-</div>
-</div>
-</td>
-<td width="20">&nbsp;</td>
-</tr>
+				</p>
+			</div>
+			<div>
+				<a href="buh.php" style="align:right">Edit</a>
+			</div>
+			</div>
+		</td>
+		<td width="20">&nbsp;</td>
+	</tr>
 
-<!-- Habitat -->
-<tr>
-<td width="20">&nbsp;</td>
-<td>
-<div class="content">
-<div>
-<h2>Habitat</h2>
-</div>
-<div>
-<textarea id="habitat">
+	<!-- Habitat -->
+	<tr>
+		<td width="20">&nbsp;</td>
+		<td>
+			<div class="content">
+				<div>
+					<h2>Habitat</h2>
+				</div>
+				<div>
+					<textarea id="habitat">
 						<?php 
 						echo $row['habitat'];
 						?> 
-</textarea>
-</div>
-<div>
-<a href="buh.php" style="align:right">Edit</a>
-</div>
-</div>	
-</td>
-<td width="20">&nbsp;</td>
-</tr>
+					</textarea>
+				</div>
+				<div>
+					<a href="buh.php" style="align:right">Edit</a>
+				</div>
+			</div>	
+		</td>
+		<td width="20">&nbsp;</td>
+	</tr>
 
-<!-- Characteristics -->
-<tr>
-<td width="20">&nbsp;</td>
-<td>
-<div class="content">
-<div>
-<h2>Characteristics</h2>
-</div>
-<div>
-<textarea id="characteristics">
+	<!-- Characteristics -->
+	<tr>
+		<td width="20">&nbsp;</td>
+		<td>
+			<div class="content">
+				<div>
+					<h2>Characteristics</h2>
+				</div>
+				<div>
+					<textarea id="characteristics">
 						<?php 
 						echo $row['characteristics'];
 						?> 
-</textarea>
-</div>
-<div>
-<a href="buh.php" style="align:right">Edit</a>
-</div>
-</div>
-</td>
-<td width="20">&nbsp;</td>
-</tr>
+					</textarea>
+				</div>
+				<div>
+					<a href="buh.php" style="align:right">Edit</a>
+				</div>
+			</div>
+		</td>
+		<td width="20">&nbsp;</td>
+	</tr>
 
-<!-- Distribution -->
-<tr>
-<td width="20">&nbsp;</td>
-<td>
-<div class="content">
-<div>
-<h2>Distribution</h2>
-</div>
-<div>
-<textarea id="distribution">
+	<!-- Distribution -->
+	<tr>
+		<td width="20">&nbsp;</td>
+		<td>
+			<div class="content">
+				<div>
+					<h2>Distribution</h2>
+				</div>
+				<div>
+					<textarea id="distribution">
 						<?php 
 						echo $row['distribution'];
 						?> 
-</textarea>
-</div>
-<div>
-<a href="buh.php" style="align:right">Edit</a>
-</div>
-</div>
-</td>
-<td width="20">&nbsp;</td>
-</tr>
+					</textarea>
+				</div>
+				<div>
+					<a href="buh.php" style="align:right">Edit</a>
+				</div>
+			</div>
+		</td>
+		<td width="20">&nbsp;</td>
+	</tr>
 
-<!-- Origin -->
-<tr>
-<td width="20">&nbsp;</td>
-<td>
-<div class="content">
-<div>
-<h2>Origin</h2>
-</div>
-<div>
-<textarea id="origin">
+	<!-- Origin -->
+	<tr>
+		<td width="20">&nbsp;</td>
+		<td>
+			<div class="content">
+				<div>
+					<h2>Origin</h2>
+				</div>
+				<div>
+					<textarea id="origin">
 						<?php 
 						echo $row['origin'];
 						?> 
-</textarea>
-</div>
-<div>
-<a href="buh.php" style="align:right">Edit</a>
-</div>
-</div>
-</td>
-<td width="20">&nbsp;</td>
-</tr>
+					</textarea>
+				</div>
+				<div>
+					<a href="buh.php" style="align:right">Edit</a>
+				</div>
+			</div>
+		</td>
+		<td width="20">&nbsp;</td>
+	</tr>
 
-<!-- Name Derivation -->
-<tr>
-<td width="20">&nbsp;</td>
-<td>
-<div class="content">
-<div>
-<h2>Name Derivation</h2>
-</div>
-<div>
-<textarea id="nameDerivation">
+	<!-- Name Derivation -->
+	<tr>
+		<td width="20">&nbsp;</td>
+		<td>
+			<div class="content">
+				<div>
+					<h2>Name Derivation</h2>
+				</div>
+				<div>
+					<textarea id="nameDerivation">
 						<?php 
 						echo $row['nameDerivation'];
 						?> 
-</textarea>
-</div>
-<div>
-<a href="buh.php" style="align:right">Edit</a>
-</div>
-</div>
-</td>
-<td width="20">&nbsp;</td>
-</tr>
+					</textarea>
+				</div>
+				<div>
+					<a href="buh.php" style="align:right">Edit</a>
+				</div>
+			</div>
+		</td>
+		<td width="20">&nbsp;</td>
+	</tr>
 
-<!-- Propogation -->
-<tr>
-<td width="20">&nbsp;</td>
-<td>
-<div class="content">
-<div>
-<h2>Propogation</h2>
-</div>
-<div>
-<textarea id="propogation">
+	<!-- Propogation -->
+	<tr>
+		<td width="20">&nbsp;</td>
+		<td>
+			<div class="content">
+				<div>
+					<h2>Propogation</h2>
+				</div>
+				<div>
+					<textarea id="propogation">
 						<?php 
 						echo $row['propogation'];
 						?> 
-</textarea>
-</div>
-<div>
-<a href="buh.php" style="align:right">Edit</a>
-</div>
-</div>
-</td>
-<td width="20">&nbsp;</td>
-</tr>
+					</textarea>
+				</div>
+				<div>
+					<a href="buh.php" style="align:right">Edit</a>
+				</div>
+			</div>
+		</td>
+		<td width="20">&nbsp;</td>
+	</tr>
 
-<!--Conservation Status -->
-<tr>
-<td width="20">&nbsp;</td>
-<td>
-<div class="content">
-<div>
-<h2>Conservation Status</h2>
-<textarea id="conservationStatus">
+	<!--Conservation Status -->
+	<tr>
+		<td width="20">&nbsp;</td>
+		<td>
+			<div class="content">
+				<div>
+					<h2>Conservation Status</h2>
+				</div>
+				<div>
+					<textarea id="conservationStatus">
 						<?php 
 						echo $row['conservationStatus'];
 						?> 
-</textarea>
-</div>
-<div>
-<a href="buh.php" style="align:right">Edit</a>
-</div>
-</div>
-</td>
-<td width="20">&nbsp;</td>
-</tr>
+					</textarea>
+				</div>
+				<div>
+					<a href="buh.php" style="align:right">Edit</a>
+				</div>
+			</div>
+		</td>
+		<td width="20">&nbsp;</td>
+	</tr>
 
 </table>
 

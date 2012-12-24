@@ -6,7 +6,7 @@
 <title>News</title>
 <meta content="text/html; charset=windows-1252" http-equiv="Content-Type">
 <meta content="MSHTML 9.00.8112.16443" name="GENERATOR">
-<link rel="stylesheet" href="style.css" type="text/css">
+<link rel="stylesheet" href="styles/style.css" type="text/css">
 </head>
 
 <body style="font-family: Arial; margin-left: 0; margin: 0; margin: right; margin-top: 0">

@@ -60,3 +60,14 @@ th.headerSortDown {
 	background-position-y:center;
 	background-color: #ffffFF; 
 }
+
+h2
+{
+    color:#ba7025;
+    font-family:ARIAL;
+}
+
+.content
+{
+    padding:0px
+}

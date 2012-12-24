@@ -6,7 +6,7 @@
 <title>Plants</title>
 <meta content="text/html; charset=windows-1252" http-equiv="Content-Type">
 <meta content="MSHTML 9.00.8112.16443" name="GENERATOR">
-<link rel="stylesheet" href="style.css" type="text/css">
+<link rel="stylesheet" href="styles/style.css" type="text/css">
 <script language="JavaScript" type="text/JavaScript">
 <!--
 function MM_swapImgRestore() { //v3.0

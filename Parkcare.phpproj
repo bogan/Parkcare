@@ -34,11 +34,23 @@
     {
     "ProjRelPath" = "T"
     }
-    "birds.php"
+    "backup"
     {
     "ProjRelPath" = "T"
     }
-    "check_firephp.php"
+    "backup\\list(old).php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "backup\\list_copy(1).php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "backup\\specie.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "birds.php"
     {
     "ProjRelPath" = "T"
     }
@@ -130,19 +142,7 @@
     {
     "ProjRelPath" = "T"
     }
-    "go.php"
-    {
-    "ProjRelPath" = "T"
-    }
-    "googlemaps.php"
-    {
-    "ProjRelPath" = "T"
-    }
     "header.php"
-    {
-    "ProjRelPath" = "T"
-    }
-    "hello.php"
     {
     "ProjRelPath" = "T"
     }
@@ -3478,14 +3478,6 @@
     {
     "ProjRelPath" = "T"
     }
-    "insert.html"
-    {
-    "ProjRelPath" = "T"
-    }
-    "insert.php"
-    {
-    "ProjRelPath" = "T"
-    }
     "jquery"
     {
     "ProjRelPath" = "T"
@@ -3538,15 +3530,7 @@
     {
     "ProjRelPath" = "T"
     }
-    "list(old).php"
-    {
-    "ProjRelPath" = "T"
-    }
     "list.php"
-    {
-    "ProjRelPath" = "T"
-    }
-    "list_copy(1).php"
     {
     "ProjRelPath" = "T"
     }
@@ -6346,23 +6330,19 @@
     {
     "ProjRelPath" = "T"
     }
-    "select.php"
+    "scripts"
     {
     "ProjRelPath" = "T"
     }
-    "specie_remove.php"
+    "scripts\\redactor.js"
     {
     "ProjRelPath" = "T"
     }
-    "specie_save.php"
+    "scripts\\redactor.min.js"
     {
     "ProjRelPath" = "T"
     }
-    "specie_update.php"
-    {
-    "ProjRelPath" = "T"
-    }
-    "specie_update_description.php"
+    "specie.php"
     {
     "ProjRelPath" = "T"
     }
@@ -6370,35 +6350,99 @@
     {
     "ProjRelPath" = "T"
     }
-    "species_copy(1).php"
+    "styles"
     {
     "ProjRelPath" = "T"
     }
-    "species_get.php"
+    "styles\\redactor.css"
     {
     "ProjRelPath" = "T"
     }
-    "style.css"
+    "styles\\style.css"
     {
     "ProjRelPath" = "T"
     }
-    "test.php"
+    "test"
     {
     "ProjRelPath" = "T"
     }
-    "update.html"
+    "test\\check_firephp.php"
     {
     "ProjRelPath" = "T"
     }
-    "update.php"
+    "test\\go.php"
     {
     "ProjRelPath" = "T"
     }
-    "update1.php"
+    "test\\googlemaps.php"
     {
     "ProjRelPath" = "T"
     }
-    "update_copy(1).php"
+    "test\\hello.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "test\\insert.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "test\\insert.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "test\\redactor.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "test\\select.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "test\\specie.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "test\\specie_remove.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "test\\specie_save.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "test\\specie_update.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "test\\specie_update_description.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "test\\species_copy(1).php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "test\\species_get.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "test\\test.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "test\\update.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "test\\update.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "test\\update1.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "test\\update_copy(1).php"
     {
     "ProjRelPath" = "T"
     }

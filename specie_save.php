@@ -6,6 +6,8 @@ $name = $_REQUEST['speciesName'];
 $commonName = $_REQUEST['commonName'];
 $exotic = $_REQUEST['exotic'];*/
 $habitat = $_REQUEST['habitat'];
+$characteristics = $_REQUEST['characteristics'];
+
 $idspecies = intval($_REQUEST['idspecies']);
 
 include 'dbinfo.php';
@@ -21,7 +23,8 @@ mysql_select_db("parkcare", $con);
 
 //$sql = "UPDATE species SET name='$_POST[name]',  description='$_POST[description]' WHERE idfamily='$_POST[idfamily]'";
 //$sql = "update species set idgenus='$idgenus', name='$name', commonName='$commonName', habitat='$habitat' where idspecies=$idspecies";
-$sql = "update species set habitat='$habitat' where idspecies=$idspecies";
+//$sql = "update species set habitat='$habitat' where idspecies=$idspecies";
+$sql = "update species set characteristics='$characteristics' where idspecies=$idspecies";
 
 if (!mysql_query($sql,$con))
 {

@@ -36,21 +36,29 @@
                 function () 
                 {
                     $('#redactor').redactor();
+					$('#characteristics').redactor();
                 }
             );
 
 
-                function sendForm() {
-                    //var form = $('#formID');
-                    var stuff = $('#formID').serialize();
-
-                $.ajax({
-                    url: 'specie_save.php',
-                    type: 'post',
-                    data: stuff
-                })
-            ;}
-        </script>
+		function saveHabitat() {
+                    
+			$.ajax({
+                url: 'specie_save.php',
+                type: 'post',
+                data: $('#habitatForm').serialize()
+            })
+        ;}
+		
+		function saveCharacteristics() {
+                    
+			$.ajax({
+                url: 'specie_save.php',
+                type: 'post',
+                data: $('#characteristicsForm').serialize()
+            })
+        ;}
+    </script>
 </head>
 <body leftmargin="0" topmargin="0">
 
@@ -141,15 +149,15 @@ if($_SERVER['REQUEST_METHOD'] != 'POST')
 					<h2>Habitat</h2>
 				</div>
 				<div>
-					<form action="" id="formID" method="post">
+					<form action="" id="habitatForm" method="post">
 						<textarea id="redactor" name="habitat">
-						<?php 
-						echo $row['habitat'];
-						?> 
+							<?php 
+							echo $row['habitat'];
+							?> 
 						</textarea>    
 						<input type="hidden" name="idspecies" value="401">
 					</form>
-					<button onclick="sendForm();">Send</button>
+					<button onclick="saveHabitat();">Save</button>
 				</div>
 				<div>
 					<a href="buh.php" style="align:right">Edit</a>
@@ -168,11 +176,15 @@ if($_SERVER['REQUEST_METHOD'] != 'POST')
 					<h2>Characteristics</h2>
 				</div>
 				<div>
-					<textarea id="characteristics">
-						<?php 
-						echo $row['characteristics'];
-						?> 
-					</textarea>
+					<form action="" id="characteristicsForm" method="post">
+						<textarea id="characteristics" name="characteristics">
+							<?php 
+							echo $row['characteristics'];
+							?> 
+						</textarea>    
+						<input type="hidden" name="idspecies" value="401">
+					</form>
+					<button onclick="saveCharacteristics();">Save</button>
 				</div>
 				<div>
 					<a href="buh.php" style="align:right">Edit</a>

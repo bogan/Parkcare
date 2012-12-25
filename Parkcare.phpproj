@@ -6346,6 +6346,10 @@
     {
     "ProjRelPath" = "T"
     }
+    "specie_save.php"
+    {
+    "ProjRelPath" = "T"
+    }
     "species.php"
     {
     "ProjRelPath" = "T"
@@ -6363,6 +6367,10 @@
     "ProjRelPath" = "T"
     }
     "test"
+    {
+    "ProjRelPath" = "T"
+    }
+    "test\\ajax.php"
     {
     "ProjRelPath" = "T"
     }

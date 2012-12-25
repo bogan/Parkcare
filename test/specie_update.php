@@ -13,7 +13,7 @@ $firephp = FirePHP::getInstance(true);
 $firephp->log('Plain Fred Message');     // or FB::
 
 
-require("dbinfo.php");
+require("/dbinfo.php");
 $conn = @mysql_connect($username,$password,$database);
 
 if (!$conn) {

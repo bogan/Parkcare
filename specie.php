@@ -9,7 +9,7 @@
 	<link rel="stylesheet" href="/styles/redactor.css" />
 	<script src="/scripts/redactor.js"></script>
 	<script type="text/javascript">
-	$(document).ready(
+	/*$(document).ready(
 		function()
 		{
 			$('#habitat').redactor();
@@ -21,9 +21,36 @@
 			$('#conservationStatus').redactor();
 		}
 	);
+	
+	function sendForm1(){    
+		$.ajax({  
+			type: "POST",  
+			url: "some.php",  
+			data: { name: "John", location: "Boston" }
+		});
+	}*/
+	
 	</script>
-				
+	<script type="text/javascript">
+            $(document).ready(
+                function () 
+                {
+                    $('#redactor').redactor();
+                }
+            );
 
+
+                function sendForm() {
+                    //var form = $('#formID');
+                    var stuff = $('#formID').serialize();
+
+                $.ajax({
+                    url: 'specie_save.php',
+                    type: 'post',
+                    data: stuff
+                })
+            ;}
+        </script>
 </head>
 <body leftmargin="0" topmargin="0">
 
@@ -44,12 +71,14 @@ if (!$con)
 
 mysql_select_db("parkcare", $con);
 
-//$result = mysql_query("SELECT * FROM Family where idfamily = 108");
-$result = mysql_query("SELECT * FROM all_species where idSpecies = 401");
 
-while($row = mysql_fetch_array($result))
+if($_SERVER['REQUEST_METHOD'] != 'POST')
 {
+	//$result = mysql_query("SELECT * FROM Family where idfamily = 108");
+	$result = mysql_query("SELECT * FROM all_species where idSpecies = 401");
 
+	while($row = mysql_fetch_array($result))
+	{
 ?>
 
 <table align="center" cellpadding="10" width="800">
@@ -67,9 +96,9 @@ while($row = mysql_fetch_array($result))
 			</div>
 			<div>
 				<p>
-								<?php 
-								echo $row['genusName'] . " " . $row['speciesName'];
-								?> 
+						<?php 
+						echo $row['genusName'] . " " . $row['speciesName'];
+						?> 
 				</p>
 			</div>
 			<div>
@@ -88,16 +117,16 @@ while($row = mysql_fetch_array($result))
 				<div>
 					<h2>Common Name</h2>
 				</div>
-			<div>
-				<p>
+				<div>
+					<p>
 						<?php 
 						echo $row['commonName'];
 						?>
-				</p>
-			</div>
-			<div>
-				<a href="buh.php" style="align:right">Edit</a>
-			</div>
+					</p>
+				</div>
+				<div>
+					<a href="buh.php" style="align:right">Edit</a>
+				</div>
 			</div>
 		</td>
 		<td width="20">&nbsp;</td>
@@ -112,11 +141,15 @@ while($row = mysql_fetch_array($result))
 					<h2>Habitat</h2>
 				</div>
 				<div>
-					<textarea id="habitat">
+					<form action="" id="formID" method="post">
+						<textarea id="redactor" name="habitat">
 						<?php 
 						echo $row['habitat'];
 						?> 
-					</textarea>
+						</textarea>    
+						<input type="hidden" name="idspecies" value="401">
+					</form>
+					<button onclick="sendForm();">Send</button>
 				</div>
 				<div>
 					<a href="buh.php" style="align:right">Edit</a>
@@ -267,7 +300,13 @@ while($row = mysql_fetch_array($result))
 </table>
 
 <?php
+	}
 }
+else
+{
+	
+	
+} 
 mysql_close($con);
 ?>
 

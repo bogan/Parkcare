@@ -1,10 +1,6 @@
 <?php
 
 
-/*$idgenus = intval($_REQUEST['idgenus']);
-$name = $_REQUEST['speciesName'];
-$commonName = $_REQUEST['commonName'];
-$exotic = $_REQUEST['exotic'];*/
 $habitat = $_REQUEST['habitat'];
 $characteristics = $_REQUEST['characteristics'];
 $distribution = $_REQUEST['distribution'];
@@ -27,9 +23,6 @@ if (!$con)
 mysql_select_db("parkcare", $con);
 
 $sql = "";
-
-//$sql = "UPDATE species SET name='$_POST[name]',  description='$_POST[description]' WHERE idfamily='$_POST[idfamily]'";
-//$sql = "update species set idgenus='$idgenus', name='$name', commonName='$commonName', habitat='$habitat' where idspecies=$idspecies";
 
 if($habitat != null)
 {
@@ -62,11 +55,7 @@ elseif($conservationStatus != null)
 
 if (!mysql_query($sql,$con))
 {
-	$fred = mysql_error();
-	echo mysql_error();
-	//die('Error: ' . mysql_error());
+	die('Error: ' . mysql_error());
 }
-
-//echo stripslashes($_POST['habitat']);
 
 ?>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>	
-	<title>Fixed toolbar</title>
+	<title>Specie</title>
 
 	<meta charset="utf-8">
 	<link href="styles/style.css" rel="stylesheet" type="text/css">
@@ -9,42 +9,18 @@
 	<link rel="stylesheet" href="/styles/redactor.css" />
 	<script src="/scripts/redactor.js"></script>
 	<script type="text/javascript">
-	/*$(document).ready(
-		function()
-		{
-			$('#habitat').redactor();
-			$('#characteristics').redactor();
-			$('#distribution').redactor();
-			$('#origin').redactor();
-			$('#nameDerivation').redactor();
-			$('#propogation').redactor();
-			$('#conservationStatus').redactor();
-		}
-	);
-	
-	function sendForm1(){    
-		$.ajax({  
-			type: "POST",  
-			url: "some.php",  
-			data: { name: "John", location: "Boston" }
-		});
-	}*/
-	
-	</script>
-	<script type="text/javascript">
-            $(document).ready(
-                function () 
-                {
-                    $('#redactor').redactor();
-					$('#characteristics').redactor();
-					$('#distribution').redactor();
-					$('#origin').redactor();
-					$('#nameDerivation').redactor();
-					$('#propogation').redactor();
-					$('#conservationStatus').redactor();
-                }
-            );
-
+        $(document).ready(
+            function () 
+            {
+                //$('#habitat').redactor();
+				//$('#characteristics').redactor();
+				//$('#distribution').redactor();
+				//$('#origin').redactor();
+				//$('#nameDerivation').redactor();
+				//$('#propogation').redactor();
+				//$('#conservationStatus').redactor();
+            }
+        );
 
 		function saveHabitat() {
                     
@@ -53,6 +29,8 @@
                 type: 'post',
                 data: $('#habitatForm').serialize()
             })
+			
+			$('#habitat').destroyEditor();
         ;}
 		
 		function saveCharacteristics() {
@@ -62,6 +40,8 @@
                 type: 'post',
                 data: $('#characteristicsForm').serialize()
             })
+			
+			$('#characteristics').destroyEditor();
         ;}
 		
 		function saveDistribution() {
@@ -71,6 +51,8 @@
                 type: 'post',
                 data: $('#distributionForm').serialize()
             })
+			
+			$('#distribution').destroyEditor();
         ;}
 		
 		function saveOrigin() {
@@ -80,6 +62,8 @@
                 type: 'post',
                 data: $('#originForm').serialize()
             })
+			
+			$('#origin').destroyEditor();
         ;}
 		
 		function saveNameDerivation() {
@@ -89,6 +73,8 @@
                 type: 'post',
                 data: $('#nameDerivationForm').serialize()
             })
+			
+			$('#nameDerivation').destroyEditor();
         ;}
 		
 		function savePropogation() {
@@ -98,6 +84,8 @@
                 type: 'post',
                 data: $('#propogationForm').serialize()
             })
+			
+			$('#propogation').destroyEditor();
         ;}
 		
 		function saveConservationStatus() {
@@ -107,8 +95,44 @@
                 type: 'post',
                 data: $('#conservationStatus').serialize()
             })
+			
+			$('#conservationStatus').destroyEditor();
         ;}
 		
+		function editHabitat() {
+                    
+			$('#habitat').redactor({ focus: true });
+        ;}
+		
+		function editCharacteristics() {
+                    
+			$('#characteristics').redactor({ focus: true });
+        ;}
+		
+		function editDistribution() {
+                    
+			$('#distribution').redactor({ focus: true });
+        ;}
+		
+		function editOrigin() {
+                    
+			$('#origin').redactor({ focus: true });
+        ;}
+		
+		function editNameDerivation() {
+                    
+			$('#nameDerivation').redactor({ focus: true });
+        ;}
+		
+		function editPropogation() {
+                    
+			$('#propogation').redactor({ focus: true });
+        ;}
+		
+		function editConservationStatus() {
+                    
+			$('#conservationStatus').redactor({ focus: true });
+        ;}
 		
 		
 		
@@ -133,14 +157,10 @@ if (!$con)
 
 mysql_select_db("parkcare", $con);
 
+$result = mysql_query("SELECT * FROM all_species where idSpecies = 401");
 
-if($_SERVER['REQUEST_METHOD'] != 'POST')
+while($row = mysql_fetch_array($result))
 {
-	//$result = mysql_query("SELECT * FROM Family where idfamily = 108");
-	$result = mysql_query("SELECT * FROM all_species where idSpecies = 401");
-
-	while($row = mysql_fetch_array($result))
-	{
 ?>
 
 <table align="center" cellpadding="10" width="800">
@@ -204,17 +224,17 @@ if($_SERVER['REQUEST_METHOD'] != 'POST')
 				</div>
 				<div>
 					<form action="" id="habitatForm" method="post">
-						<textarea id="redactor" name="habitat">
+						<div id="habitat" name="habitat">
 							<?php 
 							echo $row['habitat'];
 							?> 
-						</textarea>    
+						</div>    
 						<input type="hidden" name="idspecies" value="401">
 					</form>
-					<button onclick="saveHabitat();">Save</button>
 				</div>
 				<div>
-					<a href="buh.php" style="align:right">Edit</a>
+					<a href="#" onclick="editHabitat();" style="align:right">Edit</a>
+					<a href="#" onclick="saveHabitat();" style="align:right">Save</a>
 				</div>
 			</div>	
 		</td>
@@ -231,17 +251,17 @@ if($_SERVER['REQUEST_METHOD'] != 'POST')
 				</div>
 				<div>
 					<form action="" id="characteristicsForm" method="post">
-						<textarea id="characteristics" name="characteristics">
+						<div id="characteristics" name="characteristics">
 							<?php 
 							echo $row['characteristics'];
 							?> 
-						</textarea>    
+						</div>    
 						<input type="hidden" name="idspecies" value="401">
 					</form>
-					<button onclick="saveCharacteristics();">Save</button>
 				</div>
 				<div>
-					<a href="buh.php" style="align:right">Edit</a>
+					<a href="#" onclick="editCharacteristics();" style="align:right">Edit</a>
+					<a href="#" onclick="saveCharacteristics();" style="align:right">Save</a>
 				</div>
 			</div>
 		</td>
@@ -258,17 +278,17 @@ if($_SERVER['REQUEST_METHOD'] != 'POST')
 				</div>
 				<div>
 					<form action="" id="distributionForm" method="post">
-						<textarea id="distribution" name="distribution">
+						<div id="distribution" name="distribution">
 							<?php 
 							echo $row['distribution'];
 							?> 
-						</textarea>    
+						</div>    
 						<input type="hidden" name="idspecies" value="401">
 					</form>
-					<button onclick="saveDistribution();">Save</button>
 				</div>
 				<div>
-					<a href="buh.php" style="align:right">Edit</a>
+					<a href="#" onclick="editDistribution();" style="align:right">Edit</a>
+					<a href="#" onclick="saveDistribution();" style="align:right">Save</a>
 				</div>
 			</div>
 		</td>
@@ -285,17 +305,17 @@ if($_SERVER['REQUEST_METHOD'] != 'POST')
 				</div>
 				<div>
 					<form action="" id="originForm" method="post">
-						<textarea id="origin" name="origin">
+						<div id="origin" name="origin">
 							<?php 
 							echo $row['origin'];
 							?> 
-						</textarea>    
+						</div>    
 						<input type="hidden" name="idspecies" value="401">
 					</form>
-					<button onclick="saveOrigin();">Save</button>
 				</div>
 				<div>
-					<a href="buh.php" style="align:right">Edit</a>
+					<a href="#" onclick="editOrigin();" style="align:right">Edit</a>
+					<a href="#" onclick="saveOrigin();" style="align:right">Save</a>
 				</div>
 			</div>
 		</td>
@@ -312,17 +332,17 @@ if($_SERVER['REQUEST_METHOD'] != 'POST')
 				</div>
 				<div>
 					<form action="" id="nameDerivationForm" method="post">
-						<textarea id="nameDerivation" name="nameDerivation">
+						<div id="nameDerivation" name="nameDerivation">
 							<?php 
 							echo $row['nameDerivation'];
 							?> 
-						</textarea>    
+						</div>    
 						<input type="hidden" name="idspecies" value="401">
 					</form>
-					<button onclick="saveNameDerivation();">Save</button>
 				</div>
 				<div>
-					<a href="buh.php" style="align:right">Edit</a>
+					<a href="#" onclick="editNameDerivation();" style="align:right">Edit</a>
+					<a href="#" onclick="saveNameDerivation();" style="align:right">Save</a>
 				</div>
 			</div>
 		</td>
@@ -339,17 +359,17 @@ if($_SERVER['REQUEST_METHOD'] != 'POST')
 				</div>
 				<div>
 					<form action="" id="propogationForm" method="post">
-						<textarea id="propogation" name="propogation">
+						<div id="propogation" name="propogation">
 							<?php 
 							echo $row['propogation'];
 							?> 
-						</textarea>    
+						</div>    
 						<input type="hidden" name="idspecies" value="401">
 					</form>
-					<button onclick="savePropogation();">Save</button>
 				</div>
 				<div>
-					<a href="buh.php" style="align:right">Edit</a>
+					<a href="#" onclick="editPropogation();" style="align:right">Edit</a>
+					<a href="#" onclick="savePropogation();" style="align:right">Save</a>
 				</div>
 			</div>
 		</td>
@@ -366,17 +386,17 @@ if($_SERVER['REQUEST_METHOD'] != 'POST')
 				</div>
 				<div>
 					<form action="" id="conservationStatusForm" method="post">
-						<textarea id="conservationStatus" name="conservationStatus">
+						<div id="conservationStatus" name="conservationStatus">
 							<?php 
 							echo $row['conservationStatus'];
 							?> 
-						</textarea>    
+						</div>    
 						<input type="hidden" name="idspecies" value="401">
 					</form>
-					<button onclick="saveConservationStatus();">Save</button>
 				</div>
 				<div>
-					<a href="buh.php" style="align:right">Edit</a>
+					<a href="#" onclick="editConservationStatus();" style="align:right">Edit</a>
+					<a href="#" onclick="saveConservationStatus();" style="align:right">Save</a>
 				</div>
 			</div>
 		</td>
@@ -386,13 +406,8 @@ if($_SERVER['REQUEST_METHOD'] != 'POST')
 </table>
 
 <?php
-	}
 }
-else
-{
-	
-	
-} 
+
 mysql_close($con);
 ?>
 

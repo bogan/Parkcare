@@ -38,6 +38,10 @@
                     $('#redactor').redactor();
 					$('#characteristics').redactor();
 					$('#distribution').redactor();
+					$('#origin').redactor();
+					$('#nameDerivation').redactor();
+					$('#propogation').redactor();
+					$('#conservationStatus').redactor();
                 }
             );
 
@@ -68,6 +72,46 @@
                 data: $('#distributionForm').serialize()
             })
         ;}
+		
+		function saveOrigin() {
+                    
+			$.ajax({
+                url: 'specie_save.php',
+                type: 'post',
+                data: $('#originForm').serialize()
+            })
+        ;}
+		
+		function saveNameDerivation() {
+                    
+			$.ajax({
+                url: 'specie_save.php',
+                type: 'post',
+                data: $('#nameDerivationForm').serialize()
+            })
+        ;}
+		
+		function savePropogation() {
+                    
+			$.ajax({
+                url: 'specie_save.php',
+                type: 'post',
+                data: $('#propogationForm').serialize()
+            })
+        ;}
+		
+		function saveConservationStatus() {
+                    
+			$.ajax({
+                url: 'specie_save.php',
+                type: 'post',
+                data: $('#conservationStatus').serialize()
+            })
+        ;}
+		
+		
+		
+		
     </script>
 </head>
 <body leftmargin="0" topmargin="0">
@@ -220,7 +264,7 @@ if($_SERVER['REQUEST_METHOD'] != 'POST')
 							?> 
 						</textarea>    
 						<input type="hidden" name="idspecies" value="401">
-						</form>
+					</form>
 					<button onclick="saveDistribution();">Save</button>
 				</div>
 				<div>
@@ -240,11 +284,15 @@ if($_SERVER['REQUEST_METHOD'] != 'POST')
 					<h2>Origin</h2>
 				</div>
 				<div>
-					<textarea id="origin">
-						<?php 
-						echo $row['origin'];
-						?> 
-					</textarea>
+					<form action="" id="originForm" method="post">
+						<textarea id="origin" name="origin">
+							<?php 
+							echo $row['origin'];
+							?> 
+						</textarea>    
+						<input type="hidden" name="idspecies" value="401">
+					</form>
+					<button onclick="saveOrigin();">Save</button>
 				</div>
 				<div>
 					<a href="buh.php" style="align:right">Edit</a>
@@ -263,11 +311,15 @@ if($_SERVER['REQUEST_METHOD'] != 'POST')
 					<h2>Name Derivation</h2>
 				</div>
 				<div>
-					<textarea id="nameDerivation">
-						<?php 
-						echo $row['nameDerivation'];
-						?> 
-					</textarea>
+					<form action="" id="nameDerivationForm" method="post">
+						<textarea id="nameDerivation" name="nameDerivation">
+							<?php 
+							echo $row['nameDerivation'];
+							?> 
+						</textarea>    
+						<input type="hidden" name="idspecies" value="401">
+					</form>
+					<button onclick="saveNameDerivation();">Save</button>
 				</div>
 				<div>
 					<a href="buh.php" style="align:right">Edit</a>
@@ -286,11 +338,15 @@ if($_SERVER['REQUEST_METHOD'] != 'POST')
 					<h2>Propogation</h2>
 				</div>
 				<div>
-					<textarea id="propogation">
-						<?php 
-						echo $row['propogation'];
-						?> 
-					</textarea>
+					<form action="" id="propogationForm" method="post">
+						<textarea id="propogation" name="propogation">
+							<?php 
+							echo $row['propogation'];
+							?> 
+						</textarea>    
+						<input type="hidden" name="idspecies" value="401">
+					</form>
+					<button onclick="savePropogation();">Save</button>
 				</div>
 				<div>
 					<a href="buh.php" style="align:right">Edit</a>
@@ -309,11 +365,15 @@ if($_SERVER['REQUEST_METHOD'] != 'POST')
 					<h2>Conservation Status</h2>
 				</div>
 				<div>
-					<textarea id="conservationStatus">
-						<?php 
-						echo $row['conservationStatus'];
-						?> 
-					</textarea>
+					<form action="" id="conservationStatusForm" method="post">
+						<textarea id="conservationStatus" name="conservationStatus">
+							<?php 
+							echo $row['conservationStatus'];
+							?> 
+						</textarea>    
+						<input type="hidden" name="idspecies" value="401">
+					</form>
+					<button onclick="saveConservationStatus();">Save</button>
 				</div>
 				<div>
 					<a href="buh.php" style="align:right">Edit</a>

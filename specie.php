@@ -19,6 +19,14 @@
 				//$('#nameDerivation').redactor();
 				//$('#propogation').redactor();
 				//$('#conservationStatus').redactor();
+				
+				$('#saveHabitat').hide();
+				$('#saveCharacteristics').hide();
+				$('#saveDistribution').hide();
+				$('#saveOrigin').hide();
+				$('#saveNameDerivation').hide();
+				$('#savePropogation').hide();
+				$('#saveConservationStatus').hide();
             }
         );
 
@@ -31,6 +39,8 @@
             })
 			
 			$('#habitat').destroyEditor();
+			$('#editHabitat').show();
+			$('#saveHabitat').hide();
         ;}
 		
 		function saveCharacteristics() {
@@ -42,6 +52,8 @@
             })
 			
 			$('#characteristics').destroyEditor();
+			$('#editCharacteristics').show();
+			$('#saveCharacteristics').hide();
         ;}
 		
 		function saveDistribution() {
@@ -53,6 +65,8 @@
             })
 			
 			$('#distribution').destroyEditor();
+			$('#editDistribution').show();
+			$('#saveDistribution').hide();
         ;}
 		
 		function saveOrigin() {
@@ -64,6 +78,8 @@
             })
 			
 			$('#origin').destroyEditor();
+			$('#editOrigin').show();
+			$('#saveOrigin').hide();
         ;}
 		
 		function saveNameDerivation() {
@@ -75,6 +91,8 @@
             })
 			
 			$('#nameDerivation').destroyEditor();
+			$('#editNameDerivation').show();
+			$('#saveNameDerivation').hide();
         ;}
 		
 		function savePropogation() {
@@ -86,6 +104,8 @@
             })
 			
 			$('#propogation').destroyEditor();
+			$('#editPropogation').show();
+			$('#savePropogation').hide();
         ;}
 		
 		function saveConservationStatus() {
@@ -97,41 +117,57 @@
             })
 			
 			$('#conservationStatus').destroyEditor();
+			$('#editConservationStatus').show();
+			$('#saveConservationStatus').hide();
         ;}
 		
 		function editHabitat() {
                     
 			$('#habitat').redactor({ focus: true });
+			$('#editHabitat').hide();
+			$('#saveHabitat').show();
         ;}
 		
 		function editCharacteristics() {
                     
 			$('#characteristics').redactor({ focus: true });
+			$('#editCharacteristics').hide();
+			$('#saveCharacteristics').show();
         ;}
 		
 		function editDistribution() {
                     
 			$('#distribution').redactor({ focus: true });
+			$('#editDistribution').hide();
+			$('#saveDistribution').show();
         ;}
 		
 		function editOrigin() {
                     
 			$('#origin').redactor({ focus: true });
+			$('#editOrigin').hide();
+			$('#saveOrigin').show();
         ;}
 		
 		function editNameDerivation() {
                     
 			$('#nameDerivation').redactor({ focus: true });
+			$('#editDerivation').hide();
+			$('#saveDerivation').show();
         ;}
 		
 		function editPropogation() {
                     
 			$('#propogation').redactor({ focus: true });
+			$('#editPropogation').hide();
+			$('#savePropogation').show();
         ;}
 		
 		function editConservationStatus() {
                     
 			$('#conservationStatus').redactor({ focus: true });
+			$('#editConservationStatus').hide();
+			$('#saveConservationStatus').show();
         ;}
 		
 		
@@ -171,21 +207,21 @@ while($row = mysql_fetch_array($result))
 	<!-- Scientfic Name -->
 	<tr>
 		<td width="20">&nbsp;</td>
-	<td>
-		<div class="content">
-			<div>
-				<h2>Scientific Name</h2>
-			</div>
-			<div>
-				<p>
+		<td>
+			<div class="content">
+				<div>
+					<h2>Scientific Name</h2>
+				</div>
+				<div>
+					<p>
 						<?php 
 						echo $row['genusName'] . " " . $row['speciesName'];
 						?> 
-				</p>
+					</p>
+				</div>
 			</div>
-		</div>
-	</td>
-	<td width="20">&nbsp;</td>
+		</td>
+		<td width="20">&nbsp;</td>
 	</tr>
 
 	<!-- Common Name -->
@@ -219,8 +255,8 @@ while($row = mysql_fetch_array($result))
 					</div>
 					<div style="float:right;height:70px">
 						<div  style="padding:19px 0px 19px 0px">
-							<a href="#" onclick="editHabitat();">Edit</a>
-							<a href="#" onclick="saveHabitat();">Save</a>
+							<a id="editHabitat" href="#" onclick="editHabitat();">Edit</a>
+							<a id="saveHabitat" href="#" onclick="saveHabitat();">Save</a>
 						</div>
 					</div>
 				</div>
@@ -249,8 +285,8 @@ while($row = mysql_fetch_array($result))
 				</div>
 				<div style="float:right;height:70px">
 					<div  style="padding:19px 0px 19px 0px">
-						<a href="#" onclick="editCharacteristics();">Edit</a>
-						<a href="#" onclick="saveCharacteristics();">Save</a>
+						<a id="editCharacteristics" href="#" onclick="editCharacteristics();">Edit</a>
+						<a id="saveCharacteristics" href="#" onclick="saveCharacteristics();">Save</a>
 					</div>
 				</div>
 				<div style="clear:both">
@@ -278,8 +314,8 @@ while($row = mysql_fetch_array($result))
 				</div>
 				<div style="float:right;height:70px">
 					<div  style="padding:19px 0px 19px 0px">
-						<a href="#" onclick="editDistribution();">Edit</a>
-						<a href="#" onclick="saveDistribution();">Save</a>
+						<a id="editDistribution" href="#" onclick="editDistribution();">Edit</a>
+						<a id="saveDistribution" href="#" onclick="saveDistribution();">Save</a>
 					</div>
 				</div>
 				<div style="clear:both">
@@ -307,8 +343,8 @@ while($row = mysql_fetch_array($result))
 				</div>
 				<div style="float:right;height:70px">
 					<div  style="padding:19px 0px 19px 0px">
-						<a href="#" onclick="editOrigin();">Edit</a>
-						<a href="#" onclick="saveOrigin();">Save</a>
+						<a id="editOrigin" href="#" onclick="editOrigin();">Edit</a>
+						<a id="saveOrigin" href="#" onclick="saveOrigin();">Save</a>
 					</div>
 				</div>
 				<div style="clear:both">
@@ -336,8 +372,8 @@ while($row = mysql_fetch_array($result))
 				</div>
 				<div style="float:right;height:70px">
 					<div  style="padding:19px 0px 19px 0px">
-						<a href="#" onclick="editNameDerivation();">Edit</a>
-						<a href="#" onclick="saveNameDerivation();">Save</a>
+						<a id="editNameDerivation" href="#" onclick="editNameDerivation();">Edit</a>
+						<a id="saveNameDerivation" href="#" onclick="saveNameDerivation();">Save</a>
 					</div>
 				</div>
 				<div style="clear:both">
@@ -365,8 +401,8 @@ while($row = mysql_fetch_array($result))
 				</div>
 				<div style="float:right;height:70px">
 					<div  style="padding:19px 0px 19px 0px">
-						<a href="#" onclick="editPropogation();">Edit</a>
-						<a href="#" onclick="savePropogation();">Save</a>
+						<a id="editPropogation" href="#" onclick="editPropogation();">Edit</a>
+						<a id="savePropogation" href="#" onclick="savePropogation();">Save</a>
 					</div>
 				</div>
 				<div style="clear:both">
@@ -394,8 +430,8 @@ while($row = mysql_fetch_array($result))
 				</div>
 				<div style="float:right;height:70px">
 					<div  style="padding:19px 0px 19px 0px">
-						<a href="#" onclick="editConservationStatus();">Edit</a>
-						<a href="#" onclick="saveConservationStatus();">Save</a>
+						<a id="editConservationStatus" href="#" onclick="editConservationStatus();">Edit</a>
+						<a id="saveConservationStatus" href="#" onclick="saveConservationStatus();">Save</a>
 					</div>
 				</div>
 				<div style="clear:both">

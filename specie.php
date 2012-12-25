@@ -37,6 +37,7 @@
                 {
                     $('#redactor').redactor();
 					$('#characteristics').redactor();
+					$('#distribution').redactor();
                 }
             );
 
@@ -56,6 +57,15 @@
                 url: 'specie_save.php',
                 type: 'post',
                 data: $('#characteristicsForm').serialize()
+            })
+        ;}
+		
+		function saveDistribution() {
+                    
+			$.ajax({
+                url: 'specie_save.php',
+                type: 'post',
+                data: $('#distributionForm').serialize()
             })
         ;}
     </script>
@@ -203,11 +213,15 @@ if($_SERVER['REQUEST_METHOD'] != 'POST')
 					<h2>Distribution</h2>
 				</div>
 				<div>
-					<textarea id="distribution">
-						<?php 
-						echo $row['distribution'];
-						?> 
-					</textarea>
+					<form action="" id="distributionForm" method="post">
+						<textarea id="distribution" name="distribution">
+							<?php 
+							echo $row['distribution'];
+							?> 
+						</textarea>    
+						<input type="hidden" name="idspecies" value="401">
+						</form>
+					<button onclick="saveDistribution();">Save</button>
 				</div>
 				<div>
 					<a href="buh.php" style="align:right">Edit</a>

@@ -7,6 +7,7 @@ $commonName = $_REQUEST['commonName'];
 $exotic = $_REQUEST['exotic'];*/
 $habitat = $_REQUEST['habitat'];
 $characteristics = $_REQUEST['characteristics'];
+$distribution = $_REQUEST['distribution'];
 
 $idspecies = intval($_REQUEST['idspecies']);
 
@@ -21,10 +22,23 @@ if (!$con)
 
 mysql_select_db("parkcare", $con);
 
+$sql = "";
+
 //$sql = "UPDATE species SET name='$_POST[name]',  description='$_POST[description]' WHERE idfamily='$_POST[idfamily]'";
 //$sql = "update species set idgenus='$idgenus', name='$name', commonName='$commonName', habitat='$habitat' where idspecies=$idspecies";
-//$sql = "update species set habitat='$habitat' where idspecies=$idspecies";
-$sql = "update species set characteristics='$characteristics' where idspecies=$idspecies";
+
+if($habitat != null)
+{
+	$sql = "update species set habitat='$habitat' where idspecies=$idspecies";
+}
+elseif($characteristics != null)
+{
+	$sql = "update species set characteristics='$characteristics' where idspecies=$idspecies";
+}
+elseif($distribution != null)
+{
+	$sql = "update species set distribution='$distribution' where idspecies=$idspecies";
+}
 
 if (!mysql_query($sql,$con))
 {

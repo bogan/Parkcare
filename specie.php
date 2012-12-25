@@ -183,9 +183,6 @@ while($row = mysql_fetch_array($result))
 						?> 
 				</p>
 			</div>
-			<div>
-				<a href="buh.php" style="align:right">Edit</a>
-			</div>
 		</div>
 	</td>
 	<td width="20">&nbsp;</td>
@@ -206,9 +203,6 @@ while($row = mysql_fetch_array($result))
 						?>
 					</p>
 				</div>
-				<div>
-					<a href="buh.php" style="align:right">Edit</a>
-				</div>
 			</div>
 		</td>
 		<td width="20">&nbsp;</td>
@@ -220,9 +214,17 @@ while($row = mysql_fetch_array($result))
 		<td>
 			<div class="content">
 				<div>
-					<h2>Habitat</h2>
+					<div style="float:left">
+						<h2>Habitat</h2>
+					</div>
+					<div style="float:right;height:70px">
+						<div  style="padding:19px 0px 19px 0px">
+							<a href="#" onclick="editHabitat();">Edit</a>
+							<a href="#" onclick="saveHabitat();">Save</a>
+						</div>
+					</div>
 				</div>
-				<div>
+				<div style="clear:both">
 					<form action="" id="habitatForm" method="post">
 						<div id="habitat" name="habitat">
 							<?php 
@@ -231,10 +233,6 @@ while($row = mysql_fetch_array($result))
 						</div>    
 						<input type="hidden" name="idspecies" value="401">
 					</form>
-				</div>
-				<div>
-					<a href="#" onclick="editHabitat();" style="align:right">Edit</a>
-					<a href="#" onclick="saveHabitat();" style="align:right">Save</a>
 				</div>
 			</div>	
 		</td>
@@ -246,10 +244,16 @@ while($row = mysql_fetch_array($result))
 		<td width="20">&nbsp;</td>
 		<td>
 			<div class="content">
-				<div>
+				<div style="float:left">
 					<h2>Characteristics</h2>
 				</div>
-				<div>
+				<div style="float:right;height:70px">
+					<div  style="padding:19px 0px 19px 0px">
+						<a href="#" onclick="editCharacteristics();">Edit</a>
+						<a href="#" onclick="saveCharacteristics();">Save</a>
+					</div>
+				</div>
+				<div style="clear:both">
 					<form action="" id="characteristicsForm" method="post">
 						<div id="characteristics" name="characteristics">
 							<?php 
@@ -258,10 +262,6 @@ while($row = mysql_fetch_array($result))
 						</div>    
 						<input type="hidden" name="idspecies" value="401">
 					</form>
-				</div>
-				<div>
-					<a href="#" onclick="editCharacteristics();" style="align:right">Edit</a>
-					<a href="#" onclick="saveCharacteristics();" style="align:right">Save</a>
 				</div>
 			</div>
 		</td>
@@ -273,10 +273,16 @@ while($row = mysql_fetch_array($result))
 		<td width="20">&nbsp;</td>
 		<td>
 			<div class="content">
-				<div>
+				<div style="float:left">
 					<h2>Distribution</h2>
 				</div>
-				<div>
+				<div style="float:right;height:70px">
+					<div  style="padding:19px 0px 19px 0px">
+						<a href="#" onclick="editDistribution();">Edit</a>
+						<a href="#" onclick="saveDistribution();">Save</a>
+					</div>
+				</div>
+				<div style="clear:both">
 					<form action="" id="distributionForm" method="post">
 						<div id="distribution" name="distribution">
 							<?php 
@@ -285,10 +291,6 @@ while($row = mysql_fetch_array($result))
 						</div>    
 						<input type="hidden" name="idspecies" value="401">
 					</form>
-				</div>
-				<div>
-					<a href="#" onclick="editDistribution();" style="align:right">Edit</a>
-					<a href="#" onclick="saveDistribution();" style="align:right">Save</a>
 				</div>
 			</div>
 		</td>
@@ -300,10 +302,16 @@ while($row = mysql_fetch_array($result))
 		<td width="20">&nbsp;</td>
 		<td>
 			<div class="content">
-				<div>
+				<div style="float:left">
 					<h2>Origin</h2>
 				</div>
-				<div>
+				<div style="float:right;height:70px">
+					<div  style="padding:19px 0px 19px 0px">
+						<a href="#" onclick="editOrigin();">Edit</a>
+						<a href="#" onclick="saveOrigin();">Save</a>
+					</div>
+				</div>
+				<div style="clear:both">
 					<form action="" id="originForm" method="post">
 						<div id="origin" name="origin">
 							<?php 
@@ -312,10 +320,6 @@ while($row = mysql_fetch_array($result))
 						</div>    
 						<input type="hidden" name="idspecies" value="401">
 					</form>
-				</div>
-				<div>
-					<a href="#" onclick="editOrigin();" style="align:right">Edit</a>
-					<a href="#" onclick="saveOrigin();" style="align:right">Save</a>
 				</div>
 			</div>
 		</td>
@@ -327,10 +331,16 @@ while($row = mysql_fetch_array($result))
 		<td width="20">&nbsp;</td>
 		<td>
 			<div class="content">
-				<div>
+				<div style="float:left">
 					<h2>Name Derivation</h2>
 				</div>
-				<div>
+				<div style="float:right;height:70px">
+					<div  style="padding:19px 0px 19px 0px">
+						<a href="#" onclick="editNameDerivation();">Edit</a>
+						<a href="#" onclick="saveNameDerivation();">Save</a>
+					</div>
+				</div>
+				<div style="clear:both">
 					<form action="" id="nameDerivationForm" method="post">
 						<div id="nameDerivation" name="nameDerivation">
 							<?php 
@@ -339,10 +349,6 @@ while($row = mysql_fetch_array($result))
 						</div>    
 						<input type="hidden" name="idspecies" value="401">
 					</form>
-				</div>
-				<div>
-					<a href="#" onclick="editNameDerivation();" style="align:right">Edit</a>
-					<a href="#" onclick="saveNameDerivation();" style="align:right">Save</a>
 				</div>
 			</div>
 		</td>
@@ -354,10 +360,16 @@ while($row = mysql_fetch_array($result))
 		<td width="20">&nbsp;</td>
 		<td>
 			<div class="content">
-				<div>
+				<div style="float:left">
 					<h2>Propogation</h2>
 				</div>
-				<div>
+				<div style="float:right;height:70px">
+					<div  style="padding:19px 0px 19px 0px">
+						<a href="#" onclick="editPropogation();">Edit</a>
+						<a href="#" onclick="savePropogation();">Save</a>
+					</div>
+				</div>
+				<div style="clear:both">
 					<form action="" id="propogationForm" method="post">
 						<div id="propogation" name="propogation">
 							<?php 
@@ -366,10 +378,6 @@ while($row = mysql_fetch_array($result))
 						</div>    
 						<input type="hidden" name="idspecies" value="401">
 					</form>
-				</div>
-				<div>
-					<a href="#" onclick="editPropogation();" style="align:right">Edit</a>
-					<a href="#" onclick="savePropogation();" style="align:right">Save</a>
 				</div>
 			</div>
 		</td>
@@ -381,10 +389,16 @@ while($row = mysql_fetch_array($result))
 		<td width="20">&nbsp;</td>
 		<td>
 			<div class="content">
-				<div>
+				<div style="float:left">
 					<h2>Conservation Status</h2>
 				</div>
-				<div>
+				<div style="float:right;height:70px">
+					<div  style="padding:19px 0px 19px 0px">
+						<a href="#" onclick="editConservationStatus();">Edit</a>
+						<a href="#" onclick="saveConservationStatus();">Save</a>
+					</div>
+				</div>
+				<div style="clear:both">
 					<form action="" id="conservationStatusForm" method="post">
 						<div id="conservationStatus" name="conservationStatus">
 							<?php 
@@ -393,10 +407,6 @@ while($row = mysql_fetch_array($result))
 						</div>    
 						<input type="hidden" name="idspecies" value="401">
 					</form>
-				</div>
-				<div>
-					<a href="#" onclick="editConservationStatus();" style="align:right">Edit</a>
-					<a href="#" onclick="saveConservationStatus();" style="align:right">Save</a>
 				</div>
 			</div>
 		</td>

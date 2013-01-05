@@ -32,6 +32,9 @@
     <TD width=76 align=center><A 
       href="../fire.php"><IMG alt="" border=2 
       src="../images/silhiv.jpg" width=60 height=60></A></TD>
+	<TD width=76 align=center><A 
+      href="../walks.php"><IMG alt="" border=2 
+      src="../images/alice.jpg" width=60 height=60></A></TD>
     <TD width=20>&nbsp;</TD></TR>
   <TR>
     <TD width=20>&nbsp;</TD>
@@ -55,4 +58,6 @@
       href="../fauna.php">Wildlife</A></TD>
     <TD height="30" align="center"><A 
       href="../fire.php">Fire</A></TD>
+	<TD height="30" align="center"><A 
+      href="../dam.php">Dam</A></TD>
     <TD width=20>&nbsp;</TD></TR></TBODY></TABLE>

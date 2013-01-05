@@ -75,6 +75,8 @@
 		<p><a href="news/Aug12.pdf">August 2012</a> </p>
 		<p><a href="news/Sept12.pdf">September 2012</a> </p>
 		<p><a href="news/Oct12.pdf">October 2012</a> </p>
+		<p><a href="news/Oct12.pdf">November 2012</a> </p>
+		<p><a href="news/Oct12.pdf">December 2012</a> </p>
 		</td>
 		<td width="20">&nbsp; </td>
 	</tr>

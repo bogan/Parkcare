@@ -6,7 +6,7 @@
 <title>Dam 2007</title>
 <meta content="text/html; charset=windows-1252" http-equiv="Content-Type">
 <meta content="MSHTML 9.00.8112.16443" name="GENERATOR">
-<link href="/style.css" rel="stylesheet" type="text/css">
+<link href="/styles/style.css" rel="stylesheet" type="text/css">
 </head>
 
 <body leftmargin="0" topmargin="0">

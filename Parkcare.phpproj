@@ -66,10 +66,6 @@
     {
     "ProjRelPath" = "T"
     }
-    "dam\\2004_copy(1).php"
-    {
-    "ProjRelPath" = "T"
-    }
     "dam\\2005.php"
     {
     "ProjRelPath" = "T"
@@ -3290,6 +3286,10 @@
     {
     "ProjRelPath" = "T"
     }
+    "images\\favicon.ico"
+    {
+    "ProjRelPath" = "T"
+    }
     "images\\feb03-13.jpg"
     {
     "ProjRelPath" = "T"
@@ -3799,10 +3799,6 @@
     "ProjRelPath" = "T"
     }
     "pictures.php"
-    {
-    "ProjRelPath" = "T"
-    }
-    "pictures1.php"
     {
     "ProjRelPath" = "T"
     }

@@ -15,7 +15,9 @@ content="Cooleman Ridge is situated between Chapman and Kambah lying north-west 
 <META name=Author content="Karina Pelling">
 <META name=Keywords 
 content="environment, nature park, nature parks, cooleman ridge, parkcare, park care, weeds, walks, bicycle riding, bike riding, horse riding, fire, fires, January 2003">
-<META name=GENERATOR content="MSHTML 9.00.8112.16443"></HEAD>
+<META name=GENERATOR content="MSHTML 9.00.8112.16443">
+<link href="/images/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+</HEAD>
 <BODY>
 <STYLE>TD {
 	FONT-FAMILY: "Arial"

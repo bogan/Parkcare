@@ -24,7 +24,6 @@
 <table width="100%">
 	<tr>
 		<td>
-
 			<table align="left">
 				<tr>
 					<td width="20">&nbsp;</td>

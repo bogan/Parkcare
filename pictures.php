@@ -1,88 +1,78 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<!-- saved from url=(0042)pictures.html -->
+<!DOCTYPE HTML>
 <html>
+	<head>
+		<title>Work Party</title>
+		<meta content="text/html; charset=windows-1252" http-equiv="Content-Type">
+		<meta content="Microsoft Visual Studio 10.0" name="generator">
+		<link rel="stylesheet" href="bootstrap/css/bootstrap.css" type="text/css">
+		<link rel="stylesheet" href="styles/style.css" type="text/css">
+	</head>
 
-<head>
-<title>Pictures</title>
-<meta content="text/html; charset=windows-1252" http-equiv="Content-Type">
-<meta content="MSHTML 9.00.8112.16443" name="GENERATOR">
-<link rel="stylesheet" href="styles/style.css" type="text/css">
-</head>
+	<body>
+		<div class="container">
+			<?php include 'header.php'; ?>
+			<div id="content" class="row">
+				<div class="span12">
+				
+					<p align="right">
+						<a href="members.php">&lt;&lt;&nbsp;Back</a>
+					</p>
+				
+					<h2>Members at Work</h2>
 
-<body leftmargin="0" topmargin="0">
+					<p>
+						The pictures below illustrate some of the 
+						activities which park care members undertake on Cooleman Ridge. 
+					</p>
+				</div>
+			</div>
+			
+			<br>
 
-<?php include 'header.php'; ?>
-<table align="center" cellpadding="0" cellspacing="0">
-	<tr>
-		<td width="20">&nbsp;</td>
-		<td align="left" valign="top"><br>
-		<h2><font color="#ba7025" face="ARIAL">Members at work</font></h2>
-		</td>
-		<td width="20">&nbsp;</td>
-	</tr>
-	<tr>
-		<td width="20">&nbsp;</td>
-		<td><font color="black" size="3">The pictures below illustrate some of the 
-		activities which park care members undertake on Cooleman Ridge. <br>From 
-		left to right: top row - waterwatch, removal of woody weeds, tree surveys;
-		<br>bottom row - removing weeds manually, cutting and spraying invasive 
-		exotics.</font></td>
-		<td width="20">&nbsp;</td>
-	</tr>
-	<tr>
-		<td width="20">&nbsp;</td>
-		<td>
-		<table align="center">
-			<tr>
-				<td colspan="3">&nbsp;</td>
-			</tr>
-			<tr>
-				<td>
-				<img alt="picture" height="134" src="images/alice.jpg" width="200"></td>
-				<td>
-				<img alt="picture" height="134" src="images/pt.jpg" width="200"></td>
-				<td>
-				<img alt="picture" height="134" src="images/jd.jpg" width="200"></td>
-			</tr>
-			<tr>
-				<td colspan="3">&nbsp;</td>
-			</tr>
-			<tr>
-				<td>
-				<img alt="picture" height="133" src="images/doug.png" width="200"></td>
-				<td>
-				<img alt="picture" height="133" src="images/tina.png" width="200"></td>
-				<td>
-				<img alt="picture" height="133" src="images/jan.png" width="200"></td>
-			</tr>
-			<tr>
-				<td colspan="3">&nbsp;</td>
-			</tr>
-		</table>
-		</td>
-	</tr>
-	<tr>
-		<td width="20">&nbsp;</td>
-		<td>Pictures contributed by members.</td>
-	</tr>
-	<tr>
-		<td colspan="3">&nbsp;</td>
-	</tr>
-	<tr>
-		<td width="20">&nbsp;</td>
-		<td><a href="members.php">Back to members' page</a></td>
-		<td width="20">&nbsp;</td>
-	</tr>
-	<tr>
-		<td width="20">&nbsp;</td>
-		<td align="right"><a href="index.php">Home Page</a></td>
-		<td width="20">&nbsp;</td>
-	</tr>
-	<tr>
-		<td colspan="3">&nbsp;</td>
-	</tr>
-</table>
-<?php include 'footer.php'; ?>
-</body>
+			<div class="row">
+				<div class="span5 offset1" style="align:center;text-align:center;">
+					<img alt="picture" height="134" src="images/alice.jpg" width="200" style="margin:20px">
+					<p class="caption">Waterwatch</p>
+					<p>Alice checking the dam for little critters</p>
+				</div>
+				<div class="span5 offset1" style="align:center;text-align:center;">
+					<img alt="picture" height="134" src="images/pt.jpg" width="200" style="margin:20px">
+					<p class="caption">Removal of woody weeds</p>
+					<p>Pauline and Tina inspecting the pyracantha</p>
+				</div>
+			</div>
 
+			<br>
+
+			<div class="row">
+				<div class="span5 offset1" style="align:center;text-align:center;">
+					<img alt="picture" height="134" src="images/jd.jpg" width="200" style="margin:20px">
+					<p class="caption">Tree survey</p>
+					<p>John check's out the health of a eucalypt</p>
+				</div>
+				<div class="span5 offset1" style="align:center;text-align:center;">
+					<img alt="picture" height="133" src="images/doug.png" width="200" style="margin:20px">
+					<p class="caption">Manual weed removal</p>
+					<p>Doug ripping up phalaris</p>
+				</div>
+			</div>
+
+			<br>
+
+			<div class="row">
+				<div class="span5 offset1" style="align:center;text-align:center;">
+					<img alt="picture" height="133" src="images/tina.png" width="200" style="margin:20px">
+					<p class="caption">Hacking out weeds</p>
+					<p>Tina digging up verbascum</p>
+				</div>
+				<div class="span5 offset1" style="align:center;text-align:center;">
+					<img alt="picture" height="133" src="images/jan.png" width="200" style="margin:20px">
+					<p class="caption">Cutting and spraying exotics</p>
+					<p>Janice spraying weeds</p>
+				</div>
+			</div>
+
+			<?php include 'footer.php'; ?>
+		</div>
+	</body>
 </html>

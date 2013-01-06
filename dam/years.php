@@ -6,15 +6,15 @@
 <tr>
 <tr>
 	<td width="20">&nbsp;</td>
-	<td align="left" valign="top">
-		<h2><font color="#ba7025" face="ARIAL">Dam Photos</font></h2>
+	<td align="right" valign="top">
+		<a href="../dam.php">&lt;&lt;&nbsp;Back</a>
 	</td>
 	<td width="20">&nbsp;</td>
 </tr>
 <tr>
 	<td width="20">&nbsp;</td>
-	<td align="right" valign="top">
-		<a href="../dam.php">Back to dam story</a>
+	<td align="left" valign="top">
+		<h2><font color="#ba7025" face="ARIAL">Dam Photos</font></h2>
 	</td>
 	<td width="20">&nbsp;</td>
 </tr>

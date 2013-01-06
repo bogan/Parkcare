@@ -38,6 +38,10 @@
     {
     "ProjRelPath" = "T"
     }
+    "backup\\about.php"
+    {
+    "ProjRelPath" = "T"
+    }
     "backup\\list(old).php"
     {
     "ProjRelPath" = "T"
@@ -51,6 +55,54 @@
     "ProjRelPath" = "T"
     }
     "birds.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "bootstrap"
+    {
+    "ProjRelPath" = "T"
+    }
+    "bootstrap\\css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "bootstrap\\css\\bootstrap-responsive.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "bootstrap\\css\\bootstrap-responsive.min.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "bootstrap\\css\\bootstrap.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "bootstrap\\css\\bootstrap.min.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "bootstrap\\img"
+    {
+    "ProjRelPath" = "T"
+    }
+    "bootstrap\\img\\glyphicons-halflings-white.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "bootstrap\\img\\glyphicons-halflings.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "bootstrap\\js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "bootstrap\\js\\bootstrap.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "bootstrap\\js\\bootstrap.min.js"
     {
     "ProjRelPath" = "T"
     }
@@ -111,10 +163,6 @@
     "ProjRelPath" = "T"
     }
     "dbinfo.php"
-    {
-    "ProjRelPath" = "T"
-    }
-    "families.php"
     {
     "ProjRelPath" = "T"
     }
@@ -3526,27 +3574,11 @@
     {
     "ProjRelPath" = "T"
     }
-    "links.php"
-    {
-    "ProjRelPath" = "T"
-    }
     "list.php"
     {
     "ProjRelPath" = "T"
     }
-    "listnew.php"
-    {
-    "ProjRelPath" = "T"
-    }
     "map.php"
-    {
-    "ProjRelPath" = "T"
-    }
-    "markers.html"
-    {
-    "ProjRelPath" = "T"
-    }
-    "markers.php"
     {
     "ProjRelPath" = "T"
     }
@@ -6338,18 +6370,6 @@
     {
     "ProjRelPath" = "T"
     }
-    "specie.php"
-    {
-    "ProjRelPath" = "T"
-    }
-    "specie_save.php"
-    {
-    "ProjRelPath" = "T"
-    }
-    "species.php"
-    {
-    "ProjRelPath" = "T"
-    }
     "styles"
     {
     "ProjRelPath" = "T"
@@ -6394,6 +6414,22 @@
     {
     "ProjRelPath" = "T"
     }
+    "test\\links.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "test\\listnew.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "test\\markers.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "test\\markers.php"
+    {
+    "ProjRelPath" = "T"
+    }
     "test\\redactor.php"
     {
     "ProjRelPath" = "T"
@@ -6419,6 +6455,10 @@
     "ProjRelPath" = "T"
     }
     "test\\specie_update_description.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "test\\species.php"
     {
     "ProjRelPath" = "T"
     }

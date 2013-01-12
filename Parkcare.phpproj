@@ -202,6 +202,106 @@
     {
     "ProjRelPath" = "T"
     }
+    "fileupload"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fileupload.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fileupload\\cors"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fileupload\\css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fileupload\\img"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fileupload\\js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fileupload\\server"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fileupload\\server\\gae-go"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fileupload\\server\\gae-go\\app"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fileupload\\server\\gae-go\\app.yaml"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fileupload\\server\\gae-go\\static"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fileupload\\server\\gae-python"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fileupload\\server\\gae-python\\app.yaml"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fileupload\\server\\gae-python\\main.py"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fileupload\\server\\gae-python\\static"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fileupload\\server\\node"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fileupload\\server\\node\\.gitignore"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fileupload\\server\\node\\package.json"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fileupload\\server\\node\\public"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fileupload\\server\\node\\server.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fileupload\\server\\node\\tmp"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fileupload\\server\\php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fileupload\\server\\php\\files"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fileupload\\server\\php\\index.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fileupload\\server\\php\\UploadHandler.php"
+    {
+    "ProjRelPath" = "T"
+    }
     "fire.php"
     {
     "ProjRelPath" = "T"

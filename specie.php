@@ -179,32 +179,27 @@
 <body leftmargin="0" topmargin="0">
 	<div class="container">
 
-<?php 
+		<?php 
 
-include('header.php'); 
+		include('header.php'); 
 
-include('dbinfo.php');
+		include('dbinfo.php');
 
-require("connect.php");
+		require("connect.php");
 
-$id = $_GET["id"]; 
+		$id = $_GET["id"]; 
 
-$result = mysql_query("SELECT * FROM all_species where idSpecies = ".$id);
+		$result = mysql_query("SELECT * FROM all_species where idSpecies = ".$id);
 
-while($row = mysql_fetch_array($result))
-{
-?>
+		while($row = mysql_fetch_array($result))
+		{
+		?>
 
-<table align="center" cellpadding="10" width="800">
-	<tr>
-		<td colspan="5">&nbsp;</td>
-	</tr>
 
-	<!-- Specie ID -->
-	<tr>
-		<td width="20">&nbsp;</td>
-		<td>
-			<div class="content">
+
+		<!-- Specie ID -->
+		<div class="row">
+			<div class="span12 content">
 				<div>
 					<h2>Specie ID</h2>
 				</div>
@@ -215,16 +210,12 @@ while($row = mysql_fetch_array($result))
 						?> 
 					</p>
 				</div>
-				</div>
-		</td>
-		<td width="20">&nbsp;</td>
-	</tr>
-
-	<!-- Scientfic Name -->
-	<tr>
-		<td width="20">&nbsp;</td>
-		<td>
-			<div class="content">
+			</div>
+		</div>
+	
+		<!-- Scientfic Name -->
+		<div class="row">
+			<div class="span12 content">
 				<div>
 					<h2>Scientific Name</h2>
 				</div>
@@ -236,15 +227,11 @@ while($row = mysql_fetch_array($result))
 					</p>
 				</div>
 			</div>
-		</td>
-		<td width="20">&nbsp;</td>
-	</tr>
+		</div>
 
-	<!-- Common Name -->
-	<tr>
-		<td width="20">&nbsp;</td>
-		<td>
-			<div class="content">
+		<!-- Common Name -->
+		<div class="row">
+			<div class="span12 content">
 				<div>
 					<h2>Common Name</h2>
 				</div>
@@ -256,15 +243,11 @@ while($row = mysql_fetch_array($result))
 					</p>
 				</div>
 			</div>
-		</td>
-		<td width="20">&nbsp;</td>
-	</tr>
+		</div>
 
-	<!-- Habitat -->
-	<tr>
-		<td width="20">&nbsp;</td>
-		<td>
-			<div class="content">
+		<!-- Habitat -->
+		<div class="row">
+			<div class="span12 content">
 				<div>
 					<div style="float:left">
 						<h2>Habitat</h2>
@@ -286,16 +269,12 @@ while($row = mysql_fetch_array($result))
 						<input type="hidden" name="idspecies" value="401">
 					</form>
 				</div>
-			</div>	
-		</td>
-		<td width="20">&nbsp;</td>
-	</tr>
+			</div>
+		</div>
 
-	<!-- Characteristics -->
-	<tr>
-		<td width="20">&nbsp;</td>
-		<td>
-			<div class="content">
+		<!-- Characteristics -->
+		<div class="row">
+			<div class="span12 content">
 				<div style="float:left">
 					<h2>Characteristics</h2>
 				</div>
@@ -316,15 +295,11 @@ while($row = mysql_fetch_array($result))
 					</form>
 				</div>
 			</div>
-		</td>
-		<td width="20">&nbsp;</td>
-	</tr>
+		</div>
 
-	<!-- Distribution -->
-	<tr>
-		<td width="20">&nbsp;</td>
-		<td>
-			<div class="content">
+		<!-- Distribution -->
+		<div class="row">
+			<div class="span12 content">
 				<div style="float:left">
 					<h2>Distribution</h2>
 				</div>
@@ -345,15 +320,11 @@ while($row = mysql_fetch_array($result))
 					</form>
 				</div>
 			</div>
-		</td>
-		<td width="20">&nbsp;</td>
-	</tr>
+		</div>
 
-	<!-- Origin -->
-	<tr>
-		<td width="20">&nbsp;</td>
-		<td>
-			<div class="content">
+		<!-- Origin -->
+		<div class="row">
+			<div class="span12 content">
 				<div style="float:left">
 					<h2>Origin</h2>
 				</div>
@@ -374,15 +345,11 @@ while($row = mysql_fetch_array($result))
 					</form>
 				</div>
 			</div>
-		</td>
-		<td width="20">&nbsp;</td>
-	</tr>
+		</div>
 
-	<!-- Name Derivation -->
-	<tr>
-		<td width="20">&nbsp;</td>
-		<td>
-			<div class="content">
+		<!-- Name Derivation -->
+		<div class="row">
+			<div class="span12 content">
 				<div style="float:left">
 					<h2>Name Derivation</h2>
 				</div>
@@ -403,15 +370,11 @@ while($row = mysql_fetch_array($result))
 					</form>
 				</div>
 			</div>
-		</td>
-		<td width="20">&nbsp;</td>
-	</tr>
+		</div>
 
-	<!-- Propogation -->
-	<tr>
-		<td width="20">&nbsp;</td>
-		<td>
-			<div class="content">
+		<!-- Propogation -->
+		<div class="row">
+			<div class="span12 content">
 				<div style="float:left">
 					<h2>Propogation</h2>
 				</div>
@@ -432,15 +395,11 @@ while($row = mysql_fetch_array($result))
 					</form>
 				</div>
 			</div>
-		</td>
-		<td width="20">&nbsp;</td>
-	</tr>
+		</div>
 
-	<!--Conservation Status -->
-	<tr>
-		<td width="20">&nbsp;</td>
-		<td>
-			<div class="content">
+		<!--Conservation Status -->
+		<div class="row">
+			<div class="span12 content">
 				<div style="float:left">
 					<h2>Conservation Status</h2>
 				</div>
@@ -461,19 +420,14 @@ while($row = mysql_fetch_array($result))
 					</form>
 				</div>
 			</div>
-		</td>
-		<td width="20">&nbsp;</td>
-	</tr>
+		</div>
+		<?php
+		}
 
-</table>
+		mysql_close($con);
+		?>
 
-<?php
-}
-
-mysql_close($con);
-?>
-
-<?php include 'footer.php'; ?>
+		<?php include 'footer.php'; ?>
 	</div>
 </body>
 </html>

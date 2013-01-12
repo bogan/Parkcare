@@ -6,12 +6,12 @@
 	$result = array();
 
 	require("dbinfo.php");
-	$conn = @mysql_connect($username,$password,$database);
+	$con = @mysql_connect("localhost",$username,$password);
 
-	if (!$conn) {
+	if (!$con) {
 		die('Could not connect: ' . mysql_error());
 	}
-	mysql_select_db('parkcare', $conn);
+	mysql_select_db('parkcare', $con);
 	
 	$rs = mysql_query("select count(*) from species");
 	$row = mysql_fetch_row($rs);

@@ -2,8 +2,7 @@
  <body>
  <?php
 require("dbinfo.php");
- $con = @mysql_connect($username,$password,$database);
-
+ $con = @mysql_connect("localhost",$username,$password);
  if (!$con)
    {
    die('Could not connect: ' . mysql_error());

@@ -1,0 +1,24 @@
+Insert into species (name, commonName, exotic, idgenus) SELECT 'nana', 'Hairy Joyweed', false, idgenus FROM genus WHERE name = 'Alternanthera';
+
+
+
+
+
+
+
+
+
+
+Insert into species (name, commonName, exotic, idgenus) SELECT 'albus', 'Tumbleweed', TRUE, idgenus FROM genus WHERE name = 'Amaranthus';
+Insert into species (name, commonName, exotic, idgenus) SELECT 'powellii', 'Powells Amaranth', TRUE, idgenus FROM genus WHERE name = 'Amaranthus';
+
+
+Insert into genus (`name`, idfamily) SELECT 'Paronychia' AS `Name`, idfamily FROM family WHERE `Name` = 'CARYOPHYLLACEAE';
+
+
+xxx = Insert into species (name, commonName, exotic, idgenus) SELECT '
+yyy = ', '
+zzz = ', 
+aaa = , idgenus FROM genus WHERE name = '
+ccc = ';
+

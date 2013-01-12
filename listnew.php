@@ -12,7 +12,6 @@
 
 <body leftmargin="0" topmargin="0">
 <script type="text/javascript">
-
 	$(document).ready(function()     
 		{         
 			$("#myTable").tablesorter();     
@@ -24,6 +23,7 @@
 <table width="100%">
 	<tr>
 		<td>
+
 			<table align="left">
 				<tr>
 					<td width="20">&nbsp;</td>
@@ -53,37 +53,26 @@
 				
 <?php
 require("dbinfo.php");
-$conn = @mysql_connect($username,$password,$database);
-				
-if (!$con)
-{
-die('Could not connect: ' . mysql_error());
-}
+
+require("connect.php");
  
-mysql_select_db("parkcare", $con);
- 
-$result = mysql_query("SELECT * FROM all_names");
- 
- 
+$result = mysql_query("SELECT * FROM all_species");
  
 while($row = mysql_fetch_array($result))
    {
    
-   ?>
-   
-   <tr>
-		<td><?php echo $row['Family Name'];?></td>
-		<td><?php echo $row['Genus Name'];?></td>
-		<td><?php echo $row['Species Name'];?></td>
-		<td><?php echo $row['Common Name'];?></td>
-		<td><?php echo $row['Exotic'];?></td>
+?>
+
+<tr>
+		<td><a href="family.php?id=<?php echo $row['idfamily'];?>"><?php echo $row['familyName'];?></a></td>
+		<td><a href="genus.php?id=<?php echo $row['idgenus'];?>"><?php echo $row['genusName'];?></a></td>
+		<td><a href="specie.php?id=<?php echo $row['idspecies'];?>"><?php echo $row['speciesName'];?></a></td>
+		<td><?php echo $row['commonName'];?></td>
+		<td><?php echo $row['exotic'];?></td>
 	</tr>
    
-   <?php
+<?php
    }
- 
- 
- 
  
 mysql_close($con);
  ?> 

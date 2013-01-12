@@ -190,6 +190,14 @@
     {
     "ProjRelPath" = "T"
     }
+    "families.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "family.php"
+    {
+    "ProjRelPath" = "T"
+    }
     "fauna.php"
     {
     "ProjRelPath" = "T"
@@ -203,6 +211,14 @@
     "ProjRelPath" = "T"
     }
     "footer.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "genera.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "genus.php"
     {
     "ProjRelPath" = "T"
     }
@@ -3602,10 +3618,6 @@
     {
     "ProjRelPath" = "T"
     }
-    "listnew.php"
-    {
-    "ProjRelPath" = "T"
-    }
     "map.php"
     {
     "ProjRelPath" = "T"
@@ -6403,6 +6415,10 @@
     "ProjRelPath" = "T"
     }
     "specie.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "species.php"
     {
     "ProjRelPath" = "T"
     }

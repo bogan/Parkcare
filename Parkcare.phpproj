@@ -18,6 +18,10 @@
 }
 "Files"
 {
+    ".htaccess"
+    {
+    "ProjRelPath" = "T"
+    }
     "_ReSharper.Parkcare"
     {
     "ProjRelPath" = "T"
@@ -214,7 +218,27 @@
     {
     "ProjRelPath" = "T"
     }
+    "fileupload\\cors\\postmessage.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fileupload\\cors\\result.html"
+    {
+    "ProjRelPath" = "T"
+    }
     "fileupload\\css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fileupload\\css\\jquery.fileupload-ui-noscript.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fileupload\\css\\jquery.fileupload-ui.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fileupload\\css\\style.css"
     {
     "ProjRelPath" = "T"
     }
@@ -222,7 +246,55 @@
     {
     "ProjRelPath" = "T"
     }
+    "fileupload\\img\\loading.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fileupload\\img\\progressbar.gif"
+    {
+    "ProjRelPath" = "T"
+    }
     "fileupload\\js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fileupload\\js\\cors"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fileupload\\js\\cors\\jquery.postmessage-transport.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fileupload\\js\\cors\\jquery.xdr-transport.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fileupload\\js\\jquery.fileupload-fp.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fileupload\\js\\jquery.fileupload-ui.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fileupload\\js\\jquery.fileupload.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fileupload\\js\\jquery.iframe-transport.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fileupload\\js\\main.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fileupload\\js\\vendor"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fileupload\\js\\vendor\\jquery.ui.widget.js"
     {
     "ProjRelPath" = "T"
     }
@@ -234,15 +306,7 @@
     {
     "ProjRelPath" = "T"
     }
-    "fileupload\\server\\gae-go\\app"
-    {
-    "ProjRelPath" = "T"
-    }
     "fileupload\\server\\gae-go\\app.yaml"
-    {
-    "ProjRelPath" = "T"
-    }
-    "fileupload\\server\\gae-go\\static"
     {
     "ProjRelPath" = "T"
     }
@@ -258,10 +322,6 @@
     {
     "ProjRelPath" = "T"
     }
-    "fileupload\\server\\gae-python\\static"
-    {
-    "ProjRelPath" = "T"
-    }
     "fileupload\\server\\node"
     {
     "ProjRelPath" = "T"
@@ -274,23 +334,11 @@
     {
     "ProjRelPath" = "T"
     }
-    "fileupload\\server\\node\\public"
-    {
-    "ProjRelPath" = "T"
-    }
     "fileupload\\server\\node\\server.js"
     {
     "ProjRelPath" = "T"
     }
-    "fileupload\\server\\node\\tmp"
-    {
-    "ProjRelPath" = "T"
-    }
     "fileupload\\server\\php"
-    {
-    "ProjRelPath" = "T"
-    }
-    "fileupload\\server\\php\\files"
     {
     "ProjRelPath" = "T"
     }
@@ -3659,6 +3707,10 @@
     "ProjRelPath" = "T"
     }
     "images\\treesnow.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "include.html"
     {
     "ProjRelPath" = "T"
     }

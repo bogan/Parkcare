@@ -358,6 +358,10 @@
     {
     "ProjRelPath" = "T"
     }
+    "footer.html"
+    {
+    "ProjRelPath" = "T"
+    }
     "footer.php"
     {
     "ProjRelPath" = "T"
@@ -374,7 +378,15 @@
     {
     "ProjRelPath" = "T"
     }
+    "header.html"
+    {
+    "ProjRelPath" = "T"
+    }
     "header.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "hello.php"
     {
     "ProjRelPath" = "T"
     }
@@ -3711,6 +3723,10 @@
     "ProjRelPath" = "T"
     }
     "include.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "include.shtml"
     {
     "ProjRelPath" = "T"
     }

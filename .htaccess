@@ -1,4 +1,2 @@
-AddType text/html .shtml
-AddType text/html .html
-#AddHandler server-parsed .html
-Options Indexes FollowSymLinks Includes
+AddHandler server-parsed .html
+Options +FollowSymLinks +Includes

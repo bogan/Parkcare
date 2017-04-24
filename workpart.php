@@ -1,16 +1,6 @@
-<!DOCTYPE HTML>
-<html>
-	<head>
-		<title>Work Party</title>
-		<meta content="text/html; charset=windows-1252" http-equiv="Content-Type">
-		<meta content="Microsoft Visual Studio 10.0" name="generator">
-		<link rel="stylesheet" href="bootstrap/css/bootstrap.css" type="text/css">
-		<link rel="stylesheet" href="styles/style.css" type="text/css">
-	</head>
-
-	<body>
-		<div class="container">
+			<?php $title = 'Work Party'; ?>
 			<?php include 'header.php'; ?>
+			
 			<div id="content" class="row">
 				<div class="span12">
 				
@@ -52,10 +42,8 @@
 				<div class="span6 offset1" style="align:center;text-align:center;">
 					<img alt="click for larger picture" height="200" src="images/stakes.jpg" width="267" style="margin:20px">
 					<p>Collecting charred stakes from the Olympic Site - 
-						Gösta's bike provides useful transport.</p>
+						GÃ¶sta's bike provides useful transport.</p>
 				</div>
 			</div>
+
 			<?php include 'footer.php'; ?>
-		</div>
-	</body>
-</html>

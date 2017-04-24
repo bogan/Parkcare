@@ -1,19 +1,9 @@
-<!DOCTYPE HTML>
-<html>
-	<head>
-		<title>Fire</title>
-		<meta content="text/html; charset=windows-1252" http-equiv="Content-Type">
-		<meta content="Microsoft Visual Studio 10.0" name="generator">
-		<link rel="stylesheet" href="bootstrap/css/bootstrap.css" type="text/css">
-		<link rel="stylesheet" href="styles/style.css" type="text/css">
-	</head>
-
-	<body>
-		<div class="container">
+			<?php $title = 'Fire';	?>
 			<?php include 'header.php'; ?>
+			
 			<div id="content" class="row">
 				<div class="span12">
-					<h2>Fire on Cooleman Ridge, Saturday 18th January 2003</font></h2>
+					<h2>Fire on Cooleman Ridge, Saturday 18th January 2003</h2>
 
 					<p>
 						The pictures below show Cooleman Ridge before and after the fires, and the new growth 
@@ -183,6 +173,3 @@
 				</div>
 			</div>
 			<?php include 'footer.php'; ?>
-		</div>
-	</body>
-</html>

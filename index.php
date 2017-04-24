@@ -38,12 +38,25 @@ IMG {
 	BORDER-BOTTOM-COLOR: black; BORDER-TOP-COLOR: black; BORDER-RIGHT-COLOR: black; BORDER-LEFT-COLOR: black
 }
 </STYLE>
-
 <TABLE border=0 cellSpacing=0 cellPadding=0 width=800 
 background=images/silhcen5g.png align=center height=600>
   <TBODY>
   <TR>
-    <TD height=20 vAlign=middle colSpan=9 align=center>&nbsp;</TD></TR>
+    <TD height=20 vAlign=middle colSpan=6 align=center>&nbsp;</TD><td colSpan=3><div>
+<script>
+  (function() {
+    var cx = '008804451297429151083:h_lh6xzgjre';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search></div>
+</td></TR>
   <TR>
     <TD height=70 vAlign=middle width=90 align=center><IMG 
       src="images/logo1.jpg" width=54 height=50></TD>
@@ -68,7 +81,7 @@ background=images/silhcen5g.png align=center height=600>
       align=middle src="images/fernembl.jpg" width=130 height=130></A></TD>
     <TD vAlign=middle width=20 align=center>&nbsp;</TD>
     <TD height=132 vAlign=middle width=140 align=center><A 
-      href="ridge.php"><IMG border=1 alt="" 
+      href="place.php"><IMG border=1 alt="" 
       align=middle src="images/treesnow.jpg" width=130 height=130></A></TD>
     <TD vAlign=middle width=20 align=center>&nbsp;</TD>
     <TD height=132 vAlign=middle width=140 align=center><A 
@@ -87,15 +100,15 @@ background=images/silhcen5g.png align=center height=600>
     <TD vAlign=middle width=20 align=center>&nbsp;</TD>
     <TD vAlign=middle align=center><FONT color=#0000ff 
       face="Arial, Helvetica, sans-serif"><A 
-      href="ridge.php">The Ridge</A></FONT></TD>
+      href="place.php">Place</A></FONT></TD>
     <TD vAlign=middle width=20 align=center>&nbsp;</TD>
     <TD vAlign=middle align=center><FONT color=#0000ff 
       face="Arial, Helvetica, sans-serif"><A 
-      href="geology.php">Geology</A> </FONT></TD>
+      href="geology.php">Earth</A> </FONT></TD>
     <TD vAlign=middle width=20 align=center>&nbsp;</TD>
     <TD vAlign=middle align=center><FONT color=#0000ff 
       face="Arial, Helvetica, sans-serif"><A 
-      href="flora.php">Plants</A></FONT></TD>
+      href="flora.php">Flora</A></FONT></TD>
     <TD vAlign=middle align=center>&nbsp;</TD></TR>
   <TR>
     <TD height=20 vAlign=middle colSpan=2 align=center>&nbsp;</TD>
@@ -132,7 +145,7 @@ background=images/silhcen5g.png align=center height=600>
     <TD vAlign=middle width=20 align=center>&nbsp;</TD>
     <TD vAlign=middle align=center><FONT color=#0000ff 
       face="Arial, Helvetica, sans-serif"><A 
-      href="news.php">Newsletter</A></FONT></TD>
+      href="news.php">News</A></FONT></TD>
     <TD vAlign=middle width=20 align=center><FONT color=#0000ff 
       face="Arial, Helvetica, sans-serif">&nbsp;</FONT></TD>
     <TD vAlign=middle align=center><FONT color=#0000ff 
@@ -142,7 +155,7 @@ background=images/silhcen5g.png align=center height=600>
       face="Arial, Helvetica, sans-serif">&nbsp;</FONT></TD>
     <TD vAlign=middle width=140 align=center><FONT color=#0000ff 
       face="Arial, Helvetica, sans-serif"><A 
-      href="fauna.php">Wildlife</A></FONT></TD>
+      href="fauna.php">Fauna</A></FONT></TD>
     <TD vAlign=middle align=center>&nbsp;</TD></TR>
   <TR>
     <TD height=40 vAlign=middle colSpan=9 align=center><FACE="ARIAL, 

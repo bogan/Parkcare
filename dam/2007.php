@@ -30,9 +30,9 @@
 				<img alt="picture" src="../images/dam/090207.jpg" width="250"></td>
 			</tr>
 			<tr>
-				<td class="label">26 January 2007</td>
-				<td class="label">2 February 2007</td>
-				<td class="label">9 February 2007</td>
+				<td class="pictureLabel">26 January 2007</td>
+				<td class="pictureLabel">2 February 2007</td>
+				<td class="pictureLabel">9 February 2007</td>
 			</tr>
 			<tr>
 				<td colspan="3">&nbsp;</td>
@@ -46,9 +46,9 @@
 				<img alt="picture" src="../images/dam/020307.jpg" width="250"></td>
 			</tr>
 			<tr>
-				<td class="label">16 February 2007</td>
-				<td class="label">23 February 2007</td>
-				<td class="label">2 March 2007</td>
+				<td class="pictureLabel">16 February 2007</td>
+				<td class="pictureLabel">23 February 2007</td>
+				<td class="pictureLabel">2 March 2007</td>
 			</tr>
 			<tr>
 				<td colspan="3">&nbsp;</td>
@@ -62,9 +62,9 @@
 				<img alt="picture" src="../images/dam/300307.jpg" width="250"></td>
 			</tr>
 			<tr>
-				<td class="label">16 March 2007</td>
-				<td class="label">23 March 2007</td>
-				<td class="label">30 March 2007</td>
+				<td class="pictureLabel">16 March 2007</td>
+				<td class="pictureLabel">23 March 2007</td>
+				<td class="pictureLabel">30 March 2007</td>
 			</tr>
 			<tr>
 				<td colspan="3">&nbsp;</td>
@@ -78,9 +78,9 @@
 				<img alt="picture" src="../images/dam/220407.jpg" width="250"></td>
 			</tr>
 			<tr>
-				<td class="label">4 April 2007</td>
-				<td class="label">17 April 2007</td>
-				<td class="label">22 April 2007</td>
+				<td class="pictureLabel">4 April 2007</td>
+				<td class="pictureLabel">17 April 2007</td>
+				<td class="pictureLabel">22 April 2007</td>
 			</tr>
 			<tr>
 				<td colspan="3">&nbsp;</td>
@@ -94,9 +94,9 @@
 				<img alt="picture" src="../images/dam/110507.jpg" width="250"></td>
 			</tr>
 			<tr>
-				<td class="label">27 April 2007</td>
-				<td class="label">4 May 2007</td>
-				<td class="label">11 May 2007</td>
+				<td class="pictureLabel">27 April 2007</td>
+				<td class="pictureLabel">4 May 2007</td>
+				<td class="pictureLabel">11 May 2007</td>
 			</tr>
 			<tr>
 				<td colspan="3">&nbsp;</td>
@@ -110,9 +110,9 @@
 				<img alt="picture" src="../images/dam/010607.jpg" width="250"></td>
 			</tr>
 			<tr>
-				<td class="label">20 May 2007</td>
-				<td class="label">25 May 2007</td>
-				<td class="label">1 June 2007</td>
+				<td class="pictureLabel">20 May 2007</td>
+				<td class="pictureLabel">25 May 2007</td>
+				<td class="pictureLabel">1 June 2007</td>
 			</tr>
 			<tr>
 				<td colspan="3">&nbsp;</td>
@@ -126,9 +126,9 @@
 				<img alt="picture" src="../images/dam/220607.jpg" width="250"></td>
 			</tr>
 			<tr>
-				<td class="label">8 June 2007</td>
-				<td class="label">15 June 2007</td>
-				<td class="label">22 June 2007</td>
+				<td class="pictureLabel">8 June 2007</td>
+				<td class="pictureLabel">15 June 2007</td>
+				<td class="pictureLabel">22 June 2007</td>
 			</tr>
 			<tr>
 				<td colspan="3">&nbsp;</td>
@@ -142,9 +142,9 @@
 				<img alt="picture" src="../images/dam/050807.jpg" width="250"></td>
 			</tr>
 			<tr>
-				<td class="label">20 July 2007</td>
-				<td class="label">27 July 2007</td>
-				<td class="label">5 August 2007</td>
+				<td class="pictureLabel">20 July 2007</td>
+				<td class="pictureLabel">27 July 2007</td>
+				<td class="pictureLabel">5 August 2007</td>
 			</tr>
 			<tr>
 				<td colspan="3">&nbsp;</td>
@@ -158,9 +158,9 @@
 				<img alt="picture" src="../images/dam/240807.jpg" width="250"></td>
 			</tr>
 			<tr>
-				<td class="label">10 August 2007</td>
-				<td class="label">17 August 2007</td>
-				<td class="label">24 August 2007</td>
+				<td class="pictureLabel">10 August 2007</td>
+				<td class="pictureLabel">17 August 2007</td>
+				<td class="pictureLabel">24 August 2007</td>
 			</tr>
 			<tr>
 				<td colspan="3">&nbsp;</td>
@@ -174,9 +174,9 @@
 				<img alt="picture" src="../images/dam/140907.jpg" width="250"></td>
 			</tr>
 			<tr>
-				<td class="label">31 August 2007</td>
-				<td class="label">6 September 2007</td>
-				<td class="label">14 September 2007</td>
+				<td class="pictureLabel">31 August 2007</td>
+				<td class="pictureLabel">6 September 2007</td>
+				<td class="pictureLabel">14 September 2007</td>
 			</tr>
 			<tr>
 				<td colspan="3">&nbsp;</td>
@@ -190,9 +190,9 @@
 				<img alt="picture" src="../images/dam/041007.jpg" width="250"></td>
 			</tr>
 			<tr>
-				<td class="label">21 September 2007</td>
-				<td class="label">28 September 2007</td>
-				<td class="label">4 October 2007</td>
+				<td class="pictureLabel">21 September 2007</td>
+				<td class="pictureLabel">28 September 2007</td>
+				<td class="pictureLabel">4 October 2007</td>
 			</tr>
 			<tr>
 				<td colspan="3">&nbsp;</td>
@@ -206,9 +206,9 @@
 				<img alt="picture" src="../images/dam/161107.jpg" width="250"></td>
 			</tr>
 			<tr>
-				<td class="label">12 October 2007</td>
-				<td class="label">19 October 2007</td>
-				<td class="label">16 November 2007</td>
+				<td class="pictureLabel">12 October 2007</td>
+				<td class="pictureLabel">19 October 2007</td>
+				<td class="pictureLabel">16 November 2007</td>
 			</tr>
 			<tr>
 				<td colspan="3">&nbsp;</td>
@@ -222,9 +222,9 @@
 				<img alt="picture" src="../images/dam/281207.jpg" width="250"></td>
 			</tr>
 			<tr>
-				<td class="label">30 November 2007</td>
-				<td class="label">14 December 2007</td>
-				<td class="label">28 December 2007</td>
+				<td class="pictureLabel">30 November 2007</td>
+				<td class="pictureLabel">14 December 2007</td>
+				<td class="pictureLabel">28 December 2007</td>
 			</tr>
 			<tr>
 				<td colspan="3">&nbsp;</td>
@@ -234,6 +234,4 @@
 	</tr>
 </table>
 
-</body>
-
-</html>
+<?php include '../footer.php'; ?>

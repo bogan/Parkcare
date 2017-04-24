@@ -9,7 +9,7 @@
       href="../about.php"><IMG alt="" border=2 
       src="../images/fernemb.jpg" width=60 height=60></A></TD>
     <TD width=76 align=center><A 
-      href="../ridge.php"><IMG alt="" border=2 
+      href="../place.php"><IMG alt="" border=2 
       src="../images/treesn.jpg" width=60 height=60></A></TD>
     <TD width=76 align=center><A 
       href="../geology.php"><IMG alt="" border=2 
@@ -43,7 +43,7 @@
     <TD height="30" align="center"><A 
       href="../about.php">About</A></TD>
     <TD height="30" align="center"><A 
-      href="../ridge.php">Ridge</A></TD>
+      href="../place.php">Ridge</A></TD>
     <TD height="30" align="center"><A 
       href="../geology.php">Geology</A></TD>
     <TD height="30" align="center"><A 

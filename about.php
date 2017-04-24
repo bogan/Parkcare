@@ -1,15 +1,4 @@
-<!DOCTYPE HTML>
-<html>
-	<head>
-		<title>About CRPCG</title>
-		<meta content="text/html; charset=windows-1252" http-equiv="Content-Type">
-		<meta content="MSHTML 9.00.8112.16443" name="GENERATOR">
-		<link rel="stylesheet" href="bootstrap/css/bootstrap.css" type="text/css">
-		<link rel="stylesheet" href="styles/style.css" type="text/css">
-	</head>
-
-	<body>
-		<div class="container">
+			<?php $title = 'About';	?>
 			<?php include 'header.php'; ?>
 			<div>
 				<h2>About the Group</h2>
@@ -67,11 +56,7 @@
 					</ul>
 				</p>
 				<p>
-					<i>To find out more about our activities please email Cooleman Ridge 
-					Park Care Group at: </i><a href="mailto:ryan@pcug.org.au">ryan@pcug.org.au</a>.
+					To find out more about our activities please email <a href="mailto:admin@coolemanridge.org.au">Cooleman Ridge Parkcare Group</a>.
 				</p>
 			</div>
 			<?php include 'footer.php'; ?>
-		</div>
-	</body>
-</html>

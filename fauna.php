@@ -1,17 +1,6 @@
-<!DOCTYPE HTML>
-<html>
-
-	<head>
-		<title>Fauna</title>
-		<meta content="text/html; charset=windows-1252" http-equiv="Content-Type">
-		<meta content="Microsoft Visual Studio 10.0" name="generator">
-		<link rel="stylesheet" href="bootstrap/css/bootstrap.css" type="text/css">
-		<link rel="stylesheet" href="styles/style.css" type="text/css">
-	</head>
-
-	<body>
-		<div class="container">
+			<?php $title = 'Fauna';	?>
 			<?php include 'header.php'; ?>
+			
 			<div class="row" id="content">
 				<div class="span12">
 					<h2>Fauna</h2>
@@ -23,6 +12,8 @@
 					and white-faced herons can also be seen. Then there are the millipedes, 
 					snails, beetles and centipedes, etc. Insects, frogs and even long-necked 
 					tortoises live in and around the dams.</p>
+				
+					<p>Please see the <a href="animals.php">Animal List</a> page for a complete list of identified species.</p>
 				
 					<p>We don't have many photos of these creatures as yet, so feel free to 
 					contact us if you have some we can use.</p>
@@ -75,7 +66,7 @@
 				<div class="span5 offset1" style="align:center;text-align:center;">
 					<img alt="click for larger picture" style="margin:20px" border="1" height="151" src="images/blutong.jpg" width="289">
 					<p>
-						<em>Tiliqua scincoids</em> – Eastern Blue-tongued Lizard <br>This reptile 
+						<em>Tiliqua scincoids</em> â€“ Eastern Blue-tongued Lizard <br>This reptile 
 						is not venomous, and is often found in suburban gardens where it eats 
 						snails and other invertebrates, as well as fruits and berries. It may 
 						grow to 50 cm, and produces around a dozen live young in summer.
@@ -116,7 +107,7 @@
 				<div class="span5 offset1" style="align:center;text-align:center;">
 					<img alt="click for larger picture" style="margin:20px" border="1" height="151" src="images/froglet.jpg" width="201">
 					<p>
-						<em>Crinia sp.</em> – Froglet <br>Length: 2-3 cm. <br>Call: repetitive - crick-crick-crick
+						<em>Crinia sp.</em> â€“ Froglet <br>Length: 2-3 cm. <br>Call: repetitive - crick-crick-crick
 					</p>					
 				</div>
 				<div class="span5 offset1" style="align:center;text-align:center;">
@@ -145,7 +136,7 @@
 					<img alt="click for larger picture" style="margin:20px" border="1" height="151" src="images/aprsa.jpg" width="316">
 					<p>
 						<em>Aprasia parapulchella</em> 
-						– Pink-tailed Legless Lizard <br>1 adult and 1 young pictured, of a family 
+						â€“ Pink-tailed Legless Lizard <br>1 adult and 1 young pictured, of a family 
 						of 4. Over the years this is only the fourth time members of our group have 
 						reported finding <em>Aprasia.</em> According to Dr Will Osborne of Canberra 
 						University they are most likely to be found in rocky outcrops in native 
@@ -163,6 +154,3 @@
 			</div>
 			
 			<?php include 'footer.php'; ?>
-		</div>
-	</body>
-</html>

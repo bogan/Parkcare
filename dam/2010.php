@@ -1,17 +1,5 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<!-- saved from url=(0042)pictures.html -->
-<html>
-
-<head>
-<title>Dam 2010</title>
-<meta content="text/html; charset=windows-1252" http-equiv="Content-Type">
-<meta content="MSHTML 9.00.8112.16443" name="GENERATOR">
-<link href="/styles/style.css" rel="stylesheet" type="text/css">
-</head>
-
-<body leftmargin="0" topmargin="0">
-
-<?php include 'header.php'; ?>
+<?php $title = 'Dam';	?>
+<?php include '../header.php'; ?>
 <table align="center" cellpadding="0" cellspacing="0">
 	<?php include 'years.php'; ?>
 	<tr>
@@ -30,9 +18,9 @@
 				<img alt="24 January 2010" src="../images/dam/240110.jpg" width="250"></td>
 			</tr>
 			<tr>
-				<td class="label">8 January 2010</td>
-				<td class="label">15 January 2010</td>
-				<td class="label">24 January 2010</td>
+				<td class="pictureLabel">8 January 2010</td>
+				<td class="pictureLabel">15 January 2010</td>
+				<td class="pictureLabel">24 January 2010</td>
 			</tr>
 			<tr>
 				<td colspan="3">&nbsp;</td>
@@ -46,9 +34,9 @@
 				<img alt="12 February 2010" src="../images/dam/120210.jpg" width="250"></td>
 			</tr>
 			<tr>
-				<td class="label">29 January 2010</td>
-				<td class="label">5 February 2010</td>
-				<td class="label">12 February 2010</td>
+				<td class="pictureLabel">29 January 2010</td>
+				<td class="pictureLabel">5 February 2010</td>
+				<td class="pictureLabel">12 February 2010</td>
 			</tr>
 			<tr>
 				<td colspan="3">&nbsp;</td>
@@ -62,9 +50,9 @@
 				<img alt="12 March 2010" src="../images/dam/120310.jpg" width="250"></td>
 			</tr>
 			<tr>
-				<td class="label">19 February 2010</td>
-				<td class="label">5 March 2010</td>
-				<td class="label">12 March 2010</td>
+				<td class="pictureLabel">19 February 2010</td>
+				<td class="pictureLabel">5 March 2010</td>
+				<td class="pictureLabel">12 March 2010</td>
 			</tr>
 			<tr>
 				<td colspan="3">&nbsp;</td>
@@ -78,9 +66,9 @@
 				<img alt="9 April 2010" src="../images/dam/090410.jpg" width="250"></td>
 			</tr>
 			<tr>
-				<td class="label">19 March 2010</td>
-				<td class="label">26 March 2010</td>
-				<td class="label">9 April 2010</td>
+				<td class="pictureLabel">19 March 2010</td>
+				<td class="pictureLabel">26 March 2010</td>
+				<td class="pictureLabel">9 April 2010</td>
 			</tr>
 			<tr>
 				<td colspan="3">&nbsp;</td>
@@ -94,9 +82,9 @@
 				<img alt="30 April 2010" src="../images/dam/300410.jpg" width="250"></td>
 			</tr>
 			<tr>
-				<td class="label">16 April 2010</td>
-				<td class="label">22 April 2010</td>
-				<td class="label">30 April 2010</td>
+				<td class="pictureLabel">16 April 2010</td>
+				<td class="pictureLabel">22 April 2010</td>
+				<td class="pictureLabel">30 April 2010</td>
 			</tr>
 			<tr>
 				<td colspan="3">&nbsp;</td>
@@ -110,9 +98,9 @@
 				<img alt="16 July 2010" src="../images/dam/160710.jpg" width="250"></td>
 			</tr>
 			<tr>
-				<td class="label">21 May 2010</td>
-				<td class="label">28 May 2010</td>
-				<td class="label">16 July 2010</td>
+				<td class="pictureLabel">21 May 2010</td>
+				<td class="pictureLabel">28 May 2010</td>
+				<td class="pictureLabel">16 July 2010</td>
 			</tr>
 			<tr>
 				<td colspan="3">&nbsp;</td>
@@ -126,9 +114,9 @@
 				<img alt="13 August 2010" src="../images/dam/130810.jpg" width="250"></td>
 			</tr>
 			<tr>
-				<td class="label">23 July 2010</td>
-				<td class="label">30 July 2010</td>
-				<td class="label">13 August 2010</td>
+				<td class="pictureLabel">23 July 2010</td>
+				<td class="pictureLabel">30 July 2010</td>
+				<td class="pictureLabel">13 August 2010</td>
 			</tr>
 			<tr>
 				<td colspan="3">&nbsp;</td>
@@ -142,9 +130,9 @@
 				<img alt="10 September 2010" src="../images/dam/100910.jpg" width="250"></td>
 			</tr>
 			<tr>
-				<td class="label">20 August 2010</td>
-				<td class="label">3 September 2010</td>
-				<td class="label">10 September 2010</td>
+				<td class="pictureLabel">20 August 2010</td>
+				<td class="pictureLabel">3 September 2010</td>
+				<td class="pictureLabel">10 September 2010</td>
 			</tr>
 			<tr>
 				<td colspan="3">&nbsp;</td>
@@ -158,9 +146,9 @@
 				<img alt="8 October 2010" src="../images/dam/081010.jpg" width="250"></td>
 			</tr>
 			<tr>
-				<td class="label">24 September 2010</td>
-				<td class="label">1 October 2010</td>
-				<td class="label">8 October 2010</td>
+				<td class="pictureLabel">24 September 2010</td>
+				<td class="pictureLabel">1 October 2010</td>
+				<td class="pictureLabel">8 October 2010</td>
 			</tr>
 			<tr>
 				<td colspan="3">&nbsp;</td>
@@ -174,9 +162,9 @@
 				<img alt="5 November 2010" src="../images/dam/051110.jpg" width="250"></td>
 			</tr>
 			<tr>
-				<td class="label">17 October 2010</td>
-				<td class="label">29 October 2010</td>
-				<td class="label">5 November 2010</td>
+				<td class="pictureLabel">17 October 2010</td>
+				<td class="pictureLabel">29 October 2010</td>
+				<td class="pictureLabel">5 November 2010</td>
 			</tr>
 			
 			<tr>
@@ -190,9 +178,9 @@
 				<td class="image">&nbsp;</td>
 			</tr>
 			<tr>
-				<td class="label">12 November 2010</td>
-				<td class="label">26 November 2010</td>
-				<td class="label">&nbsp;</td>
+				<td class="pictureLabel">12 November 2010</td>
+				<td class="pictureLabel">26 November 2010</td>
+				<td class="pictureLabel">&nbsp;</td>
 			</tr>
 			<tr>
 				<td colspan="3">&nbsp;</td>
@@ -202,6 +190,4 @@
 	</tr>
 </table>
 
-</body>
-
-</html>
+<?php include '../footer.php'; ?>

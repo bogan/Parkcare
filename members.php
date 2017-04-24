@@ -1,18 +1,6 @@
-<!DOCTYPE HTML>
-<!-- saved from url=(0041)members.html -->
-<html>
-
-	<head>
-		<title>Members</title>
-		<meta content="text/html; charset=windows-1252" http-equiv="Content-Type">
-		<meta content="MSHTML 9.00.8112.16443" name="GENERATOR">
-		<link rel="stylesheet" href="bootstrap/css/bootstrap.css" type="text/css">
-		<link rel="stylesheet" href="styles/style.css" type="text/css">
-	</head>
-
-	<body>
-		<div class="container">
-		<?php include 'header.php'; ?>
+			<?php $title = 'Members';	?>
+			<?php include 'header.php'; ?>
+			
 			<div>
 				<h2>Members</h2>
 				
@@ -35,7 +23,5 @@
 				
 				<p><a href="workpart.php">More Pictures</a> - post-bushfire workparty.</p>
 			</div>
-		<?php include 'footer.php'; ?>
-		</div>
-	</body>
-</html>
+			
+			<?php include 'footer.php'; ?>

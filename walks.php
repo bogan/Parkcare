@@ -1,17 +1,6 @@
-<!DOCTYPE HTML>
-<html>
-
-	<head>
-		<title>Walks</title>
-		<meta content="text/html; charset=windows-1252" http-equiv="Content-Type">
-		<meta content="MSHTML 9.00.8112.16443" name="GENERATOR">
-		<link rel="stylesheet" href="bootstrap/css/bootstrap.css" type="text/css">
-		<link rel="stylesheet" href="styles/style.css" type="text/css">
-	</head>
-
-	<body>
-		<div class="container">
-		<?php include 'header.php'; ?>
+			<?php $title = 'Flora';	?>
+			<?php include 'header.php'; ?>
+			
 			<div>
 				<h2>Walks</h2>
 				
@@ -61,7 +50,5 @@
 				ACT Department of Territory and Municipal Services - Cooleman Ridge Nature 
 				Reserve</a> </p>
 			</div>
-		<?php include 'footer.php'; ?>
-		</div>
-	</body>
-</html>
+			
+			<?php include 'footer.php'; ?>

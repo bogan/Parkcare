@@ -18,7 +18,7 @@
       href="../about.php"><IMG border=2 
       src="../images/fernemb.jpg" width=60 height=60></A></TD>
     <TD width=76 align=center><A 
-      href="../ridge.php"><IMG border=2 
+      href="../place.php"><IMG border=2 
       src="../images/treesn.jpg" width=60 height=60></A></TD>
     <TD width=76 align=center><A 
       href="../geology.php"><IMG border=2 
@@ -49,7 +49,7 @@
     <TD height=30 align=center BORDER="1"><A 
       href="../about.php">CRPCG</A></TD>
     <TD height=30 align=center BORDER="1"><A 
-      href="../ridge.php">Ridge</A></TD>
+      href="../place.php">Ridge</A></TD>
     <TD height=30 align=center BORDER="1"><A 
       href="../geology.php">Geology</A></TD>
     <TD height=30 align=center BORDER="1"><A 

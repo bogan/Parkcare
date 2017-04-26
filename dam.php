@@ -1,17 +1,6 @@
-<!DOCTYPE HTML>
-<html>
-
-	<head>
-		<title>Walks</title>
-		<meta content="text/html; charset=windows-1252" http-equiv="Content-Type">
-		<meta content="MSHTML 9.00.8112.16443" name="GENERATOR">
-		<link rel="stylesheet" href="bootstrap/css/bootstrap.css" type="text/css">
-		<link rel="stylesheet" href="styles/style.css" type="text/css">
-	</head>
-
-	<body>
-		<div class="container">
-		<?php include 'header.php'; ?>
+			<?php $title = 'Dam';	?>
+			<?php include 'header.php'; ?>
+			
 			<div>
 				
 				<p align="right">
@@ -21,7 +10,7 @@
 				<h2>Dams</h2>
 				
 				<p>People say: "There is a dam at the Kathner Street entrance!". Nobody asks: 
-				"Why is there a dam at the Kathner Street entrance?". I’ll tell you </p>
+				"Why is there a dam at the Kathner Street entrance?". Iâ€™ll tell you </p>
 				
 				<p>Long ago, in the early 1990s a ParkCare group was formed to take care 
 				of the native vegetation on Cooleman Ridge. Keen volunteers led by the indomitable 
@@ -49,7 +38,7 @@
 				
 				<p>So, the group rather than considering the dam as an intrusion developed 
 				a feeling of ownership of the dam and decided to build a platform for the 
-				birds. Gösta Lyngå got the task of building it and of swimming out to anchor 
+				birds. GÃ¶sta LyngÃ¥ got the task of building it and of swimming out to anchor 
 				it in the middle of the dam. There was now more to look at and enjoy when 
 				relaxing on that bench.</p>
 				
@@ -68,7 +57,7 @@
 				photo is from 11 July 2012.</p>
 
 				<p>A series of almost <a href="dam/2004.php">300 photos of the dam</a> between 2003 and 2012 have been 
-				taken by Pauline and Gösta Lyngå. Unfortunately, photos taken before 
+				taken by Pauline and GÃ¶sta LyngÃ¥. Unfortunately, photos taken before 
 				January 2003 were destroyed in a bushfire. The photographic survey of the 
 				dam is continued by Arminel and Pat Ryan. </p>
 				
@@ -76,7 +65,5 @@
 				and enjoyed by wildlife as well as by visitors, particularly when a multitude 
 				of frogs give their evening concerts. </p>
 			</div>
-		<?php include 'footer.php'; ?>
-		</div>
-	</body>
-</html>
+			
+			<?php include 'footer.php'; ?>

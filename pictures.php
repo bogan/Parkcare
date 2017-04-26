@@ -1,16 +1,6 @@
-<!DOCTYPE HTML>
-<html>
-	<head>
-		<title>Work Party</title>
-		<meta content="text/html; charset=windows-1252" http-equiv="Content-Type">
-		<meta content="Microsoft Visual Studio 10.0" name="generator">
-		<link rel="stylesheet" href="bootstrap/css/bootstrap.css" type="text/css">
-		<link rel="stylesheet" href="styles/style.css" type="text/css">
-	</head>
-
-	<body>
-		<div class="container">
+			<?php $title = 'Pictures';	?>
 			<?php include 'header.php'; ?>
+			
 			<div id="content" class="row">
 				<div class="span12">
 				
@@ -73,6 +63,3 @@
 			</div>
 
 			<?php include 'footer.php'; ?>
-		</div>
-	</body>
-</html>

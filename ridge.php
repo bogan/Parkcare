@@ -1,16 +1,6 @@
-<!DOCTYPE html>
-<!-- saved from url=(0039)ridge.html -->
-<html>
-	<head>
-		<title>Ridge</title>
-		<meta content="text/html; charset=windows-1252" http-equiv="Content-Type">
-		<meta content="MSHTML 9.00.8112.16443" name="GENERATOR">
-		<link rel="stylesheet" href="bootstrap/css/bootstrap.css" type="text/css">
-		<link rel="stylesheet" href="styles/style.css" type="text/css">
-	</head>
-	<body leftmargin="0" topmargin="0">
-		<div class="container">
-		<?php include 'header.php'; ?>
+			<?php $title = 'Ridge';	?>
+			<?php include 'header.php'; ?>
+
 			<div>
 				<h2>Location</h2>
 		
@@ -19,6 +9,8 @@
 				of 187 ha. Its highest point is Mt Arawang (765 m) with a general level 
 				of 600 m above sea level. It offers extensive views east and north over 
 				Canberra and west over the Brindabella mountain range.</p>
+				
+				<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d13015.342693021319!2d149.03646483522206!3d-35.359724246198!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sau!4v1444473478793" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
 		
 				<h2>Recent History</h2>
 		
@@ -37,7 +29,5 @@
 				landscape. Read Dr. John F. Lindsay's interesting <a href="geology.php">
 				article</a> for more information about the geology of the area.</p>
 			<div>
-		<?php include 'footer.php'; ?>
-		</div>
-	</body>
-</html>
+			
+			<?php include 'footer.php'; ?>

@@ -1,87 +1,1 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<!-- saved from url=(0037)map.html -->
-<html>
-
-<head>
-<title>Map</title>
-<meta content="text/html; charset=windows-1252" http-equiv="Content-Type">
-<meta content="MSHTML 9.00.8112.16443" name="GENERATOR">
-<link rel="stylesheet" href="styles/style.css" type="text/css">
-</head>
-
-<body leftmargin="0" topmargin="0">
-
-<?php include 'header.php'; ?>
-<table cellpadding="0" cellspacing="0" width="100%">
-	<tr>
-		<td width="20">&nbsp;</td>
-		<td valign="top"><br>
-		<h2><font color="#ba7025" face="ARIAL">Members' areas</font></h2>
-		</td>
-		<td width="20">&nbsp;</td>
-	</tr>
-	<tr>
-		<td width="20">&nbsp;</td>
-		<td><font color="black" size="3">Various members of Cooleman Ridge Park 
-		Care Group have undertaken to look after areas of their own choosing, weeding, 
-		monitoring and generally enjoying them. The map refers to these areas with 
-		numbers signifying the relevant caretaker. The numbers and letters in the 
-		margins of the map denote the squares; for instance, the top of Mt Arawang 
-		is in square K8.
-		<p></p>
-		<ol>
-			<li>Alan </li>
-			<li>Erika </li>
-			<li>Gösta </li>
-			<li>Pauline </li>
-			<li>Malcolm </li>
-			<li>Reet </li>
-			<li>Mike and Pat </li>
-			<li>Elizabeth </li>
-			<li>Kathryn </li>
-			<li>David (Monkman Street) </li>
-			<li>Paul </li>
-			<li>David (Lincoln Place) </li>
-			<li>Rohan </li>
-			<li>Doug </li>
-			<li>Mary </li>
-			<li>Tina </li>
-		</ol>
-		</font></td>
-		<td width="20">&nbsp;</td>
-	</tr>
-	<tr>
-		<td colspan="3">&nbsp;</td>
-	</tr>
-	<tr>
-		<td width="20">&nbsp;</td>
-		<td align="center">
-		<img alt="map" height="510" src="images/map.jpg" width="700"></td>
-		<td width="20">&nbsp;</td>
-	</tr>
-	<tr>
-		<td colspan="3">&nbsp;</td>
-	</tr>
-	<tr>
-		<td width="20">&nbsp;</td>
-		<td align="center">Map by Treeline Designs, Barton, ACT.</td>
-		<td width="20">&nbsp;</td>
-	</tr>
-	<tr>
-		<td colspan="3">&nbsp;</td>
-	</tr>
-	<tr>
-		<td width="20">&nbsp;</td>
-		<td align="right"><a href="index.php">Home Page</a></td>
-		<td width="20">&nbsp;</td>
-	</tr>
-	<tr>
-		<td width="20">&nbsp;</td>
-		<td align="left"><a href="members.php">Members' page</a></td>
-		<td width="20">&nbsp;</td>
-	</tr>
-</table>
-<?php include 'footer.php'; ?>
-</body>
-
-</html>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><!-- saved from url=(0037)map.html --><html><head><title>Map</title>    <meta name="viewport" content="initial-scale=1.0">    <meta charset="utf-8">    <meta content="text/html; charset=windows-1252" http-equiv="Content-Type">    <meta content="MSHTML 9.00.8112.16443" name="GENERATOR">    <link rel="stylesheet" href="styles/style.css" type="text/css">    <title>KML Layers</title>    <style>        /* Always set the map height explicitly to define the size of the div         * element that contains the map. */        #map {            height: 100%;        }        /* Optional: Makes the sample page fill the window. */        html, body {            height: 100%;            margin: 0;            padding: 0;        }    </style></head><body leftmargin="0" topmargin="0"><?php include 'header.php'; ?><div id="map"></div><script>    function initMap() {        var map = new google.maps.Map(document.getElementById('map'), {            zoom: 11,            center: {lat: 41.876, lng: -87.624}        });        var ctaLayer = new google.maps.KmlLayer({            url: 'http://www.coolemanridge.org.au/coolemanridge.kmz',            map: map        });    }</script><script async="" defer=""        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDCD686jeBcuFYgXk6k7dCHiWakzmYS6uI&callback=initMap"></script><!--<table cellpadding="0" cellspacing="0" width="100%">--><!--	<tr>--><!--		<td width="20">&nbsp;</td>--><!--		<td valign="top"><br>--><!--		<h2><font color="#ba7025" face="ARIAL">Members' areas</font></h2>--><!--		</td>--><!--		<td width="20">&nbsp;</td>--><!--	</tr>--><!--	<tr>--><!--		<td width="20">&nbsp;</td>--><!--		<td><font color="black" size="3">Various members of Cooleman Ridge Park --><!--		Care Group have undertaken to look after areas of their own choosing, weeding, --><!--		monitoring and generally enjoying them. The map refers to these areas with --><!--		numbers signifying the relevant caretaker. The numbers and letters in the --><!--		margins of the map denote the squares; for instance, the top of Mt Arawang --><!--		is in square K8.--><!--		<p></p>--><!--		<ol>--><!--			<li>Alan </li>--><!--			<li>Erika </li>--><!--			<li>Gï¿½sta </li>--><!--			<li>Pauline </li>--><!--			<li>Malcolm </li>--><!--			<li>Reet </li>--><!--			<li>Mike and Pat </li>--><!--			<li>Elizabeth </li>--><!--			<li>Kathryn </li>--><!--			<li>David (Monkman Street) </li>--><!--			<li>Paul </li>--><!--			<li>David (Lincoln Place) </li>--><!--			<li>Rohan </li>--><!--			<li>Doug </li>--><!--			<li>Mary </li>--><!--			<li>Tina </li>--><!--		</ol>--><!--		</font></td>--><!--		<td width="20">&nbsp;</td>--><!--	</tr>--><!--	<tr>--><!--		<td colspan="3">&nbsp;</td>--><!--	</tr>--><!--	<tr>--><!--		<td width="20">&nbsp;</td>--><!--		<td align="center">--><!--		<img alt="map" height="510" src="images/map.jpg" width="700"></td>--><!--		<td width="20">&nbsp;</td>--><!--	</tr>--><!--	<tr>--><!--		<td colspan="3">&nbsp;</td>--><!--	</tr>--><!--	<tr>--><!--		<td width="20">&nbsp;</td>--><!--		<td align="center">Map by Treeline Designs, Barton, ACT.</td>--><!--		<td width="20">&nbsp;</td>--><!--	</tr>--><!--	<tr>--><!--		<td colspan="3">&nbsp;</td>--><!--	</tr>--><!--	<tr>--><!--		<td width="20">&nbsp;</td>--><!--		<td align="right"><a href="index.php">Home Page</a></td>--><!--		<td width="20">&nbsp;</td>--><!--	</tr>--><!--	<tr>--><!--		<td width="20">&nbsp;</td>--><!--		<td align="left"><a href="members.php">Members' page</a></td>--><!--		<td width="20">&nbsp;</td>--><!--	</tr>--><!--</table>--><?php include 'footer.php'; ?></body></html>

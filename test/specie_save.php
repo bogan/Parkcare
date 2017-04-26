@@ -6,12 +6,12 @@ $exotic = $_REQUEST['exotic'] == "Yes" ? true : false;
 $habitat = $_REQUEST['habitat'];
 
 require("dbinfo.php");
-$conn = @mysql_connect($username,$password,$database);
+$con = @mysql_connect("localhost",$username,$password);
 
-if (!$conn) {
+if (!$con) {
 	die('Could not connect: ' . mysql_error());
 }
-mysql_select_db('parkcare', $conn);
+mysql_select_db('parkcare', $con);
 
 
 $sql = "insert into species(name,commonName,exotic,habitat) values ('$name','$commonName', $exotic,'$habitat')";

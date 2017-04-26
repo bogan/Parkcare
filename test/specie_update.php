@@ -14,12 +14,12 @@ $firephp->log('Plain Fred Message');     // or FB::
 
 
 require("/dbinfo.php");
-$conn = @mysql_connect($username,$password,$database);
-
-if (!$conn) {
+$con = @mysql_connect("localhost",$username,$password);
+	
+if (!$con) {
 	die('Could not connect: ' . mysql_error());
 }
-mysql_select_db('parkcare', $conn);
+mysql_select_db('parkcare', $con);
 
 //$sql = "update species set name='$name',commonName='$commonName',exotic='$exotic',habitat='$habitat' where idspecies=$idspecies";
 

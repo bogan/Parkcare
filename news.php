@@ -1,21 +1,10 @@
-<!DOCTYPE HTML>
-<html>
+			<?php $title = 'News';	?>
+			<?php include 'header.php'; ?>
 
-	<head>
-		<title>News</title>
-		<meta content="text/html; charset=windows-1252" http-equiv="Content-Type">
-		<meta content="MSHTML 9.00.8112.16443" name="GENERATOR">
-		<link rel="stylesheet" href="bootstrap/css/bootstrap.css" type="text/css">
-		<link rel="stylesheet" href="styles/style.css" type="text/css">
-	</head>
-
-	<body>
-		<div class="container">
-		<?php include 'header.php'; ?>
 			<div>
 				<h2>News</h2>
 			
-				<p>Our <a href="news/news.pdf">newsletter</a> is available in Adobe pdf 
+				<p>Our <a href="news/Jul14.pdf">newsletter</a> is available in Adobe pdf 
 				format. It contains news of our activities, recent vegetation growth and 
 				fauna sitings, as well as interesting features on plant identification, 
 				water quality and other info.</p>
@@ -33,8 +22,6 @@
 				to click on the BACK button on your web browser's toolbar (different browsers 
 				may vary, but this is usually at the top left of your screen).</p>
 			</div>
-		<?php include 'footer.php'; ?>
-		</div>
-	</body>
-</html>
+
+			<?php include 'footer.php'; ?>
 

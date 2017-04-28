@@ -115,9 +115,9 @@ include 'database.php';
 <p/>
 
 
-<div>
-	<a href="blackberry.php">Create New Record</a>
-</div>
+<!--<div>-->
+<!--	<a href="blackberry.php">Create New Record</a>-->
+<!--</div>-->
 <div>
 	<a href="kml.php">Export as KML file</a>
 </div>
@@ -140,7 +140,7 @@ include 'database.php';
     <th>Comment</th>
     <th>Creation Date</th>
     <th>Last Updated Date</th>
-    <th>Action</th>
+<!--    <th>Action</th>-->
   </tr>
 
 <?php
@@ -167,7 +167,7 @@ while($row = $result->fetch_assoc()) {
 	echo "<td>" . $row["comment"]. "</td>";
 	echo "<td>" . date_format($creation_date,"d/m/Y"). "</td>";
 	echo "<td>" . date_format($last_updated_date,"d/m/Y"). "</td>";
-	echo "<td><a href=\"blackberry.php?id=$id\">" . "Edit</a></td>";
+//	echo "<td><a href=\"blackberry.php?id=$id\">" . "Edit</a></td>";
 	echo "</tr>";
 }		
 		

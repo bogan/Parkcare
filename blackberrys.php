@@ -34,8 +34,8 @@ include 'database.php';
   ]
 
     var map = new google.maps.Map(document.getElementById('map'), {
-    zoom: 17,
-    center: { lat: -35.368648643663, lng: 149.04679442222 },
+    zoom: 15,
+    center: { lat: -35.361451, lng: 149.033615 },
     mapTypeId: google.maps.MapTypeId.SATELLITE
     });
 

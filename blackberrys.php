@@ -104,7 +104,7 @@ include 'database.php';
 <!--script src="http://maps.googleapis.com/maps/api/js"></script-->
 		
 
-<p>The following map displays specific occurences of blackberry bushes identified on a ground survey of Mt Arawang on 25 April 2016 by Rohan Thomas</p>
+<p>The following map displays specific occurences of blackberry bushes found on Cooleman Ridge Nature Reserve</p>
 
 <div id="map" style="width:1000px;height:760px;"></div>
 

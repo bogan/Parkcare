@@ -1,62 +1,45 @@
-			<?php $title = 'About';	?>
-			<?php include 'header.php'; ?>
-			<div>
-				<h2>About the Group</h2>
-				
-				<p>
-				Cooleman Ridge Park Care Group Inc. is one of a number 
-				of park care groups around Canberra which take an interest in our Nature 
-				Parks. Thanks to the work of members, weeds are kept down, tracks are maintained 
-				and native trees, bushes and grasses are planted.
-				</p>
-					
-				<p>The group was formed in 1991. Since then it has removed the majority 
-				of the woody weeds <i>Pyracantha, Rosa rubiginosa</i> (Sweet Briar), etc, 
-				and greatly reduced thistles and <i>Verbascum.</i> Large areas of <i>Phalaris</i> 
-				grass have been cut to reduce fire fuel. Native tree plantations have been 
-				established and mid-storey plants and native grasses put in to many areas. 
-				Only indigenous trees and plants are used.</p>
-				
-				<h2>Activities</h2>
-				
-				<p>
-					Members typically have their own small area to caretake 
-					and also cooperate to work over the whole area at monthly meetings. This 
-					enables us to have an overall strategy and help each other on the larger 
-					jobs.
-				</p>
-				<p>
-					The group meets once a month on the third Sunday. Our
-					<a href="news.php">newsletter</a> gives details. Smaller groups meet weekly 
-					on Monday and Friday mornings.
-				</p>
-				<p>
-					At our meetings we:
-				</p>
-				<p>
-					<ul>
-						<li>Weed </li>
-						<li>Plant </li>
-						<li>Study the wildlife </li>
-						<li>Take part in theme walks</li>
-					</ul>
-				</p>
-				<p>
-					Members are also involved with:
-				</p>
-				<p>
-					<ul>
-						<li>Tree survey </li>
-						<li>Bird monitoring </li>
-						<li>Fire fuel reduction </li>
-						<li>Herbarium compilation </li>
-						<li>Vegetation surveys </li>
-						<li>Waterwatch </li>
-						<li>Photographic record </li>
-					</ul>
-				</p>
-				<p>
-					To find out more about our activities please email <a href="mailto:admin@coolemanridge.org.au">Cooleman Ridge Parkcare Group</a>.
-				</p>
-			</div>
-			<?php include 'footer.php'; ?>
+<?php $title = 'About';
+include 'header.php';
+?>
+
+
+
+    <h2 class="page-header">About</h2>
+
+    <p>
+    The Cooleman Ridge Park Care Group is a <a href="http://www.environment.act.gov.au/parks-conservation/parks-and-reserves/get-involved/parkcare-and-urban-landcare-program">ParkCare</a> group that &quot;cares&quot; for the Cooleman Ridge Nature Reserve.
+    </p>
+
+    <p>
+    The Cooleman Ridge Park Care Group is part of a network of other parkcare groups throughout the ACT.
+    </p>
+
+    <p>
+    The mission of the Cooleman Ridge Park Care Group is to &quot;restore the bush&quot; by returning the ecology of the nature reserve to it's pre-European state.
+    </p>
+
+    <p>The nature reserve borders the Canberra suburbs of Chapman, Fisher and Kambah</p>
+
+    <p>
+       The official map of the nature reserve can be found at <a href="http://www.environment.act.gov.au/__data/assets/pdf_file/0007/390589/cnpmapcooleman.pdf">Cooleman Ridge Nature Reserve Map</a>
+    </p>
+
+    <div id="map" style="width:750px;height:600px;"></div>
+
+    <script>
+        function initMap() {
+
+            var map = new google.maps.Map(document.getElementById('map'), {
+                zoom: 14,
+                center: { lat: -35.361451, lng: 149.033615 },
+                mapTypeId: google.maps.MapTypeId.MAP
+            });
+        }
+    </script>
+
+    <script async="" defer=""
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDCD686jeBcuFYgXk6k7dCHiWakzmYS6uI&callback=initMap">
+    </script>
+
+<?php include 'footer.php'; ?>
+

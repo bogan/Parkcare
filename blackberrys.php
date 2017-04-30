@@ -34,8 +34,8 @@ include 'database.php';
   ]
 
     var map = new google.maps.Map(document.getElementById('map'), {
-    zoom: 17,
-    center: { lat: -35.368648643663, lng: 149.04679442222 },
+    zoom: 15,
+    center: { lat: -35.361451, lng: 149.033615 },
     mapTypeId: google.maps.MapTypeId.SATELLITE
     });
 
@@ -96,17 +96,21 @@ include 'database.php';
     }
 
 </script>
+
 <script async="" defer=""
             src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDCD686jeBcuFYgXk6k7dCHiWakzmYS6uI&callback=initMap">
 </script>
 
 
 <!--script src="http://maps.googleapis.com/maps/api/js"></script-->
-		
 
-<p>The following map displays specific occurences of blackberry bushes identified on a ground survey of Mt Arawang on 25 April 2016 by Rohan Thomas</p>
+<h2 class="page-header">Blackberry Survey</h2>
 
-<div id="map" style="width:1000px;height:760px;"></div>
+<p>The following map displays specific occurences of blackberry bushes found on Cooleman Ridge Nature Reserve</p>
+
+<p><strong>NOTE: You can click on each marker for more detailed information</strong></p>
+
+<div id="map" style="width:750px;height:600px;"></div>
 
 <p/>
 
@@ -115,9 +119,9 @@ include 'database.php';
 <p/>
 
 
-<div>
-	<a href="blackberry.php">Create New Record</a>
-</div>
+<!--<div>-->
+<!--	<a href="blackberry.php">Create New Record</a>-->
+<!--</div>-->
 <div>
 	<a href="kml.php">Export as KML file</a>
 </div>
@@ -140,7 +144,7 @@ include 'database.php';
     <th>Comment</th>
     <th>Creation Date</th>
     <th>Last Updated Date</th>
-    <th>Action</th>
+<!--    <th>Action</th>-->
   </tr>
 
 <?php
@@ -167,7 +171,7 @@ while($row = $result->fetch_assoc()) {
 	echo "<td>" . $row["comment"]. "</td>";
 	echo "<td>" . date_format($creation_date,"d/m/Y"). "</td>";
 	echo "<td>" . date_format($last_updated_date,"d/m/Y"). "</td>";
-	echo "<td><a href=\"blackberry.php?id=$id\">" . "Edit</a></td>";
+//	echo "<td><a href=\"blackberry.php?id=$id\">" . "Edit</a></td>";
 	echo "</tr>";
 }		
 		

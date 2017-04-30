@@ -21,8 +21,8 @@
       href="../place.php"><IMG border=2 
       src="../images/treesn.jpg" width=60 height=60></A></TD>
     <TD width=76 align=center><A 
-      href="../geology.php"><IMG border=2 
-      src="../images/rocks.jpg" width=60 height=60></A></TD>
+      href="../earth.php"><IMG border=2
+                               src="../images/rocks.jpg" width=60 height=60></A></TD>
     <TD width=76 align=center><A 
       href="../flora.php"><IMG border=2 
       src="../images/hibert.jpg" width=60 height=60></A></TD>
@@ -51,7 +51,7 @@
     <TD height=30 align=center BORDER="1"><A 
       href="../place.php">Ridge</A></TD>
     <TD height=30 align=center BORDER="1"><A 
-      href="../geology.php">Geology</A></TD>
+      href="../earth.php">Geology</A></TD>
     <TD height=30 align=center BORDER="1"><A 
       href="../flora.php">Plants</A></TD>
     <TD height=30 align=center BORDER="1"><A 

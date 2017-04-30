@@ -2,7 +2,7 @@
 			<?php include 'header.php'; ?>
 			
 			<div>
-				<h2>Geology </h2>
+				<h2 class="page-header">Earth</h2>
 				
 				<p><small>Contributed by Dr. John F. Lindsay former local geologist at AGSO</small></p>
 				

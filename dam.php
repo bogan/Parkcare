@@ -1,13 +1,13 @@
-			<?php $title = 'Dam';	?>
+			<?php $title = 'Dam Survey';	?>
 			<?php include 'header.php'; ?>
 			
 			<div>
 				
 				<p align="right">
-					<a href="/dam/2004.php">Photos</a>
+					<a href="dam/2004.php">Photos</a>
 				</p>
 				
-				<h2>Dams</h2>
+				<h2>Dam Survey</h2>
 				
 				<p>People say: "There is a dam at the Kathner Street entrance!". Nobody asks: 
 				"Why is there a dam at the Kathner Street entrance?". I’ll tell you </p>

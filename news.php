@@ -4,7 +4,7 @@
 			<div>
 				<h2>News</h2>
 			
-				<p>Our <a href="news/Jul14.pdf">newsletter</a> is available in Adobe pdf 
+				<p>Our <a href="news/Apr17.pdf">newsletter</a> is available in Adobe pdf
 				format. It contains news of our activities, recent vegetation growth and 
 				fauna sitings, as well as interesting features on plant identification, 
 				water quality and other info.</p>

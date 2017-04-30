@@ -1,15 +1,15 @@
-			<br/>
-			
-			<!--<div id="footer" class="row">
-				<div class="span12">
-					<p align="center">
-						<img alt="" height="42" src="images/echidnas.png" width="800" style="border:0px none black"></td>
-					</p>
-				</div>
-			</div>
--->			
-			<br/>
-		</div>
-	</body>
+            <!-- content ends here -->
+            </div>
+            <div class="col-sm-2">&nbsp;</div> <!-- right margin -->
+		</div> <!-- end row -->
 
+        <!-- footer -->
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    Foo Bar!
+                </div>
+            </div>
+        </div>
+	</body>
 </html>

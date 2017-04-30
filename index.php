@@ -10,7 +10,7 @@
             <td vAlign=middle width=20 align=center>&nbsp;</td>
             <td height=132 vAlign=middle width=140 align=center><A href="place.php"><IMG border=1 alt="" align=middle src="images/treesnow.jpg" width=130 height=130></A></td>
             <td vAlign=middle width=20 align=center>&nbsp;</td>
-            <td height=132 vAlign=middle width=140 align=center><A href="geology.php"><IMG border=1 alt="" align=middle src="images/rocksnow.jpg" width=130 height=130></A></td>
+            <td height=132 vAlign=middle width=140 align=center><A href="earth.php"><IMG border=1 alt="" align=middle src="images/rocksnow.jpg" width=130 height=130></A></td>
             <td vAlign=middle width=20 align=center>&nbsp;</td>
             <td height=132 vAlign=middle width=140 align=center><A href="flora.php"><IMG border=1 align=middle src="images/hibertic.jpg" width=130 height=130></A></td>
             <td vAlign=middle align=center>&nbsp;</td>

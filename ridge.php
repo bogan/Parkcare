@@ -26,7 +26,7 @@
 				<p>Did you know that Cooleman Ridge, like 
 				most of Canberra, sits on rocks 420 million years old? Volcanic activity, 
 				the ocean, lakes and weathering have all played their part in forming today's 
-				landscape. Read Dr. John F. Lindsay's interesting <a href="geology.php">
+				landscape. Read Dr. John F. Lindsay's interesting <a href="earth.php">
 				article</a> for more information about the geology of the area.</p>
 			<div>
 			

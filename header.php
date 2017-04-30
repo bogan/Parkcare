@@ -93,7 +93,7 @@
                     <!-- Our Ridge -->
                     <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown"><span style="color:#ba7025;font-family:arial;">Our Ridge</span><span class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a href="geology.php">Earth</a></li>
+                            <li><a href="earth.php">Earth</a></li>
                             <li><a href="fire.php">Fire</a></li>
                             <li><a href="water.php">Water</a></li>
                             <li><a href="flora.php">Flora</a></li>

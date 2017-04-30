@@ -13,7 +13,7 @@
 				
 				<p>The Cooleman Ridge Parkcare Group also undertakes various tree surveys of significant trees on the ridge.</p>
 
-                <p>Please see the <a href="treesurvey.php">Tree Survey</a> page for more details.</p>
+                <p>Please see the <a href="trees.php">Tree Survey</a> page for more details.</p>
 
                 <p>The Cooleman Ridge Parkcare Group also undertakes a survey of blackberry bushes on the ridge.</p>
 

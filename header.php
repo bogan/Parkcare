@@ -82,9 +82,10 @@
                         <ul class="dropdown-menu">
                             <li><a href="about.php">About</a></li>
                             <li><a href="grouphistory.php">History</a></li>
-                            <li><a href="fauna.php">Members</a></li>
+                            <li><a href="members.php">Members</a></li>
                             <li><a href="structure.php">Structure</a></li>
                             <li><a href="news.php">News</a></li>
+                            <li><a href="documents.php">Documents</a></li>
                             <li><a href="partners.php">Partners</a></li>
                             <li><a href="contact.php">Contact</a></li>
                         </ul>

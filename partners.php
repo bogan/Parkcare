@@ -14,15 +14,15 @@
 
     <p>The <a href="http://www.environment.act.gov.au/ACT-parks-conservation">ACT Parks and Conservation Service</a> is the main government agency responsible for the daily management of the nature reserve.</p>
 
-    <p>The ACT Parks and Conservation Service assist the group by providing information and general support to the group.</p>
+    <p>The ACT Parks and Conservation Service assists the group by providing information and general support to the group.</p>
 
     <h3>Southern ACT Catchment Group</h3>
 
     <img src="images/sactcg.jpg" style="height:100px;width:100px;float:left;padding:5px;margin: 5px"/>
 
-    <p>The <a href="http://www.environment.act.gov.au/ACT-parks-conservation">ACT Partks and Conservation Service</a> is the main government agency responsible for the daily management of the nature reserve.</p>
+    <p>The <a href="http://www.environment.act.gov.au/ACT-parks-conservation">Southern ACT Catchment Group</a> is the main government agency responsible for the daily management of the nature reserve.</p>
 
-    <p>The ACT Parks and Conservation Service assist the group by providing information and general support to the group.</p>
+    <p>The Southern ACT Catchment Group assists the group by providing information and general support to the group.</p>
 
     <h3>Green Army</h3>
 
@@ -30,7 +30,7 @@
 
     <p>The <a href="http://www.environment.gov.au/land/green-army">Green Army</a> helps out regularly performing many hands on jobs such as weeding, spraying, planting.</p>
 
-    <p>The Green Army assist the group by providing information and general support to the group.</p>
+    <p>The Green Army assists the group by providing information and general support to the group.</p>
 
     <h3>Private contractors</h3>
 

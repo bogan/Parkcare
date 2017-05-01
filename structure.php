@@ -3,9 +3,9 @@
 
     <h2 class="page-header">Structure</h2>
 
-    <p>The Cooleman Ridge Parkcare group has a formal stucture and has a formal constitution.</p>
+    <p>The Cooleman Ridge Parkcare group has a formal structure and has a formal constitution.</p>
 
-    <p>The group is managed by an elected executive committee that is elected annually.</p>
+    <p>The group is managed by an executive committee that is elected annually.</p>
 
     <p>
         <ul>

@@ -17,9 +17,6 @@
 				of the reserve including the woodland, the wildlife and the history of the 
 				area.</p>
 				
-				<p>Also on this site we have a simple <a href="ourmap.php">map</a> of Cooleman 
-				Ridge, showing its location in relation to the surrounding suburbs.</p>
-				
 				<h2>Links to related sites</h2>
 				
 				<p><i>NB: Links may change before we can update this page.</i></p>

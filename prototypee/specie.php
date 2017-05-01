@@ -5,11 +5,11 @@
 	<meta charset="utf-8">
 	<meta content="text/html; charset=windows-1252" http-equiv="Content-Type">
 	<meta content="MSHTML 9.00.8112.16443" name="GENERATOR">
-	<link rel="stylesheet" href="bootstrap/css/bootstrap.css" type="text/css">
-	<link href="styles/style.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="../bootstrap/css/bootstrap.css" type="text/css">
+	<link href="../styles/style.css" rel="stylesheet" type="text/css">
 	<script type="text/javascript" src="/jquery/jquery-1.8.3.min.js"></script>	
-	<link rel="stylesheet" href="/styles/redactor.css" />
-	<script src="/scripts/redactor.js"></script>
+	<link rel="stylesheet" href="/redactor.css" />
+	<script src="/redactor.js"></script>
 	<script type="text/javascript">
         $(document).ready(
             function () 

@@ -17,7 +17,7 @@
         <meta name=generator content="MSHTML 9.00.8112.16443">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <link href="/images/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+        <link href="images/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
         <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 		<link rel="stylesheet" href="styles/style.css" type="text/css">
 

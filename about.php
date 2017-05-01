@@ -11,6 +11,10 @@ include 'header.php';
     </p>
 
     <p>
+        The Cooleman Ridge Park Care Group is small but active group.
+    </p>
+
+    <p>
     The Cooleman Ridge Park Care Group is part of a network of other parkcare groups throughout the ACT.
     </p>
 
@@ -18,7 +22,7 @@ include 'header.php';
     The mission of the Cooleman Ridge Park Care Group is to &quot;restore the bush&quot; by returning the ecology of the nature reserve to it's pre-European state.
     </p>
 
-    <p>The nature reserve borders the Canberra suburbs of Chapman, Fisher and Kambah</p>
+    <p>The nature reserve borders the Canberra suburbs of Chapman, Fisher and Kambah.</p>
 
     <p>
        The official map of the nature reserve can be found at <a href="http://www.environment.act.gov.au/__data/assets/pdf_file/0007/390589/cnpmapcooleman.pdf">Cooleman Ridge Nature Reserve Map</a>
@@ -26,13 +30,19 @@ include 'header.php';
 
     <div id="map" style="width:750px;height:600px;"></div>
 
+    <br/>
+
+    <div align="center">
+        <img align="center" alt="" height="970" src="images/ourmap.jpg" width="700">
+    </div>
+
     <script>
         function initMap() {
 
             var map = new google.maps.Map(document.getElementById('map'), {
                 zoom: 14,
                 center: { lat: -35.361451, lng: 149.033615 },
-                mapTypeId: google.maps.MapTypeId.MAP
+                mapTypeId: google.maps.MapTypeId.TERRAIN
             });
         }
     </script>

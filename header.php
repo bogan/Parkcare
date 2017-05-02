@@ -130,10 +130,16 @@
                             <li><a href="activities.php">Actvities</a></li>
                             <li><a href="meetings.php">Meetings</a></li>
                             <li><a href="methods.php">Methods</a></li>
-                            <li><a href="areas.php">Areas</a></li>
+                            <li class="dropdown-submenu">
+                                <a tabindex="0">Areas</a>
+                                <ul class="dropdown-menu">
+                                    <li><a tabindex="0" href="groupareas.php">Group</a></li>
+                                    <li><a tabindex="0" href="individualareas.php">Individual</a></li>
+                                    <li><a tabindex="0" href="specialpurposeareas.php">Special Purpose</a></li>
+                                </ul>
+                            </li>
                             <li class="dropdown-submenu">
                                 <a tabindex="0">Surveys</a>
-
                                 <ul class="dropdown-menu">
                                     <li><a tabindex="0" href="plants.php">Plants</a></li>
                                     <li><a tabindex="0" href="animals.php">Animals</a></li>

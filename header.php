@@ -85,12 +85,14 @@
                 <a class="navbar-brand" href="index.php"><span style="color:#ba7025;font-family:arial;">Cooleman Ridge Parkcare Group</span></a>
             </div>
 
-            <!-- Our Work -->
             <div>
                 <ul class="nav navbar-nav">
 
                     <!-- Our Group -->
-                    <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown"><span style="color:#ba7025;font-family:arial;">Our Group</span> <span class="caret"></span></a>
+                    <li class="dropdown">
+                        <a tabindex="0" aria-expanded="false" data-toggle="dropdown" data-submenu="">
+                            Our Group<span class="caret"></span></a>
+
                         <ul class="dropdown-menu">
                             <li><a href="about.php">About</a></li>
                             <li><a href="grouphistory.php">History</a></li>
@@ -104,7 +106,10 @@
                     </li>
 
                     <!-- Our Ridge -->
-                    <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown"><span style="color:#ba7025;font-family:arial;">Our Ridge Foo</span><span class="caret"></span></a>
+                    <li class="dropdown">
+                        <a tabindex="0" aria-expanded="false" data-toggle="dropdown" data-submenu="">
+                            Our Ridge<span class="caret"></span></a>
+
                         <ul class="dropdown-menu">
                             <li><a href="earth.php">Earth</a></li>
                             <li><a href="fire.php">Fire</a></li>

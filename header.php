@@ -4,6 +4,7 @@
 	<head>
 		<title><?php echo "$title" ?> </title>
 
+        <!-- Meta -->
         <meta charset="utf-8">
         <meta content="text/html; charset=iso-8859-1" http-equiv=Content-Type>
         <meta name=title content="Cooleman Ridge Park Care Group">
@@ -17,15 +18,22 @@
         <meta name=generator content="MSHTML 9.00.8112.16443">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
+        <!-- Icons -->
         <link href="images/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
-        <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-		<link rel="stylesheet" href="styles/style.css" type="text/css">
 
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-		<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-		<!--script src="http://maps.googleapis.com/maps/api/js"></script-->
-		<script type="text/javascript" src="jquery/jquery.tablesorter.min.js"></script> 
-		<script type="text/javascript">
+        <!-- Stylesheets -->
+        <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" type="text/css">
+        <link rel="stylesheet" href="styles/bootstrap-submenu.min.css" type="text/css">
+        <link rel="stylesheet" href="styles/style.css" type="text/css">
+
+        <!-- Scripts -->
+        <!--script src="http://maps.googleapis.com/maps/api/js" type="text/javascript"/>-->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js" type="text/javascript"></script>
+		<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" type="text/javascript"></script>
+		<script src="scripts/jquery.tablesorter.min.js" type="text/javascript"></script>
+        <script src="scripts/bootstrap-submenu.min.js"  type="text/javascript"></script>
+
+        <script type="text/javascript">
 
 			$(document).ready(function() {         
 					$("#myTable").tablesorter({         

@@ -1,12 +1,16 @@
 <?php $title = 'Meetings';	?>
 <?php include 'header.php'; ?>
 
-    <h3 class="page-header">Meetings</h3>
+    <h2 class="page-header">Meetings</h2>
+
+    <h3>Group Meetings</h3>
 
     <p>
-        The group meets once a month on the third Sunday of every month for a group working party. The group works on one of designated group work areas.
+        The group meets once a month on the third Sunday of every month for a group working party. The group works on one of designated group <a href="groupareas.php" >work areas</a>.
         Please see our latest <a href="news.php">newsletter</a> for the specific details for our next meeting.
     </p>
+
+    <h3>Weekly Meetings</h3>
 
     <p>
         There are also smaller weekly work groups that focus on just one specific area of the nature reserve. These include:
@@ -15,6 +19,13 @@
         <li>Arawang Group - every Wednesday morning at the Mt Arawang site</li>
     </ul>
 
+    </p>
+
+    <h3>Annual General Meeting</h3>
+
+    <p>
+        The group meets once a month on the third Sunday of every month for a group working party. The group works on one of designated group <a href="groupareas.php" >work areas</a>.
+        Please see our latest <a href="news.php">newsletter</a> for the specific details for our next meeting.
     </p>
 
 <?php include 'footer.php'; ?>

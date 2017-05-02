@@ -11,15 +11,15 @@ include 'header.php';
     </p>
 
     <p>
-        The Cooleman Ridge Park Care Group is small but active group.
+        The Cooleman Ridge Park Care Group is small but active group made up of various volunteers.
     </p>
 
     <p>
-    The Cooleman Ridge Park Care Group is part of a network of other parkcare groups throughout the ACT.
+    The Cooleman Ridge Park Care Group is part of a larger network of other parkcare groups working throughout the ACT.
     </p>
 
     <p>
-    The mission of the Cooleman Ridge Park Care Group is to &quot;restore the bush&quot; by returning the ecology of the nature reserve to it's pre-European state.
+    The mission of the Cooleman Ridge Park Care Group is to &quot;restore the bush&quot; by returning the ecology of the nature reserve to its pre-European state.
     </p>
 
     <p>The nature reserve borders the Canberra suburbs of Chapman, Fisher and Kambah.</p>

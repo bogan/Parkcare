@@ -12,7 +12,7 @@
 
     <p>Weeding is the main day to day activity. Although weeding is not glamourous, the group believes that it is the single most effective activity that can be used to restore the ecology of the ridge.</p>
 
-    <p>Blah, blah, blah</p>
+    <p>Our belief in the effectiveness of weeding is based on our own experience and the experience of similar landcare groups. Please see our <a href="methods.php">methods page</a> for a more detailed explanation of how weeding is a vital part of our strategy to regenerate the native vegetation of the ridge.</p>
 
     <h3>Planting</h3>
 

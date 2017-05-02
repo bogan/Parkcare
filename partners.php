@@ -32,6 +32,14 @@
 
     <p>The Green Army assists the group by providing information and general support to the group.</p>
 
+    <h3>Landcare Australia</h3>
+
+    <img src="images/landcare.jpg" style="height:100px;width:100px;float:left;padding:5px;margin: 5px"/>
+
+    <p><a href="https://landcareaustralia.org.au/">Landcare Australia</a> helps out regularly performing many hands on jobs such as weeding, spraying, planting.</p>
+
+    <p>The Green Army assists the group by providing information and general support to the group.</p>
+
     <h3>Private contractors</h3>
 
     <p>To be completed</p>

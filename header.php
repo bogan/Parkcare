@@ -36,11 +36,15 @@
         <script type="text/javascript">
 
 			$(document).ready(function() {         
-					$("#myTable").tablesorter({         
-					sortList: [[1,0]] 
-					});
+                $("#myTable").tablesorter({
+                    sortList: [[1,0]]
+                });
+
+                $('[data-submenu]').submenupicker();
 			 }); 
 		</script>
+
+
 
        <style type="text/css">
 			td
@@ -100,7 +104,7 @@
                     </li>
 
                     <!-- Our Ridge -->
-                    <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown"><span style="color:#ba7025;font-family:arial;">Our Ridge</span><span class="caret"></span></a>
+                    <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown"><span style="color:#ba7025;font-family:arial;">Our Ridge Foo</span><span class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li><a href="earth.php">Earth</a></li>
                             <li><a href="fire.php">Fire</a></li>
@@ -112,14 +116,31 @@
                     </li>
 
                     <!-- Our Work -->
-                    <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown"><span style="color:#ba7025;font-family:arial;">Our Work</span><span class="caret"></span></a>
+                    <li class="dropdown">
+                        <a tabindex="0" aria-expanded="false" data-toggle="dropdown" data-submenu="">
+                            Our Work<span class="caret"></span>
+                        </a>
+
                         <ul class="dropdown-menu">
                             <li><a href="activities.php">Actvities</a></li>
                             <li><a href="meetings.php">Meetings</a></li>
                             <li><a href="methods.php">Methods</a></li>
-                            <li><a href="surveys.php">Surveys</a></li>
                             <li><a href="areas.php">Areas</a></li>
+                            <li class="dropdown-submenu">
+                                <a tabindex="0">Surveys</a>
+
+                                <ul class="dropdown-menu">
+                                    <li><a tabindex="0" href="plants.php">Plants</a></li>
+                                    <li><a tabindex="0" href="animals.php">Animals</a></li>
+                                    <li><a tabindex="0" href="trees.php">Trees</a></li>
+                                    <li><a tabindex="0" href="blackberrys.php">Blackberrys</a></li>
+                                    <li><a tabindex="0" href="dam.php">Dam</a></li>
+                                    <li><a tabindex="0" href="woodyweed.php">Woody Weeds</a></li>
+                                </ul>
+                            </li>
                             <li><a href="contribute.php">Contribute</a></li>
+
+
                         </ul>
                     </li>
                 </ul>

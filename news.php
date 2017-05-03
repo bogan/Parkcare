@@ -4,16 +4,22 @@
 
     <h2>News</h2>
 
-    <p>Our <a href="news/Apr17.pdf">newsletter</a> is available in Adobe pdf
-    format. It contains news of our activities, recent vegetation growth and
+    <p>News about our group, our ridge and our work is published via our monthly newsletter.</p>
+
+    <p>It is published approximately 10 days before our regular monthly meeting.</p>
+
+    <p>It contains news of our activities, recent vegetation growth and
     fauna sitings, as well as interesting features on plant identification,
     water quality and other info.</p>
 
     <p>A regular feature is the "What's Around" segment, which includes a couple
     of pictures of plants with their names and a short description.</p>
 
-    <p>Some <a href="previous.php">previous newsletters</a> are available in
-    pdf format.</p>
+    <p>Our newsletter is available in Adobe pdf format.</p>
+
+    <p> The newsletter is distributed via email. If you want to subscribe or unsubscribe to the newsletter, please send us an email via the contact page.</p>
+
+    <p>You can search through the newsletters by using the search functionality in the navigation bar above.</p>
 
 <h2>Previous Newsletters</h2>
 

@@ -22,6 +22,16 @@ include 'header.php';
     The mission of the Cooleman Ridge Park Care Group is to &quot;restore the bush&quot; by returning the ecology of the nature reserve to its pre-European state.
     </p>
 
+    <p>
+        The ridge has been part of various rural properties and the ecology of the ridge has been significantly change to fit in with the thinking of the day.
+        The ridge has since became a nature reserve in the 1980's. Please see our <a href="history">history</a> page for a more detailed description of the history of the ridge.
+    </p>
+
+    <p>
+        The group has managed to make some major improvements to the ecology of the ridge. Native habit has been progressively replaced damaged errors. There is still a signficant amoun of work to be done.
+        Please see our group areas and individual areas to be more aware of the progress that has been made of the years.
+    </p>
+
     <p>The nature reserve borders the Canberra suburbs of Chapman, Fisher and Kambah.</p>
 
     <p>

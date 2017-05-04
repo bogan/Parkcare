@@ -28,6 +28,8 @@
 
     <p>The group undertakes various surveys that record a significant aspect of the nature reserve (eg. plants, animals, weeds, etc). These surveys are used to assist in the ongoing management of the ridge. Please visit our <a href="surveys.php">surveys</a> page for more information.</p>
 
+<p>They also are an important way to record the history of the ridge and the groups work on it for future generations.</p>
+
     <p>Blah, blah, blah</p>
 
     <h3>Guided Walks</h3>

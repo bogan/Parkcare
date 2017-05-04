@@ -33,8 +33,12 @@
 
     <p>To be completed</p>
 
-    <h3>Frogwatch Survey</h3>
+    <h3>Fire Survey</h3>
 
     <p>To be completed</p>
+
+    <h3>Dam Survey</h3>
+
+    <p>The group undertakes various surveys to assist in the ongoing management of the ridge. Please visit our <a href="dam.php">Dams</a> page for more information.</p>
 
 <?php include 'footer.php'; ?>

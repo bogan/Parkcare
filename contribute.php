@@ -27,9 +27,13 @@
 
     <p>Desktop publishing skills are also appreciated</p>
 
+    <h3>Web Site Content</h3>
+
+    <p>If you have some information that you think may be valualbe please let us know, no matter how small. If you have a idea for a new page or section then let us know.</p>
+
     <h3>Website</h3>
 
-    <p>You can help with improving and maintaining this website. If you have some web development skills (graphic design, programming, database administration, etc), then we can find something for you to do.</p>
+    <p>You can help with improving and maintaining this website. If you have some web development skills (graphic design, programming, database administration, web hosting, etc), then we can find something for you to do.</p>
 
     <h3>Photography</h3>
 

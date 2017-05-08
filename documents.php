@@ -1,7 +1,13 @@
 <?php $title = 'Documents';	?>
 <?php include 'header.php'; ?>
 
-    <h2 class="page-header">Important Documents</h2>
+    <ul class="breadcrumb">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Our Group</a></li>
+        <li class="active">Documents</li>
+    </ul>
+
+    <h2 class="page-header">Documents</h2>
 
     <p>
         <a href="news/Letter%20to%20Chief%20Minister.doc">Letter to Chief Minister</a>

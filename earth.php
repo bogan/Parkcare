@@ -1,6 +1,12 @@
 			<?php $title = 'Earth';	?>
 			<?php include 'header.php'; ?>
 
+            <ul class="breadcrumb">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Our Ridge</a></li>
+                <li class="active">Earth</li>
+            </ul>
+
             <h2 class="page-header">Earth</h2>
 
             <p>Did you know that Cooleman Ridge, like

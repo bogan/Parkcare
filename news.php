@@ -2,7 +2,13 @@
 <?php include 'header.php'; ?>
 
 
-    <h2>News</h2>
+<ul class="breadcrumb">
+    <li><a href="#">Home</a></li>
+    <li><a href="#">Our Group</a></li>
+    <li class="active">News</li>
+</ul>
+
+<h2>News</h2>
 
     <p>News about our group, our ridge and our work is published via our monthly newsletter.</p>
 
@@ -23,7 +29,7 @@
 
 <h2>Previous Newsletters</h2>
 
-<table class="news">
+<table  class="tablesorter table table-striped table-bordered table-hover table-condensed">
     <tr>
         <th>&nbsp;</th>
         <th class="news">2008</th>

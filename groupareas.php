@@ -1,6 +1,13 @@
 <?php $title = 'Group Areas';	?>
 <?php include 'header.php'; ?>
 
+    <ul class="breadcrumb">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Our Work</a></li>
+        <li><a href="#">Areas</a></li>
+        <li class="active">Group Areas</li>
+    </ul>
+
     <h2 class="page-header">Group Areas</h2>
 
     <p>Group Areas have been defined for where regular group work is perform.</p>

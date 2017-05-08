@@ -1,6 +1,12 @@
 <?php $title = 'Contribute';	?>
 <?php include 'header.php'; ?>
 
+    <ul class="breadcrumb">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Our Work</a></li>
+        <li class="active">Contribute</li>
+    </ul>
+
     <h2>Contribute</h2>
 
     <p>The Cooleman Ridge Parkcare Group needs your help!</p>

@@ -1,6 +1,12 @@
 <?php $title = 'Water';	?>
 <?php include 'header.php'; ?>
 
+    <ul class="breadcrumb">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Our Ridge</a></li>
+        <li class="active">Water</li>
+    </ul>
+
     <h2 class="page-header">Water</h2>
 
     <p>The ridge is unfortunately lacking in signicant water course.</p>

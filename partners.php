@@ -1,7 +1,13 @@
 <?php $title = 'Partners';	?>
 <?php include 'header.php'; ?>
 
-    <h2 class="page-header">Partners</h2>
+<ul class="breadcrumb">
+    <li><a href="#">Home</a></li>
+    <li><a href="#">Our Group</a></li>
+    <li class="active">Partners</li>
+</ul>
+
+<h2 class="page-header">Partners</h2>
 
     <p>
         The group works with a number of other organisations to help care for the Cooleman Ridge Nature Reserve. These include:

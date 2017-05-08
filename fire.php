@@ -1,6 +1,13 @@
 			<?php $title = 'Fire';	?>
 			<?php include 'header.php'; ?>
 
+            <ul class="breadcrumb">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Our Ridge</a></li>
+                <li class="active">Fire</li>
+            </ul>
+
+
             <h2 class="page-header">Fire</h2>
 
             <p>Fire is an important part of the ridge and the work that we do.</p>

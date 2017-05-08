@@ -2,9 +2,13 @@
 include 'header.php';
 ?>
 
+<ul class="breadcrumb">
+    <li><a href="#">Home</a></li>
+    <li><a href="#">Our Group</a></li>
+    <li class="active">About</li>
+</ul>
 
-
-    <h2 class="page-header">About</h2>
+<h2 class="page-header">About</h2>
 
     <p>
     The Cooleman Ridge Park Care Group is a <a href="http://www.environment.act.gov.au/parks-conservation/parks-and-reserves/get-involved/parkcare-and-urban-landcare-program">ParkCare</a> group that &quot;cares&quot; for the Cooleman Ridge Nature Reserve.

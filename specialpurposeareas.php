@@ -1,6 +1,13 @@
 <?php $title = 'Special Purpose Areas';	?>
 <?php include 'header.php'; ?>
 
+    <ul class="breadcrumb">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Our Work</a></li>
+        <li><a href="#">Areas</a></li>
+        <li class="active">Special Purpose Areas</li>
+    </ul>
+
     <h2 class="page-header">Special Purpose Areas</h2>
 
     <p>The group has defined several informal areas that are significant for one reason or another.</p>

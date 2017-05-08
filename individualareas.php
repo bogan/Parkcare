@@ -1,6 +1,13 @@
 <?php $title = 'Individual Areas';	?>
 <?php include 'header.php'; ?>
 
+    <ul class="breadcrumb">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Our Work</a></li>
+        <li><a href="#">Areas</a></li>
+        <li class="active">Individual Areas</li>
+    </ul>
+
     <h2 class="page-header">Individual Areas</h2>
 
     <p>The group has also many individual work areas. These are typically small areas outside of the group areas where individual members work by themselves whenever they want.</p>

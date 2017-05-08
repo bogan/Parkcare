@@ -1,6 +1,12 @@
 <?php $title = 'Contact';	?>
 <?php include 'header.php'; ?>
 
+    <ul class="breadcrumb">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Our Group</a></li>
+        <li class="active">Contact</li>
+    </ul>
+
     <h2 class="page-header">Contact</h2>
 
     <p>

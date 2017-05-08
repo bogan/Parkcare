@@ -1,6 +1,12 @@
 <?php $title = 'Activities';	?>
 <?php include 'header.php'; ?>
 
+    <ul class="breadcrumb">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Our Work</a></li>
+        <li class="active">Activities</li>
+    </ul>
+
     <h2 class="page-header">Actvities</h2>
 
     <p>The group performs a wide variety of work including:</p>

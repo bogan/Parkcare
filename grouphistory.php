@@ -1,7 +1,13 @@
 <?php $title = 'History';	?>
 <?php include 'header.php'; ?>
 
-    <h2 class="page-header">Group History</h2>
+<ul class="breadcrumb">
+    <li><a href="#">Home</a></li>
+    <li><a href="#">Our Group</a></li>
+    <li class="active">Group History</li>
+</ul>
+
+<h2 class="page-header">Group History</h2>
 
     <p>The group was formed in 1991 by three ladies - Bess Sledge, Pauline Lynga and Tina Nevins. </p>
 

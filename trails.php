@@ -1,6 +1,12 @@
 <?php $title = 'Trails';	?>
 <?php include 'header.php'; ?>
 
+    <ul class="breadcrumb">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Our Ridge</a></li>
+        <li class="active">Trails</li>
+    </ul>
+
     <h2 class="page-header">Trails</h2>
 
     <p>The Cooleman Ridge Nature Reserve is lucky to be home to a wide variety of tracks that are of local, regional and national significance.</p>

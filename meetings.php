@@ -1,6 +1,12 @@
 <?php $title = 'Meetings';	?>
 <?php include 'header.php'; ?>
 
+    <ul class="breadcrumb">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Our Work</a></li>
+        <li class="active">Meetings</li>
+    </ul>
+
     <h2 class="page-header">Meetings</h2>
 
     <h3>Group Meetings</h3>

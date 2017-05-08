@@ -1,6 +1,12 @@
 <?php $title = 'Methods';	?>
 <?php include 'header.php'; ?>
 
+    <ul class="breadcrumb">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Our Work</a></li>
+        <li class="active">Methods</li>
+    </ul>
+
     <h2 class="page-header">Methods</h2>
 
     <p>The Cooleman Ridge Parkcare group uses its own variation of the <a href="https://en.wikipedia.org/wiki/Bush_regeneration#Bradley_method">Bradley Method</a>  to regenerate the bush.</p>

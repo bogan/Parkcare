@@ -1,6 +1,12 @@
 <?php $title = 'Members';	?>
 <?php include 'header.php'; ?>
 
+<ul class="breadcrumb">
+    <li><a href="#">Home</a></li>
+    <li><a href="#">Our Group</a></li>
+    <li class="active">Members</li>
+</ul>
+
 <h2>Members</h2>
 
     <p>If you'd like to know more about Cooleman

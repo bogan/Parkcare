@@ -1,6 +1,12 @@
 <?php $title = 'Structure';	?>
 <?php include 'header.php'; ?>
 
+    <ul class="breadcrumb">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Our Group</a></li>
+        <li class="active">Structure</li>
+    </ul>
+
     <h2 class="page-header">Structure</h2>
 
     <p>The Cooleman Ridge Parkcare group has a formal structure and has a formal constitution.</p>

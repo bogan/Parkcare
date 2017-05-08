@@ -104,6 +104,11 @@ include 'database.php';
 
 <!--script src="http://maps.googleapis.com/maps/api/js"></script-->
 
+<li><a href="#">Home</a></li>
+<li><a href="#">Our Work</a></li>
+<li><a href="#">Surveys</a></li>
+<li class="active">Blackberry Survey</li>
+
 <h2 class="page-header">Blackberry Survey</h2>
 
 <p>The following map displays specific occurences of blackberry bushes found on Cooleman Ridge Nature Reserve</p>

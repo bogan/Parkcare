@@ -6,6 +6,11 @@
 				<p align="right">
 					<a href="dam/2004.php">Photos</a>
 				</p>
+
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Our Work</a></li>
+                <li><a href="#">Surveys</a></li>
+                <li class="active">Dam Survey</li>
 				
 				<h2>Dam Survey</h2>
 				

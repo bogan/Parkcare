@@ -11,7 +11,7 @@ include 'header.php';
     </p>
 
     <p>
-        The Cooleman Ridge Park Care Group is small but active group made up of various volunteers.
+        The Cooleman Ridge Park Care Group is small but active group made up of various volunteers from a variety of backgrounds. It includes scientists, public servants, accounts, homekeepers.
     </p>
 
     <p>

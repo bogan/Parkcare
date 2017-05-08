@@ -1,7 +1,23 @@
 			<?php $title = 'Fire';	?>
 			<?php include 'header.php'; ?>
-			
-			<div id="content" class="row">
+
+            <h2 class="page-header">Fire</h2>
+
+            <p>Fire is an important part of the ridge and the work that we do.</p>
+
+            <p>Fire on the ridge can be planned or unplanned.</p>
+
+            <p>the group plays an important role in reducing the risk. intensity and impact of unplanned fires. When weeds were deliberately introduce to increase the biomass of the vegetation.</p>
+
+            <p>Introduced pasture grasses when they are no longer grazed pose a significant fire hazard..</p>
+
+            <p>Most native grassess on the ridge are small and sparse. They were considered to be a poor food source for the grazing animals that were introducted (eg. horses, cows, sheep). They did not provide enough feed for large herbivores. Their fuel load ist therefore much smaller than introduced pasture grasses.</p>
+
+            <p>By replacing introduce pasture grasses with native grasses, the fuel load is signficantly reduced.</p>
+
+            <p>The long term goal is to remove the pasture grasses and thereby significantly reduce the associated fuel load.</p>
+
+            <!--<div id="content" class="row">
 				<div class="span12">
 					<h2>Fire on Cooleman Ridge, Saturday 18th January 2003</h2>
 
@@ -165,11 +181,8 @@
 					</p>
 
 					<h3>More information</h3>
+-->
 
-					<p>
-						If you'd like to know more about Cooleman Ridge Park Care Group or join 
-						up, please contact us at the following email address: <a href="mailto;ryan@pcug.org.au">ryan@pcug.org.au</a>.
-					</p>
 				</div>
 			</div>
 			<?php include 'footer.php'; ?>

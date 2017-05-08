@@ -13,7 +13,12 @@
 
     <p?The bush has a natural tendency to regenerate whether humans help or not. However, humans can great significantly accelerate the regeneration process by removing competitiors that prevent the bush from regeneration.
 
-The idea is to create an empty space for the bush to move into
+        The idea is to create an empty space for the bush to move into
 
     <p>The group uses a variety of weeding methods including hacking, poisoning, smothering, etc. Each has its place in the toolkit.</p>
+
+    <p>A planned and executed weeding activity can have major results. Many major weeds our now largely extinct from the ridge and many are well on their way to be declaring them extinct. </p>
+
+    <p>Weeding is by no means a futile undertaking.</p>
+
 <?php include 'footer.php'; ?>

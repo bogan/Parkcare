@@ -46,7 +46,7 @@
 
 
 
-       <style type="text/css">
+       <!--<style type="text/css">
 			td
 			{
 				padding:5px
@@ -72,17 +72,21 @@
 				border:thin;
 				border-style:solid 
 			}		
-		</style>
+		</style>-->
 	</head>
 
 	<body>
+
+    <div class="jumbotron text-left">
+        <h1>Cooleman Ridge Parkcare Group</h1>
+    </div>
 
     <nav class="navbar navbar-default">
         <div class="container-fluid">
 
             <div class="navbar-header">
                 <img src="images/logo1.jpg" width=54 height=50 style="float:left; padding:5px; border:none">
-                <a class="navbar-brand" href="index.php"><span style="color:#ba7025;font-family:arial;">Cooleman Ridge Parkcare Group</span></a>
+                <a class="navbar-brand" href="index.php"><span style="color:#ba7025;font-family:arial;">Home</span></a>
             </div>
 
             <div>
@@ -117,6 +121,7 @@
                             <li><a href="flora.php">Flora</a></li>
                             <li><a href="fauna.php">Fauna</a></li>
                             <li><a href="trails.php">Trails</a></li>
+                            <li><a href="weeds.php">Weeds</a></li>
                         </ul>
                     </li>
 
@@ -145,9 +150,9 @@
                                     <li><a tabindex="0" href="animals.php">Animals</a></li>
                                     <li><a tabindex="0" href="trees.php">Trees</a></li>
                                     <li><a tabindex="0" href="blackberrys.php">Blackberrys</a></li>
-                                    <li><a tabindex="0" href="woodyweed.php">Woody Weeds</a></li>
-                                    <li><a tabindex="0" href="dam.php">Dam</a></li>
-                                    <li><a tabindex="0" href="dam.php">Dam</a></li>
+                                    <li><a tabindex="0" href="woodyweeds.php">Woody Weeds</a></li>
+                                    <li><a tabindex="0" href="fires.php">Fires</a></li>
+                                    <li><a tabindex="0" href="dams.php">Dams</a></li>
                                 </ul>
                             </li>
                             <li><a href="contribute.php">Contribute</a></li>

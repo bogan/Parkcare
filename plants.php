@@ -1,7 +1,15 @@
 <?php $title = 'Plant Survey';?>
 <?php include 'header.php'; ?>
 
-    <h2 class="page-header">Plant Survey</h2>
+<!-- Breadcrumb -->
+<ul class="breadcrumb">
+    <li><a href="#">Home</a></li>
+    <li><a href="#">Our Work</a></li>
+    <li class="active">Plant Survey</li>
+</ul>
+
+
+<h2 class="page-header">Plant Survey</h2>
 
     <p>The following table lists all the plant species that have been identified on the Cooleman Ridge Nature Reserve.</p>
 
@@ -11,7 +19,7 @@
         </tr>
         <tr>
             <td>
-                <table  id="myTable" class="tablesorter" align="center" border="1" width="100%">
+                <table  id="myTable" class="tablesorter table table-striped table-bordered table-hover table-condensed" align="center" border="1" width="100%">
                 <thead>
                     <tr>
                         <th>Family</th>

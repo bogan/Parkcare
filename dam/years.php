@@ -7,7 +7,7 @@
 <tr>
 	<td width="20">&nbsp;</td>
 	<td align="right" valign="top">
-		<a href="../dam.php">&lt;&lt;&nbsp;Back</a>
+		<a href="../dams.php">&lt;&lt;&nbsp;Back</a>
 	</td>
 	<td width="20">&nbsp;</td>
 </tr>

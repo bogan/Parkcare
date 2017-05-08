@@ -1,7 +1,7 @@
 			<?php $title = 'Flora';	?>
 			<?php include 'header.php'; ?>
 			<div>
-				<h2>Flora</h2>
+                <h2 class="page-header">Flora</h2>
 				
 				<p>&nbsp;</p>
 				

@@ -1,10 +1,11 @@
 			<?php $title = 'Fauna';	?>
 			<?php include 'header.php'; ?>
-			
+
+            <h2 class="page-header">Fauna</h2>
+
 			<div class="row" id="content">
 				<div class="span12">
-					<h2>Fauna</h2>
-		
+
 					<p>Dragons, brown snakes, blue-tongue lizards, skinks, kangaroos, magpies, 
 					ducks, all live on, or visit, Cooleman Ridge. Echidnas, rabbits and foxes 
 					only show themselves to the quiet, observant visitor. Kookaburras, falcons, 

@@ -129,7 +129,7 @@ include 'database.php';
 	<a href="csv.php">Export as CSV file</a>
 </div>
 <div>
-<table border="1" cellpadding="0" cellspacing="0">
+<table class="tablesorter table table-striped table-bordered table-hover table-condensed">
   <tr>
     <th>ID</th>
 	<th>Source</th>

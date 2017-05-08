@@ -15,11 +15,11 @@
 
     <h3>Woody Weed Survey</h3>
 
-    <p>The group undertakes various surveys to assist in the ongoing management of the ridge. Please visit our <a href="woodyweed.php">Woody Weed</a> page for more information.</p>
+    <p>The group undertakes various surveys to assist in the ongoing management of the ridge. Please visit our <a href="woodyweeds.php">Woody Weed</a> page for more information.</p>
 
     <h3>Dam Survey</h3>
 
-    <p>The group undertakes various surveys to assist in the ongoing management of the ridge. Please visit our <a href="dam.php">Dams</a> page for more information.</p>
+    <p>The group undertakes various surveys to assist in the ongoing management of the ridge. Please visit our <a href="dams.php">Dams</a> page for more information.</p>
 
     <h3>Plant Survey</h3>
 
@@ -39,6 +39,6 @@
 
     <h3>Dam Survey</h3>
 
-    <p>The group undertakes various surveys to assist in the ongoing management of the ridge. Please visit our <a href="dam.php">Dams</a> page for more information.</p>
+    <p>The group undertakes various surveys to assist in the ongoing management of the ridge. Please visit our <a href="dams.php">Dams</a> page for more information.</p>
 
 <?php include 'footer.php'; ?>

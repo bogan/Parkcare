@@ -9,8 +9,6 @@
 
     <p>There are however two dams found on the ridge.</p>
 
-    <p>These dams have been survey over the years. Please see our <a href="dam.php">Dam Survey</a> page for more details.</p>
-
-    <div id="dammap"></div>
+    <p>These dams have been survey over the years. Please see our <a href="dams.php">Dam Survey</a> page for more details.</p>
 
 <?php include 'footer.php'; ?>

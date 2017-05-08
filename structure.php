@@ -7,6 +7,8 @@
 
     <p>The group is managed by an executive committee that is elected annually.</p>
 
+    <p>The current structure of the group is as follows.</p>
+
     <p>
         <ul>
             <li>President - Linda Spinaze</li>

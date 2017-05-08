@@ -15,7 +15,7 @@ include 'header.php';
     </p>
 
     <p>
-    The Cooleman Ridge Park Care Group is part of a larger network of other parkcare groups working throughout the ACT.
+    The Cooleman Ridge Park Care Group is part of a larger network of other parkcare groups working throughout the ACT. See our <a href="partners.php">partners</a> page for more details.
     </p>
 
     <p>
@@ -33,6 +33,14 @@ include 'header.php';
     </p>
 
     <p>The nature reserve borders the Canberra suburbs of Chapman, Fisher and Kambah.</p>
+
+    <p>
+        The Cooleman Ridge Nature Reserve is an example of a grass woodland ecosystem which is highly endagered ecosystem. These ecosystems are vulnerable to grazing and urban development and very few high quality ones still exist in the Australian Capital Territory.
+    </p>
+
+    <p>
+        The Cooleman Ridge Nature Reserve is one of the more damaged but there still remain many good areas. These areas serve as the nucleus of the groups efforts to restore the ecology of the ridge.
+    </p>
 
     <p>
        The official map of the nature reserve can be found at <a href="http://www.environment.act.gov.au/__data/assets/pdf_file/0007/390589/cnpmapcooleman.pdf">Cooleman Ridge Nature Reserve Map</a>

@@ -11,7 +11,7 @@
         </tr>
         <tr>
             <td>
-                <table  id="myTable" class="tablesorter" align="center" border="1" width="100%">
+                <table  id="myTable" class="tablesorter table table-striped table-bordered table-hover table-condensed" align="center" border="1" width="100%">
                 <thead>
                     <tr>
                         <th>Family</th>

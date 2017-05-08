@@ -1,10 +1,15 @@
 <?php $title = 'Contact';	?>
 <?php include 'header.php'; ?>
 
-    <h3 class="page-header">Contact</h3>
+    <h2 class="page-header">Contact</h2>
 
     <p>
         You can contact the group for any reason such as membership, newsletters, problems, feedback, etc.
+    </p>
+
+    <p>
+        If you'd like to know more about Cooleman Ridge Park Care Group or join
+        up, please contact us at the following email address: <a href="mailto:admin@coolemanridge.org.au">admin@coolemanridge.org.au</a>.
     </p>
 
     <p>

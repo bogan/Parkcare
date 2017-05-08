@@ -1,12 +1,15 @@
 <?php $title = 'Tree Survey';	?>
 <?php include 'header.php'; ?>
 
+<ul class="breadcrumb">
     <li><a href="#">Home</a></li>
     <li><a href="#">Our Work</a></li>
     <li><a href="#">Surveys</a></li>
     <li class="active">Tree Survey</li>
+</ul>
 
-    <h2>Tree Survey</h2>
+
+<h2>Tree Survey</h2>
 
     <p>The Cooleman Ridge Tree Survey is composed of the following documents:</p>
 

@@ -7,12 +7,15 @@
 					<a href="dam/2004.php">Photos</a>
 				</p>
 
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Our Work</a></li>
-                <li><a href="#">Surveys</a></li>
-                <li class="active">Dam Survey</li>
-				
-				<h2>Dam Survey</h2>
+                <ul class="breadcrumb">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Our Work</a></li>
+                    <li><a href="#">Surveys</a></li>
+                    <li class="active">Dam Survey</li>
+                </ul>
+
+
+                <h2>Dam Survey</h2>
 				
 				<p>People say: "There is a dam at the Kathner Street entrance!". Nobody asks: 
 				"Why is there a dam at the Kathner Street entrance?". I’ll tell you </p>

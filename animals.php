@@ -1,7 +1,14 @@
 <?php $title = 'Plant List';	?>
 <?php include 'header.php'; ?>
 
-    <h2 class="page-header">Animal Survey</h2>
+<ul class="breadcrumb">
+    <li><a href="#">Home</a></li>
+    <li><a href="#">Our Work</a></li>
+    <li><a href="#">Surveys</a></li>
+    <li class="active">Animal Survey</li>
+</ul>
+
+<h2 class="page-header">Animal Survey</h2>
 
     <p>The following table lists all the animal species that have been identified on the Cooleman Ridge Nature Reserve.</p>
 

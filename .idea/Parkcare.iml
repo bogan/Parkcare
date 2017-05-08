@@ -5,24 +5,14 @@
       <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/.tmp" />
       <excludeFolder url="file://$MODULE_DIR$/bootstrap" />
-      <excludeFolder url="file://$MODULE_DIR$/prototype/data" />
       <excludeFolder url="file://$MODULE_DIR$/fileupload" />
       <excludeFolder url="file://$MODULE_DIR$/jquery" />
       <excludeFolder url="file://$MODULE_DIR$/plants" />
+      <excludeFolder url="file://$MODULE_DIR$/prototype/data" />
       <excludeFolder url="file://$MODULE_DIR$/temp" />
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
-      <library name="PHP Runtime" type="php">
-        <CLASSES>
-          <root url="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard" />
-        </CLASSES>
-        <SOURCES>
-          <root url="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard" />
-        </SOURCES>
-      </library>
-    </orderEntry>
   </component>
 </module>

@@ -1,7 +1,7 @@
 <?php $title = 'Blackberrys';	
 
 include 'header.php';
-include 'database.php';
+include 'databasedb.php';
 ?>
 
 <script>

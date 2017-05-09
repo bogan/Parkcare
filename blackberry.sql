@@ -26,7 +26,7 @@ SET time_zone = "+00:00";
 -- Table structure for table `blackberry1`
 --
 
-CREATE TABLE IF NOT EXISTS `blackberry1` (
+CREATE TABLE IF NOT EXISTS `blackberry` (
   `id` int(11) NOT NULL,
   `source` varchar(10) NOT NULL DEFAULT 'Grid',
   `easting` int(11) NOT NULL,

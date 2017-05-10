@@ -62,12 +62,12 @@
     </div>
 
     <div class="panel panel-info">
-        <div class="panel-heading">Great Mullien <em>(Verbascum thapsus)</em></div>
+        <div class="panel-heading">Aaron's Rod <em>(Verbascum thapsus)</em></div>
         <div class="panel-body">
 
             <img src="images/verbascum.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
 
-            <p>Great Mullien is easy to control and responds well to hacking or poisoning. The group has been able to largely eliminate this weed in each of the group areas.</p>
+            <p>It is a garden escapee and is very common in canberra nature parks. Great Mullien is easy to control and responds well to hacking or poisoning. The group has been able to largely eliminate this weed in each of the group areas.</p>
 
         </div>
     </div>
@@ -101,6 +101,8 @@
             <img src="images/africanlovegrass.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
 
             <p>Is a highly invasive weed and . The ridge has some significant patches of lovegrass. The most signficant example is found around the large reservoir above Darrell Place.
+            </p>
+            <p>
                 Lovegrass is reasonably easy to control and can be hacked out or poisoned.
             </p>
 
@@ -113,10 +115,10 @@
 
             <img src="images/pattersonscurse.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
 
-            <p>Patterson's Curse is a small to medium sized herbaceous weed. It has bright purple leaves and is very fast growing. It takes off in wet periods at any time of the year, rapidly flowers and seeds, before quickly dying off in dry periods.            </p>
+            <p>Patterson's Curse is a small to medium sized herbaceous weed. It has bright purple leaves and is very fast growing. It takes off in wet periods at any time of the year, rapidly flowers and seeds, before quickly dying off in dry periods. It is an opportunistic grower and can occur during any season.</p>
 
-            <p>The ridge has had large infestations of Paterson's Curse in the past especailly on the western end of the ridge  highly invasive weed and . The ridge has some significant patches of Paterson's Curse. The most signficant example is found around the Kathner Street Damlarge reservoir above Darrell Place.
-                Lovegrass is reasonably easy to control and can be hacked out or poisoned.
+            <p>The ridge has had large infestations of Paterson's Curse in the past especially on the western end of the ridge highly invasive weed and . The ridge has some significant patches of Paterson's Curse. The most signficant example is found around the Kathner Street Damlarge reservoir above Darrell Place.
+                Patterson's Curse is reasonably easy to control and can be hacked out or poisoned.
             </p>
 
         </div>
@@ -168,6 +170,17 @@
 
     <div class="panel panel-info">
         <div class="panel-heading">Scotch Thistle <em>(Onopordum  acanthium )</em></div>
+        <div class="panel-body">
+
+            <img src="images/scotchthistle.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
+
+            <p>Scotch Thistle has been a major problem on the ridge. This was especially the case on the summit Mt Arawang. It can easily be controlled with either hacking or poisoning. The group has largely eliminated this weed from the ridge.</p>
+
+        </div>
+    </div>
+
+    <div class="panel panel-info">
+        <div class="panel-heading">Plantain <em>(Onopordum  acanthium )</em></div>
         <div class="panel-body">
 
             <img src="images/scotchthistle.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>

@@ -20,6 +20,8 @@
 
     <p>The group work areas have shown major improvements over the years, with some of the areas now being very close to their original state.</p>
 
+    <p> The groug areas form the future basis from which to expand and eventually link them up. the nucleus for future expansion. We focus on the best areas. We also try to link the areas eventually.</p>
+
     <p>The areas selected as group areas have been selected based on a variety of criteria. These include:
         <ul>
            <li>Access</li>

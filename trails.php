@@ -67,9 +67,9 @@
 
     <p>The Cooleman Ridge Nature Trail is walking trail that was developed by the group. The purpose of the track is to introduce the public to some of the natural highlights of the ridge. The trail is marked with numbered posts that identify points of interest that are explained in an accompanying brochure that the group developed.
 
-        The brochure is available online or in the brochure box at the start of the walk.
+        The brochure is available <a href="http://www.environment.act.gov.au/__data/assets/pdf_file/0009/906372/Cooleman-Ridge-Nature-Trail.pdf">online</a> or in the brochure box at the start of the walk.
 
-        The trail is accessed from either Blah Place and is composed of both pupose built waking tracks and preexistin management trails. The walk is acircuit and you should all 1 hourto complete it. To be completed <a href="http://www.environment.act.gov.au/__data/assets/pdf_file/0009/906372/Cooleman-Ridge-Nature-Trail.pdf">Cooleman Ridge Nature Trail</a></p>
+        The trail is accessed from either Guinness Place or from Freebody Place. It is composed of both pupose built waking tracks and preexistin management trails. The walk is a circuit and you should all 1 hourto complete it. </p>
 
     <h3>Fire Trails</h3>
 

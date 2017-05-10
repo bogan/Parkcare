@@ -10,19 +10,47 @@
 
             <h2 class="page-header">Fire</h2>
 
-            <p>Fire is an important part of the ridge and the work that we do.</p>
+            <p>Fire is an important part of the ecology of the ridge. Fire has played a part for thousands of years.</p>
 
-            <p>Fire on the ridge can be planned or unplanned.</p>
+            <!-- Today -->
 
-            <p>the group plays an important role in reducing the risk. intensity and impact of unplanned fires. When weeds were deliberately introduce to increase the biomass of the vegetation.</p>
+            <p>Fire on the ridge nowdays can be planned or unplanned. Planned fires are conduct by the rural fire service with the objective being to reduce the amount of fuel. This helps reduce the possibility and intensity of an uncontrolled fires on the ridge.</p>
+
+            <!-- Regeneration -->
+
+            <p>A balanced fire management regime can have significantly assist in the regeneration of the bush. Too much and things don't do well. To little and things don't do well.</p>
+
+            <p>Native generally respond better to regular burns than exotics. Burns help accelerate the regeneration of native plants and grasses in particular.</p>
+
+            <p>Controlled burns also provide a great opportunity for the group. The group takes advantage of control burns as a good opportunity. Vegetation cover is reduced, weeds are more visible and easier to remove.</p>
+
+            <!-- Hazard Reduction -->
+
+            <p>The group plays an important role in reducing the risk, intensity and impact of unplanned fires.
+
+            <p>Many pasture grasses (such as Phalarais, Rye Grass, Fescue and Wild Oats), were deliberately introduced by former graziers when the ridge used to be part of pastoral properties.
+
+                They were introduced because native grasses were considered to be a poor food source for large grazing animals (eg. horses, cows, sheep).
+
+                These pasture grasses have  a much larger biomass.
+
+                Their fuel load ist therefore much smaller than introduced pasture grasses.
+
+            </p>
 
             <p>Introduced pasture grasses when they are no longer grazed pose a significant fire hazard..</p>
 
-            <p>Most native grassess on the ridge are small and sparse. They were considered to be a poor food source for the grazing animals that were introducted (eg. horses, cows, sheep). They did not provide enough feed for large herbivores. Their fuel load ist therefore much smaller than introduced pasture grasses.</p>
 
-            <p>By replacing introduce pasture grasses with native grasses, the fuel load is signficantly reduced.</p>
+                These grasses when  grazed regularly have a minimal affect. However, when they are no longer grazed, they dry out
 
-            <p>The long term goal is to remove the pasture grasses and thereby significantly reduce the associated fuel load.</p>
+            <p>Most native grasses on the ridge, in contrast are much smaller and sparse. They pose a much smaller fire risk.
+
+                burn slower and cooler than many pasture grasses.
+
+            <p>By replacing introduce pasture grasses with native grasses, the fuel load is significantly reduced.</p>
+
+            <p>The long term goal is to remove the pasture grasses and thereby significantly reduce the associated fire hazard.</p>
+
 
             <!--<div id="content" class="row">
 				<div class="span12">
@@ -190,6 +218,4 @@
 					<h3>More information</h3>
 -->
 
-				</div>
-			</div>
 			<?php include 'footer.php'; ?>

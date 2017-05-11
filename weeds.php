@@ -29,11 +29,19 @@
             <img src="images/blackberry.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
 
             <p>
-                The Cooleman Ridge has a major blackberry problem, especially on the eastern face of Mt Arawang.  The group tracks the position of every known blackberry bush as part of its <a href="blackberrys.php">Blackberry Survey</a>.
+                Blackberry is a very large bush that has long canes, thorns and berries. It can grow to be very large and form dense thickets. Blackberry his highly invasive and will spread rapidly if not controlled. It has many means of spreading including seeding and suckering.
             </p>
 
             <p>
-                Blackberry is only effectively treated with poisoning. However, it is effectively beyond the capability of the group to control some of the the larger infestations. These locations are then communicated to Parks and Conservation workers/contractors who use inustrial standard spraying equipment. Blackberrys are typically sprayed in late summer or autumn when they are actively growing and after  fruiting.
+                The ridge has a major blackberry problem, especially on the eastern face of Mt Arawang. The group tracks the position of every known blackberry bush as part of its <a href="blackberrys.php">Blackberry Survey</a> to assist in its control.
+            </p>
+
+            <p>
+                Blackberry is only effectively treated with poisoning. The poison is normally applied by spraying the leaves of the plant. Blackberrys are typically sprayed in late summer or autumn when they are actively growing and after fruiting. Large infestations require commercial grade equipment such as motor vehicles, pumps and long hoses. Smaller infestations can be poisoned by using a hand held spray pack or by painting the leaves with a herbicide solution.
+            </p>
+
+            <p>
+                Poisoning of blackberry is mainly performed by <a href="partners.php#parksandconservation">Parks and Conservation</a> officers or their contractors rather than the group itself. The group assists the work performed by Parks and Conservation by communicating the location of bushes to Parks and Conservation workers/contractors. The group complements the work performed by ACT Parks and Conservation by controlling smaller infestations before they become to big for the group to control.
             </p>
 
             <p> N.B. Blackberry is easily confused with the Native Rasberry because they look very similar and are from the same genus.</p>
@@ -47,20 +55,19 @@
             <img src="images/phalaris.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
 
             <p>
-                Phalaris is a large, thick, perenial tussock grass. In mass plantings, it forms thick mats that dominate all other plants. It was deliberately introduced pasture grass by former pastoralist to signficantly increase the amount of feed available for their grazing animals. It is a native of southern africa and has adapted to being grazed by large herbivores. this makes it suitable as a pasture grass.
+                Canary Grass is a large, thick, perenial tussock grass. It grows well during the spring and dries out in the summer. In mass plantings, it forms thick mats that dominate all other plants. It is a pasture grass that was deliberately planted by former pastoralist to signficantly increase the amount of feed available for their grazing animals. It is a native of Southern Africa and has adapted to being grazed by large herbivores. this makes it suitable as a pasture grass.
             </p>
 
             <p>
-                Phalaris is also significant because it is the major fuel source and can rapidly increase the speed and intersity of grass fires. Eliminating pharlaris is important part of minimising dangerous grassfires on the ridge. See our <a href="fire.php"> Fire</a> page for more information.
-            </p>
-
-
-            <p>
-                This weed is widespread on the ridge. The most significant examples are found more commonly found on the south west facing slopes of the ridge such as between Lincoln Place and Arawang Homestead. It is typically found in water courses.
+                Canary Grass is also significant because it is the major fuel source and can rapidly increase the speed and intersity of grass fires. Eliminating pharlaris is important part of minimising dangerous grassfires on the ridge. See our <a href="fire.php"> Fire</a> page for more information.
             </p>
 
             <p>
-                It is not very invasive and can be cnntrolled either by digging it out or by poisoning. The group has made significant progress with removing pharlaris from the <a href="groupareas.php">Group Areas</a>.
+                This weed is widespread on the ridge. It is generally found on the lower and flatter parts of the ridge that were preferred areas for farmers to convert to pasture. The most significant examples are found on the south west facing slopes of the ridge such as between Lincoln Place and Arawang Homestead.
+            </p>
+
+            <p>
+                Canary Grass is not very invasive and can be cnntrolled either by <a href="methods.php#hacking">hacking</a> or by <a href="methods.php#poisoning">poisoning</a>. This require multiple treatments over several seasons. The group has made significant progress with removing pharlaris from most of the <a href="groupareas.php">Group Areas</a> but large patches still remain elsewhere on the ridge.
             </p>
 
 

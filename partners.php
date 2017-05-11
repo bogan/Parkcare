@@ -13,7 +13,7 @@
         The group works with a number of other organisations to help care for the Cooleman Ridge Nature Reserve. These include:
     </p>
 
-    <h3>ACT Parks and Conservation Service</h3>
+    <h3 id="parksandconservation">ACT Parks and Conservation Service</h3>
 
     <img src="images/parks.jpg" style="height:100px;width:100px;float:left;padding:5px;margin: 5px "/>
 

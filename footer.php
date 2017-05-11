@@ -13,7 +13,7 @@
         </div>
 
         <footer class="container-fluid bg-4 text-center">
-            <p>Created By @<a href="https://www.w3schools.com">Old Dog Software</a></p>
+            <p><small>Created By <a href="#">©Old Dog Software</a></small></p>
         </footer>
 	</body>
 </html>

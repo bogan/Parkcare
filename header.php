@@ -78,7 +78,25 @@
 	<body>
 
     <div class="jumbotron text-left">
-        <h1>Cooleman Ridge Parkcare Group</h1>
+
+        <div>
+            <h1>Cooleman Ridge Parkcare Group</h1>
+        </div>
+
+        <div style="width:300px;float:right">
+            <script>
+                (function() {
+                    var cx = '008804451297429151083:h_lh6xzgjre';
+                    var gcse = document.createElement('script');
+                    gcse.type = 'text/javascript';
+                    gcse.async = true;
+                    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+                    var s = document.getElementsByTagName('script')[0];
+                    s.parentNode.insertBefore(gcse, s);
+                })();
+            </script>
+            <gcse:search></gcse:search>
+        </div>
     </div>
 
     <nav class="navbar navbar-default">
@@ -166,20 +184,8 @@
                 <ul class="nav navbar-nav navbar-right">
                     <!--<li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
                     <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>-->
-                    <!-- <script>
-                         (function() {
-                             var cx = '008804451297429151083:h_lh6xzgjre';
-                             var gcse = document.createElement('script');
-                             gcse.type = 'text/javascript';
-                             gcse.async = true;
-                             gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-                                 '//cse.google.com/cse.js?cx=' + cx;
-                             var s = document.getElementsByTagName('script')[0];
-                             s.parentNode.insertBefore(gcse, s);
-                         })();
-                     </script>
-                     <div><gcse:search></gcse:search></div>-->
                 </ul>
+
             </div>
         </div>
     </nav>

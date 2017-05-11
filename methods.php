@@ -44,59 +44,112 @@
 
     <p>Many different weeding techniques are used on the ridge, both by the group itself as well its partners. These include:
 
-    <div class="panel panel-success">
+    <div id="hacking" class="panel panel-success">
         <div class="panel-heading">Hacking</em></div>
         <div class="panel-body">
 
             <img src="images/verbascum.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
 
-            <p>Hacking is the main form of weeding performed the group. It is generally performed with a small pick and simply involves digging out small weeds. It is most effective against small to medium herbaceous weeds that have distinctive rosette, such as Aaron's Rod, Wild Sage, Scotch Thistle and Plantain. Large areas. It is a very precise method that removes the weed while leaving natives immediately next to the weed. </p>
+            <p>
+                Hacking is the main form of weeding performed the group. It is generally performed with a small pick and simply involves digging out small weeds.
+            </p>
+
+            <p>
+                Hacking  is most effective against small to medium herbaceous weeds that have distinctive rosette, such as <a href="weeds.php#aaronsrod">Aaron's Rod</a>, Wild Sage, Scotch Thistle and <a href="weeds.php#pattersonscurse">Patterson's Curse</a>. Large areas. It is a very precise method that removes the weed while leaving natives immediately next to the weed.
+            </p>
 
         </div>
     </div>
 
-    <div class="panel panel-success">
+    <div id="poisoning" class="panel panel-success">
         <div class="panel-heading">Poisoning</em></div>
         <div class="panel-body">
 
             <img src="images/verbascum.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
 
-            <p>Poisoning involves the application of some herbicde to the plant. The herbicide is generally a glyophasate based one that does not harm the enviroment nor humans. Poisons are typically applied using two different methods - spraying or cut-and-dabbing. </p>
+            <p>
+                Poisoning involves the application of some herbicide to the plant. The herbicide is generally a glyophasate based one that does not harm the enviroment nor humans. Some other more specialised poisons are sometimes used for specific weeds.
+            </p>
 
-            <p>It is possible</p>
+            <p>
+                Poisons are typically applied using two different methods - spraying or cut-and-dabbing.
+            </p>
 
-        </div>
-    </div>
-
-    <div class="panel panel-success">
-        <div class="panel-heading">Smothering</em></div>
-        <div class="panel-body">
-
-            <img src="images/verbascum.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
-
-            <p>Blah, blah, blah.</p>
+            <p>
+                Spraying of specific weeds such as <a href="weeds.php#blackberry">Blackberry</a> is performed by Parks and Gardens using commercial level equipment.
+            </p>
 
         </div>
     </div>
 
-    <div class="panel panel-success">
-        <div class="panel-heading">Burning</em></div>
-        <div class="panel-body">
-
-            <img src="images/verbascum.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
-
-            <p>Blah, blah, blah.</p>
-
-        </div>
-    </div>
-
-    <div class="panel panel-success">
+    <div id="beheading" class="panel panel-success">
         <div class="panel-heading">Beheading</em></div>
         <div class="panel-body">
 
             <img src="images/verbascum.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
 
-            <p>This technique is best used with slower growing tall weeds such as Aaron's Rod and Fleabane.</p>
+            <p>
+                This technique involves the removal of the seeding part of the plant while leaving the rest of the plant in place. The seeding head is remove either with some cutting implement or simply by hand.
+            </p>
+
+            <p>
+                Although this does not kill the plant, it prevents it from reseeding and thus prevents any future generations from replacing the plant when that plant eventually dies.
+            </p>
+
+            <p>
+                This technique is best used with slower growing, annual. tall weeds such as <a href="weeds.php#aaronsrod">Aaron's Rod</a> and <a href="weeds.php#fleabane">Fleabane</a>.
+            </p>
+
+        </div>
+    </div>
+
+    <div id="burning" class="panel panel-success">
+        <div class="panel-heading">Burning</em></div>
+        <div class="panel-body">
+
+            <img src="images/verbascum.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
+
+            <p>
+                Burning can be effective against some weeds that are not very fire tolerant. A regular burn of infested errors with gradually reduce these weeds over time.
+            </p>
+
+            <p>
+                Burning not only kills many weeds but more importatly triggers the native plants to germinate. See our <a href="fire.php">Fire</a> page for more details.
+            </p>
+
+        </div>
+    </div>
+
+    <div id="smothering" class="panel panel-success">
+        <div class="panel-heading">Biological</em></div>
+        <div class="panel-body">
+
+            <img src="images/verbascum.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
+
+            <p>
+                Biological controls exist for some weeds such as <a href="weeds.php#stjohnswort">St Johns Wort</a> and <a href="weeds.php#pattersonscurse">Pattersons Curse</a>.
+            </p>
+
+        </div>
+    </div>
+
+    <div id="smothering" class="panel panel-success">
+        <div class="panel-heading">Smothering</em></div>
+        <div class="panel-body">
+
+            <img src="images/verbascum.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
+
+            <p>
+                Smothering involves covering weeds with some substance such as newspaper, plastic sheets or even the remains of other weeds.
+            </p>
+
+            <p>
+                The blocking of the light starves the weed of light and it can not photosynthesise and eventually dies of starvation.
+            </p>
+
+            <p>
+                Smothering is best used on thick infestations of weeds such as <a href="weeds.php#phalaris">Phalaris</a>
+            </p>
 
         </div>
     </div>

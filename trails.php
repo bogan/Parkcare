@@ -13,16 +13,17 @@
 
     <p>These various trails serve a variety of purposes ranging from recreation (eg. walking, cycling, horse riding) to management (eg. weed spraying, fire control, etc).</p>
 
-    <p>These trails play an important role for connecting the work of the group with the broader community through their recreational.</p>
+    <p>
+        These trails play an important role for connecting the work of the group with the broader community through their recreational value.</p>
 
-    <h3>Bicentennial National Trail (BNT)</h3>
+    <h3>Bicentennial National Trail</h3>
 
-    <p>The <a href="www.bicentennialnationaltrail.com.au">Bicentennial National Trail</a> is a 5000km multipurpose trail that runs from Healesville Victoria to Cooktown Queensland. It is Australia's longest formally recognised track and one of the longest in the world.
-        Part of this trail crosses the Cooleman Ridge Nature Reserve along its souther and western boundaries.
+    <p>
+        The <a href="www.bicentennialnationaltrail.com.au">Bicentennial National Trail</a> is a 5000km multipurpose trail that runs from Healesville, Victoria to Cooktown, Queensland. It is Australia's longest formally recognised track and one of the longest in the world. Part of this trail crosses the Cooleman Ridge Nature Reserve along its southern and western boundaries.
     </p>
 
     <p>
-        The BCT is essentally a recreational trail and is used by people travelling its full length or just part of it. The trail is mainly used by equestrian riders but people have been known to travel using other forms of transport such as feet, donkeys and even camels!
+        The Bicentennial National Trail is essentally a recreational trail and is used by people travelling its full length or just part of it. The trail is mainly used by equestrian riders but people have been known to travel using other forms of transport such as feet, donkeys and even camels!
     </p>
 
     <p>
@@ -50,11 +51,11 @@
     <h3>Mt Arawang Walking Trail</h3>
 
     <p>
-        The Mt Arawang Walking Trail is a walking trail allows walkers to access the summit of Mt Arawang, the highest point on the ridge. The trail has two entry/exit points - one at Namitjira and the other at Lincoln Place.</p>
+        The Mt Arawang Walking Trail is a walking trail that allows walkers to access the summit of Mt Arawang - the highest point on the ridge. The trail has two entry/exit points - one at Namitjira and the other at Lincoln Place.</p>
     </p>
 
     <p>
-        The track was upgraded in 2016 and provides a well formed path to the summit. The views from the summit are some of the best from Canberra. The return walk is approximately 1 hour return.
+        The track was upgraded in 2016 and provides a well formed path to the summit. The views from the summit are some of the best from Canberra. The walk takes approximately 1 hour return.
     </p>
 
     <h3>Cooleman Trig Walking Trail</h3>
@@ -65,14 +66,26 @@
 
     <h3>Cooleman Ridge Nature Trail</h3>
 
-    <p>The Cooleman Ridge Nature Trail is walking trail that was developed by the group. The purpose of the track is to introduce the public to some of the natural highlights of the ridge. The trail is marked with numbered posts that identify points of interest that are explained in an accompanying brochure that the group developed.
+    <p>
+        The Cooleman Ridge Nature Trail is a 2.7km walking trail that was developed by the group. The purpose of the track is to introduce the public to some of the natural highlights of the ridge.
+    </p>
 
-        The brochure is available <a href="http://www.environment.act.gov.au/__data/assets/pdf_file/0009/906372/Cooleman-Ridge-Nature-Trail.pdf">online</a> or in the brochure box at the start of the walk.
+    <p>
+        The site of the Nature Trail was originally heavily degraded with little native vegetation. The group in the 1990s  worked extensively on regenerating the bush on this site with considerable succes. The Nature Trail highlights how effective the group can be in regenerating the bush.
+    </p>
 
-        The trail is accessed from either Guinness Place or from Freebody Place. It is composed of both pupose built waking tracks and preexistin management trails. The walk is a circuit and you should all 1 hourto complete it. </p>
+    <p>
+        The Nature Trail is marked with numbered posts that identify points of interest that are explained in an accompanying brochure that the group developed. The brochure is available <a href="images/brochure.pdf">online</a> or in the brochure box at the start of the walk.
+    </p>
 
-    <h3>Fire Trails</h3>
+    <p>
+        The trail is accessed from either Guinness Place or from Freebody Place. It is composed of both pupose built waking tracks and preexisting management trails. The walk is a circuit and you should all 1 hourto complete it.
+    </p>
 
-    <p>To be completed</p>
+    <h3>Management Trails</h3>
+
+    <p>The ridge is covered by a network of vehicular management trails. These are used by authorised parties such as the Rural Fire Service, Parks and Conservation, etc. to perform various work on the ridge.</p>
+
+    <p>The management trails are open to the public for use for walking, bicycle riding and in some cases horse riding.</p>
 
 <?php include 'footer.php'; ?>

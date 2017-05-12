@@ -54,7 +54,7 @@
         <div class="panel-heading">Hacking</em></div>
         <div class="panel-body">
 
-            <img src="images/verbascum.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
+            <img src="images/tina.png" style="height:100px;float:left;padding:0px;margin: 5px"/>
 
             <p>
                 Hacking is the main form of weeding performed the group. It is generally performed with a small pick and simply involves digging out small weeds.
@@ -71,7 +71,7 @@
         <div class="panel-heading">Poisoning</em></div>
         <div class="panel-body">
 
-            <img src="images/verbascum.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
+            <img src="images/jan.png" style="height:100px;float:left;padding:0px;margin: 5px"/>
 
             <p>
                 Poisoning involves the application of some herbicide to the plant. The herbicide is generally a glyophasate based one that does not harm the enviroment nor humans. Some other more specialised poisons are sometimes used for specific weeds.
@@ -92,7 +92,7 @@
         <div class="panel-heading">Beheading</em></div>
         <div class="panel-body">
 
-            <img src="images/verbascum.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
+            <img src="images/pt.jpg" style="height:100px;;float:left;padding:0px;margin: 5px"/>
 
             <p>
                 Beheading involves the removal of the head or seeding part of the plant while leaving the rest of the plant in place. The head is removed either with some cutting implement or simply by hand.
@@ -143,7 +143,7 @@
         <div class="panel-heading">Smothering</em></div>
         <div class="panel-body">
 
-            <img src="images/verbascum.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
+            <img src="images/doug.png" style="height:100px;float:left;padding:0px;margin: 5px"/>
 
             <p>
                 Smothering involves covering weeds with some substance such as newspaper, plastic sheets or even the remains of other weeds.

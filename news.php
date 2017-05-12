@@ -15,11 +15,11 @@
     </p>
 
     <p>
-        The newsletter contains news of our past and future activities, plant and animal sitings, government initiatives, etc. The main highlight is a section called "What's Around" segment, which includes a couple of pictures of plants with their names and a short description.
+        The newsletter contains news of <a href="meetings.php">group meetings</a>, <a href="plants.php">plant sitings</a>, <a href="animals">animal sitings</a>, government initiatives, etc. The main highlight is a section called "What's Around" segment, which includes details about a particular plant or animal specie on the ridge.
     </p>
 
     <p>
-        Many people subscribe to the newsletter and is our bestway of engaging the community. If you want to subscribe or unsubscribe to the newsletter, please send us an email via the contact page.
+        Many people subscribe to the newsletter and is our bestway of engaging the community. If you want to subscribe or unsubscribe to the newsletter, please send us an email via the <a href="contact.php">Contact</a> page.
     </p>
 
     <p>

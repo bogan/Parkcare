@@ -1,20 +1,20 @@
 <?php $title = 'Members';	?>
 <?php include 'header.php'; ?>
 
-<ul class="breadcrumb">
-    <li><a href="#">Home</a></li>
-    <li><a href="#">Our Group</a></li>
-    <li class="active">Members</li>
-</ul>
+    <ul class="breadcrumb">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Our Group</a></li>
+        <li class="active">Members</li>
+    </ul>
 
-<h2>Members</h2>
+    <h2>Members</h2>
 
     <p>
-        The Cooleman Ridge Parkcare group is a voluntary group. Memership is free and easy. You can be choose to be an active or non-active member
+        The Cooleman Ridge Parkcare group is a voluntary community - membership is free and easy. You can be choose to be an 'active' or 'non-active' member
     </p>
 
     <p>
-        The group is affiliated with the ACT Southern Catchment Group. This relationship provides the group certain benfits such as insurance and legal liability.
+        The group is affiliated with the <a href="partners.php#southerncatchementgroup">Southern ACT Catchment Group</a>. This relationship provides the group certain benfits such as insurance and legal liability.
     </p>
 
     <p>

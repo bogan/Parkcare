@@ -34,7 +34,7 @@
 
                 These pasture grasses have  a much larger biomass.
 
-                Their fuel load ist therefore much smaller than introduced pasture grasses.
+                Their fuel load is therefore much smaller than introduced pasture grasses.
 
             </p>
 

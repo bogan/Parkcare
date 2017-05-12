@@ -12,8 +12,7 @@
         <meta name=keywords content="environment, nature park, nature parks, cooleman ridge, parkcare, park care, weeds, walks, bicycle riding, bike riding, horse riding, fire, fires, January 2003,">
         <meta name=DC:subject content="environment, nature park, nature parks, cooleman ridge, parkcare, park care, weeds, walks, bicycle riding, bike riding, horse riding, fire, fires, January 2003,">
         <meta name=description content="Cooleman Ridge is situated between Chapman and Kambah lying north-west to south-east, about 3.5 km long with an area of 187 ha.  Its highest point is Mt Arawang (765 m) with a general level of 600 m above the Canberra Plain.  It offers extensive views east and north over Canberra and west over the Brindabella mountain range.">
-        <meta name=DC:description content="Cooleman Ridge is situated between Chapman and Kambah lying north-west to south-east, about 3.5 km long with an area of 187 ha.  Its highest point is Mt Arawang (765 m) with a general level of 600 m above the Canberra Plain.  It offers extensive views east and north over Canberra and west over the Brindabella mountain range.">
-        <meta name=Author content="Karina Pelling">
+        <meta name=Author content="Rohan Thomas">
         <meta name=Keywords content="environment, nature park, nature parks, cooleman ridge, parkcare, park care, weeds, walks, bicycle riding, bike riding, horse riding, fire, fires, January 2003">
         <meta name=generator content="MSHTML 9.00.8112.16443">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -162,7 +161,7 @@
                                 </ul>
                             </li>
                             <li class="dropdown-submenu">
-                                <a tabindex="0">Surveys</a>
+                                <a tabindex="0" href="surveys.php">Surveys</a>
                                 <ul class="dropdown-menu">
                                     <li><a tabindex="0" href="plants.php">Plants</a></li>
                                     <li><a tabindex="0" href="animals.php">Animals</a></li>

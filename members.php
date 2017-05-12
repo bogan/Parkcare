@@ -9,20 +9,41 @@
 
 <h2>Members</h2>
 
-    <p>If you'd like to know more about Cooleman
-    Ridge Park Care Group or join up, please contact us at the following email
-    address: <a href="mailto:admin@coolemanridge.org.au">admin@coolemanridge.org.au</a>.</p>
-
-    <p>Follow these links to more information: </p>
-
-    <p><a href="news.php">Newsletter</a> - updated monthly. </p>
-
-    <p><a href="flora.php">Plant page</a> - native and exotic plants to be found
-    on Cooleman Ridge. Some pictures are available to help you identify them.
+    <p>
+        The Cooleman Ridge Parkcare group is a voluntary group. Memership is free and easy. You can be choose to be an active or non-active member
     </p>
 
-    <p><a href="pictures.php">Pictures</a> - members hard at work. </p>
+    <p>
+        The group is affiliated with the ACT Southern Catchment Group. This relationship provides the group certain benfits such as insurance and legal liability.
+    </p>
 
-    <p><a href="workpart.php">More Pictures</a> - post-bushfire workparty.</p>
+    <p>
+        The group does not receive any regularly funding from the government or other organisations. It occassionally receives small amounts from special purpose grants. Most funds are obtained by fundraising, donations or bequests. Funds are generally spent on purchasing and maintaining tools, printing/publishing, website administration, etc.
+    </p>
+
+    <p>
+        The group has a formal structure and has a formal constitution. The group is managed by an executive committee that is elected annually. The current structure of the group is as follows.
+    </p>
+
+    <p>
+        <ul>
+            <li>President - Linda Spinaze</li>
+            <li>Vice President - ?</li>
+            <li>Secretary - Rob Lundie</li>
+            <li>Treasurer - Rohan Thomas</li>
+        </ul>
+    </p>
+
+    <p>
+        There are also some other non executive roles performed by the group.
+    </p>
+
+    <p>
+        <ul>
+            <li>Webmaster - Rohan Thomas</li>
+            <li>Editor (newsletter) - Rob Lundie</li>
+            <li>Projects Officer - ?</li>
+        </ul>
+    </p>
 
 <?php include 'footer.php'; ?>

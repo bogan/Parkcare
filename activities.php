@@ -32,6 +32,8 @@
 
     <p>The group performed many mass plantings in its early years. The focus of the group has steadily shifted away from planting to weeding partly because most areas have now been planted out but partly because the group believes that weeding is amore cost effective approach.</p>
 
+    <p>Planting on the ridge is often more important as means to an end rather than an end itself. Plants are often effective weeders themselves because many weeds do no complete well with large trees such as eucalypts. Trees can be thought of weeders themselves. The best example of this approach has been on the summit of Mt Arawang which was the most damaged area on the ridge with huge infestations of <a href="weeds.php#beardedoats">Scotch Thistle</a>, <a href="weeds.php#beardedoats">Fleabane</a> and <a href="weeds.php#beardedoats">Bearded Oats</a>. Large plantings of ecucalypts and acacia were used to suppress these weeds and they have now largely eliminated the presence of these weeds over time. </p>
+
     <h3>Surveys</h3>
 
     <img src="images/jd.jpg" style="height:100px;width:100px;float:left;padding:5px;margin: 5px;border:none "/>
@@ -40,7 +42,7 @@
 
     <p>They also are an important way to record the history of the ridge and the groups work on it for future generations.</p>
 
-    <p>Blah, blah, blah</p>
+    <p>The help track the progress of the regeneration program on the ridge</p>
 
     <h3>Guided Walks</h3>
 

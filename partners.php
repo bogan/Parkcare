@@ -50,6 +50,14 @@
 
     <img src="images/canberranaturemap.jpg" style="height:100px;width:100px;float:left;padding:5px;margin: 5px"/>
 
+    <p><a href="https://canberra.naturemapr.org.au/">Canberra Nature Map</a> is web site based on volunteers who contribute sightings of various plants, animals, etc in the various nature reserves throught the ACT and adjoing areas.</p>
+
+    <p>Canberra Nature Map assists be allowing the group to locate significant species on the ridge. It complements several of our own surveys such as the Plant Survery, the Animal Survey.</p>
+
+    <h3>Australian National Botanical Gardens</h3>
+
+    <img src="images/canberranaturemap.jpg" style="height:100px;width:100px;float:left;padding:5px;margin: 5px"/>
+
     <p><a href="https://canberra.naturemapr.org.au/">Canberra Nature Map</a> is web site based on volunteers who contribute sightings of various plancts, animals, etc in the various nature reserves throught the ACT and adjoing areas.</p>
 
     <p>Canberra Nature Map assists be allowing the group to locate significant species on the ridge. It complements several of our own surveys such as the Plant Survery, the Animal Survey.</p>

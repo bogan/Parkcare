@@ -132,13 +132,20 @@
                             Our Ridge<span class="caret"></span></a>
 
                         <ul class="dropdown-menu">
-                            <li><a href="earth.php">Earth</a></li>
-                            <li><a href="fire.php">Fire</a></li>
-                            <li><a href="water.php">Water</a></li>
-                            <li><a href="flora.php">Flora</a></li>
-                            <li><a href="fauna.php">Fauna</a></li>
-                            <li><a href="trails.php">Trails</a></li>
-                            <li><a href="weeds.php">Weeds</a></li>
+                            <li><a href="location.php">Location</a></li>
+                            <li><a href="history.php">History</a></li>
+                            <li class="dropdown-submenu">
+                                <a tabindex="0">Features</a>
+                                <ul class="dropdown-menu">
+                                    <li><a tabindex="0" href="earth.php">Earth</a></li>
+                                    <li><a tabindex="0" href="fire.php">Fire</a></li>
+                                    <li><a tabindex="0" href="water.php">Water</a></li>
+                                    <li><a tabindex="0" href="flora.php">Flora</a></li>
+                                    <li><a tabindex="0" href="fauna.php">Fauna</a></li>
+                                    <li><a tabindex="0" href="trails.php">Trails</a></li>
+                                    <li><a tabindex="0" href="weeds.php">Weeds</a></li>
+                                </ul>
+                            </li>
                         </ul>
                     </li>
 

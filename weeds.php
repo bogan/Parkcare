@@ -15,7 +15,7 @@
     </p>
 
     <p>
-        The group believes that it is important that everybody who relates to the ridge we familiar with the history, scope and types of weeds found on the ridge
+        The group believes that it is important that everybody who uses the ridge is familiar with the history, scope and types of weeds found on the ridge.
 
         The group thinks that this important because most people who come into contact with the ridge to not know this.
         Most inexperienced people often confuse natives and exotics with one another and can do more harm than good.

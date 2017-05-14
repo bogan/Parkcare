@@ -16,18 +16,19 @@
 
     <p>Click on an area for more information</p>
 
-    <div id="individualareas" style="width:750px;height:600px;"><div/>
+    <div id="individualareas" style="width:750px;height:600px;"></div>
 
     <script>
         function initMap() {
 
             var individualareasmap = new google.maps.Map(document.getElementById('individualareas'), {
                 zoom: 11,
+                mapTypeId: google.maps.MapTypeId.TERRAIN
             });
 
             var individuals = new google.maps.KmlLayer({
 
-                url: 'http://www.coolemanridge.org.au/coolemanridge.kmz',
+                url: 'http://www.coolemanridge.org.au/individualareas1.kmz',
 
                 map: individualareasmap
 

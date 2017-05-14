@@ -16,6 +16,31 @@
     <p>
         These trails play an important role for connecting the work of the group with the broader community through their recreational value.</p>
 
+    <p>Click on an area for more information</p>
+
+    <div id="groupareas" style="width:750px;height:600px;"></div>
+
+    <script>
+        function initMap() {
+
+            var groupareasmap = new google.maps.Map(document.getElementById('groupareas'), {
+                zoom: 10,
+                mapTypeId: google.maps.MapTypeId.TERRAIN
+            });
+
+            var groups = new google.maps.KmlLayer({
+
+                url: 'http://www.coolemanridge.org.au/trails1.kmz',
+
+                map: groupareasmap
+
+            });
+        }
+
+    </script>
+
+    <script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDCD686jeBcuFYgXk6k7dCHiWakzmYS6uI&callback=initMap"></script>
+
     <h3>Bicentennial National Trail</h3>
 
     <p>
@@ -87,5 +112,7 @@
     <p>The ridge is covered by a network of vehicular management trails. These are used by authorised parties such as the Rural Fire Service, Parks and Conservation, etc. to perform various work on the ridge.</p>
 
     <p>The management trails are open to the public for use for walking, bicycle riding and in some cases horse riding.</p>
+
+
 
 <?php include 'footer.php'; ?>

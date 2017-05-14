@@ -20,18 +20,19 @@
 
     <p>Click on an area for more information</p>
 
-    <div id="specialpurposeareas" style="width:750px;height:100px;"><div/>
+    <div id="specialpurposeareas" style="height:600px;"></div>
 
     <script>
         function initMap() {
 
             var specialpurposeareasmap = new google.maps.Map(document.getElementById('specialpurposeareas'), {
                 zoom: 11,
+                mapTypeId: google.maps.MapTypeId.TERRAIN
             });
 
             var specialpurposes = new google.maps.KmlLayer({
 
-                url: 'http://www.coolemanridge.org.au/coolemanridge.kmz',
+                url: 'http://www.coolemanridge.org.au/trails1.kmz',
 
                 map: specialpurposeareasmap
 

@@ -32,18 +32,19 @@
 
     <p>Click on a coloured area for more information about the individual group areas.</p>
 
-    <div id="groupareas" style="width:750px;height:600px;"><div/>
+    <div id="groupareas" style="width:750px;height:600px;"></div>
 
     <script>
         function initMap() {
 
             var groupareasmap = new google.maps.Map(document.getElementById('groupareas'), {
                 zoom: 10,
+                mapTypeId: google.maps.MapTypeId.TERRAIN
             });
 
             var groups = new google.maps.KmlLayer({
 
-                url: 'http://coolemanridge.org.au/coolemanridge.kmz',
+                url: 'http://www.coolemanridge.org.au/groupareas.kmz',
 
                 map: groupareasmap
 

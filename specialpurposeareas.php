@@ -32,7 +32,7 @@
 
             var specialpurposes = new google.maps.KmlLayer({
 
-                url: 'http://www.coolemanridge.org.au/trails1.kmz',
+                url: 'http://www.coolemanridge.org.au/specialpurposeareas.kml',
 
                 map: specialpurposeareasmap
 

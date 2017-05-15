@@ -36,11 +36,6 @@ include 'header.php';
         Please see our group areas and individual areas to be more aware of the progress that has been made of the years.
     </p>
 
-    <p>The nature reserve borders the Canberra suburbs of Chapman, Fisher and Kambah.</p>
-
-    <p>
-        The Cooleman Ridge Nature Reserve is an example of a grass woodland ecosystem which is highly endagered ecosystem. These ecosystems are vulnerable to grazing and urban development and very few high quality ones still exist in the Australian Capital Territory.
-    </p>
 
     <p>
         The Cooleman Ridge Nature Reserve is one of the more damaged but there still remain many good areas. These areas serve as the nucleus of the groups efforts to restore the ecology of the ridge.

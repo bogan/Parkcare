@@ -12,11 +12,15 @@
     <h3>Group Meetings</h3>
 
     <p>
-        The group meets once a month for a group working party. The group works on one of designated group <a href="groupareas.php" >work areas</a>. The group will perform many hands on works in accordance with our accepted <a href="methods.php">methods</a>.
+        The group meets once a month for a group working party. The group works on one of designated group <a href="groupareas.php">work areas</a>. The group will perform many hands on works in accordance with our accepted <a href="methods.php">methods</a>.
     </p>
 
     <p>
         The Group Meeting is normally held on the third Sunday of every month (except when there are public holidays such as Christmas or Easter). Please see our latest <a href="news.php">newsletter</a> for the specific details for the exact time and place for our next meeting.
+    </p>
+
+    <p>
+        And afterwards, for the boys and girls that have been good, tea and cake is often served!
     </p>
 
     <h3>Weekly Meetings</h3>

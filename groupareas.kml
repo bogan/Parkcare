@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>groupareas.kml</name>
+	<StyleMap id="poly-F48FB1-1200-77">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#poly-F48FB1-1200-77-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#poly-F48FB1-1200-77-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="poly-097138-1200-77">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#poly-097138-1200-77-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#poly-097138-1200-77-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="poly-FBC02D-1200-77-highlight">
+		<LineStyle>
+			<color>ff2dc0fb</color>
+			<width>1.8</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d2dc0fb</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin7">
+		<LineStyle>
+			<color>ff485579</color>
+			<width>1.8</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d485579</color>
+		</PolyStyle>
+	</Style>
+	<Style id="poly-097138-1200-77-normal">
+		<LineStyle>
+			<color>ff387109</color>
+			<width>1.2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d387109</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="poly-FBC02D-1200-77">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#poly-FBC02D-1200-77-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#poly-FBC02D-1200-77-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="poly-A52714-1200-77">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#poly-A52714-1200-77-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#poly-A52714-1200-77-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="poly-F48FB1-1200-77-normal">
+		<LineStyle>
+			<color>ffb18ff4</color>
+			<width>1.2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4db18ff4</color>
+		</PolyStyle>
+	</Style>
+	<Style id="poly-FBC02D-1200-77-normal">
+		<LineStyle>
+			<color>ff2dc0fb</color>
+			<width>1.2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d2dc0fb</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin10">
+		<LineStyle>
+			<color>ff485579</color>
+			<width>1.2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d485579</color>
+		</PolyStyle>
+	</Style>
+	<Style id="poly-A52714-1200-77-highlight">
+		<LineStyle>
+			<color>ff1427a5</color>
+			<width>1.8</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d1427a5</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="poly-097138-1200-77-highlight">
+		<LineStyle>
+			<color>ff387109</color>
+			<width>1.8</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d387109</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="poly-3949AB-1200-77">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#poly-3949AB-1200-77-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#poly-3949AB-1200-77-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="poly-A52714-1200-77-normal">
+		<LineStyle>
+			<color>ff1427a5</color>
+			<width>1.2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d1427a5</color>
+		</PolyStyle>
+	</Style>
+	<Style id="poly-F48FB1-1200-77-highlight">
+		<LineStyle>
+			<color>ffb18ff4</color>
+			<width>1.8</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4db18ff4</color>
+		</PolyStyle>
+	</Style>
+	<Style id="poly-3949AB-1200-77-normal">
+		<LineStyle>
+			<color>ffab4939</color>
+			<width>1.2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4dab4939</color>
+		</PolyStyle>
+	</Style>
+	<Style id="poly-3949AB-1200-77-highlight">
+		<LineStyle>
+			<color>ffab4939</color>
+			<width>1.8</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4dab4939</color>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>Group Areas</name>
+		<open>1</open>
+		<Placemark>
+			<name>&lt;font face=arial&gt;Group Area North&lt;/font&gt;&lt;br&gt;</name>
+			<description><![CDATA[<font face=arial>Group Area North is one of the Cooleman Ridge Parkcares Groups monthly areas for group work.l</font><br>]]></description>
+			<styleUrl>#msn_ylw-pushpin15</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							149.0235436,-35.351956,0 149.0235007,-35.3524548,0 149.0238333,-35.3525336,0 149.0240693,-35.3527523,0 149.0242302,-35.3529098,0 149.0241766,-35.3531373,0 149.0241551,-35.3533211,0 149.0242517,-35.3535311,0 149.0250027,-35.3536274,0 149.0253353,-35.3539161,0 149.0259147,-35.3544499,0 149.0263438,-35.3536711,0 149.0261829,-35.3534786,0 149.0261507,-35.3531111,0 149.0259147,-35.3529186,0 149.0256679,-35.3526823,0 149.0257001,-35.3522448,0 149.0257323,-35.3520173,0 149.0254426,-35.3517985,0 149.0252066,-35.3516235,0 149.0248203,-35.3515798,0 149.024359,-35.351641,0 149.0240157,-35.3517635,0 149.0238225,-35.3519473,0 149.0235436,-35.351956,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Kathner Street Work Area</name>
+			<description>This area is used for the Friday morning weekly work group</description>
+			<styleUrl>#poly-A52714-1200-77</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							149.0236831,-35.3519123,0 149.0238869,-35.3518423,0 149.0240049,-35.3517023,0 149.023844,-35.3515885,0 149.0238869,-35.3513172,0 149.0236723,-35.3511772,0 149.0234041,-35.3510547,0 149.0234256,-35.3508972,0 149.0236616,-35.3507747,0 149.0239513,-35.3500396,0 149.0237582,-35.3499959,0 149.0231895,-35.3500134,0 149.0228999,-35.3499784,0 149.0225995,-35.3498296,0 149.0223205,-35.3498559,0 149.0221381,-35.3500659,0 149.0219986,-35.3502934,0 149.0218699,-35.3504509,0 149.0215588,-35.3505997,0 149.0208292,-35.351011,0 149.0212584,-35.351571,0 149.0217304,-35.351886,0 149.0224171,-35.351781,0 149.0230179,-35.351956,0 149.0236831,-35.3519123,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Group Area Central</name>
+			<description>This area is one of the areas used by the group for it&apos;&apos;s monthly group work meetings</description>
+			<styleUrl>#poly-097138-1200-77</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							149.0329796,-35.360833,0 149.0330923,-35.3611917,0 149.0333283,-35.3614411,0 149.0334302,-35.361673,0 149.0342832,-35.3627666,0 149.0360481,-35.3637072,0 149.0364504,-35.3638866,0 149.0366918,-35.3638122,0 149.0369332,-35.363716,0 149.0372282,-35.3636503,0 149.0375769,-35.3636678,0 149.0375876,-35.3633179,0 149.0376413,-35.3626354,0 149.0376627,-35.3623642,0 149.0374053,-35.3621804,0 149.0372229,-35.3614236,0 149.0360802,-35.360973,0 149.0354741,-35.360798,0 149.034723,-35.3607193,0 149.0342724,-35.3607849,0 149.033854,-35.3609249,0 149.0336823,-35.3610036,0 149.0334624,-35.3610167,0 149.0331888,-35.3609205,0 149.0329796,-35.360833,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Group Area Lincoln</name>
+			<description>This area is one of the groups uses for its group work areas</description>
+			<styleUrl>#poly-3949AB-1200-77</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							149.0422225,-35.3654352,0 149.0421045,-35.3653652,0 149.0419275,-35.3651333,0 149.0417987,-35.3649408,0 149.0416753,-35.3649496,0 149.0411818,-35.3648096,0 149.0409672,-35.364744,0 149.040699,-35.3647002,0 149.0403289,-35.3646871,0 149.0406346,-35.364954,0 149.0409404,-35.3652121,0 149.041155,-35.3653608,0 149.0412033,-35.3655927,0 149.0411979,-35.3660607,0 149.0413052,-35.3662532,0 149.0416914,-35.3661832,0 149.0418309,-35.3661832,0 149.0422064,-35.3663757,0 149.0423995,-35.3661263,0 149.0422225,-35.3654352,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Group Area  Monkman</name>
+			<description>This area is one of the areas the group usese for its monthly work meetings</description>
+			<styleUrl>#poly-FBC02D-1200-77</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							149.0297771,-35.3538724,0 149.0295732,-35.3538286,0 149.029187,-35.3537411,0 149.0288007,-35.3537586,0 149.0282857,-35.3538024,0 149.0279961,-35.3538461,0 149.0275776,-35.3539249,0 149.0272236,-35.3539249,0 149.026891,-35.3538636,0 149.0268481,-35.3540386,0 149.027127,-35.3541524,0 149.0275991,-35.3543186,0 149.0279639,-35.3544937,0 149.0284574,-35.3546949,0 149.0290475,-35.3548262,0 149.0296161,-35.3550099,0 149.0297878,-35.3551062,0 149.0300453,-35.3552374,0 149.0304422,-35.3553774,0 149.0307641,-35.3551849,0 149.0313005,-35.3551412,0 149.0312469,-35.3550274,0 149.031086,-35.3547474,0 149.0308821,-35.3545024,0 149.0305603,-35.3542486,0 149.030292,-35.3540386,0 149.0297771,-35.3538724,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Group Area South</name>
+			<description>This one of the areas used by the group for its regular monthly group work</description>
+			<styleUrl>#poly-F48FB1-1200-77</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							149.045189,-35.3714718,0 149.0454197,-35.3715506,0 149.0457201,-35.3716031,0 149.0460205,-35.371743,0 149.0462351,-35.371848,0 149.0464121,-35.3719311,0 149.0466642,-35.3719443,0 149.0467769,-35.3718918,0 149.0469754,-35.3717868,0 149.047088,-35.3715681,0 149.047029,-35.3712706,0 149.0470022,-35.3710388,0 149.0470719,-35.3708638,0 149.047426,-35.3705664,0 149.0478766,-35.3701071,0 149.0459239,-35.3701114,0 149.0460473,-35.3704351,0 149.045189,-35.3714718,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

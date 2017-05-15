@@ -4,6 +4,7 @@
             <ul class="breadcrumb">
                 <li><a href="#">Home</a></li>
                 <li><a href="#">Our Ridge</a></li>
+                <li><a href="#">Features</a></li>
                 <li class="active">Earth</li>
             </ul>
 

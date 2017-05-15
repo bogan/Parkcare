@@ -28,7 +28,7 @@
 
             var individuals = new google.maps.KmlLayer({
 
-                url: 'http://www.coolemanridge.org.au/individualareas1.kmz',
+                url: 'http://www.coolemanridge.org.au/individualareas.kml',
 
                 map: individualareasmap
 

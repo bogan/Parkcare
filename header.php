@@ -142,6 +142,8 @@
                                     <li><a tabindex="0" href="water.php">Water</a></li>
                                     <li><a tabindex="0" href="flora.php">Flora</a></li>
                                     <li><a tabindex="0" href="fauna.php">Fauna</a></li>
+                                    <li><a tabindex="0" href="hills.php">Hills</a></li>
+                                    <li><a tabindex="0" href="plantations.php">Plantations</a></li>
                                     <li><a tabindex="0" href="trails.php">Trails</a></li>
                                     <li><a tabindex="0" href="weeds.php">Weeds</a></li>
                                 </ul>
@@ -188,8 +190,17 @@
 
                 <!-- Right panel -->
                 <ul class="nav navbar-nav navbar-right">
-                    <!--<li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
-                    <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>-->
+                    <!-- Reference -->
+                    <li class="dropdown">
+                        <a tabindex="0" aria-expanded="false" data-toggle="dropdown" data-submenu="">
+                            Reference<span class="caret"></span></a>
+
+                        <ul class="dropdown-menu">
+                            <li><a href="map.php">Map</a></li>
+                            <li><a href="coordinates.php">Coordinates</a></li>
+                            <li><a href="links.php">Coordinates</a></li>
+                        </ul>
+                    </li>
                 </ul>
 
             </div>

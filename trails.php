@@ -4,6 +4,7 @@
     <ul class="breadcrumb">
         <li><a href="#">Home</a></li>
         <li><a href="#">Our Ridge</a></li>
+        <li><a href="#">Features</a></li>
         <li class="active">Trails</li>
     </ul>
 
@@ -30,7 +31,7 @@
 
             var groups = new google.maps.KmlLayer({
 
-                url: 'http://www.coolemanridge.org.au/trails1.kmz',
+                url: 'http://www.coolemanridge.org.au/trails.kml',
 
                 map: groupareasmap
 

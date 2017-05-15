@@ -44,7 +44,7 @@
 
             var groups = new google.maps.KmlLayer({
 
-                url: 'http://www.coolemanridge.org.au/groupareas.kmz',
+                url: 'http://www.coolemanridge.org.au/groupareas.kml',
 
                 map: groupareasmap
 

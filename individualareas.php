@@ -16,7 +16,7 @@
 
     <p>Click on an area for more information</p>
 
-    <div id="individualareas" style="width:750px;height:600px;"></div>
+    <div id="individualareas" style="height:600px;"></div>
 
     <script>
         function initMap() {

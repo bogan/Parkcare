@@ -18,7 +18,7 @@
 
     <p>Click on an area for more information</p>
 
-    <div id="groupareas" style="width:750px;height:600px;"></div>
+    <div id="groupareas" style="height:600px;"></div>
 
     <script>
         function initMap() {

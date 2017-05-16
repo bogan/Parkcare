@@ -1,4 +1,4 @@
-<?php $title = 'Locaation';	?>
+<?php $title = 'Location';	?>
 <?php include 'header.php'; ?>
 
     <ul class="breadcrumb">
@@ -10,13 +10,15 @@
     <h2 class="page-header">Location</h2>
 
     <p>
-    The Cooleman Ridge Nature reserve is appoximately 10 sq km (10000 hectares). It runs in a general North West to South East direction. It is 3.3km long on this axis, and averages approximately 500m in the other direction.
+        The Cooleman Ridge Nature reserve is located on in the southern. It is bordered by  the Canberra suburbs of Chapman, Fisher and Kambah.
     </p>
 
-    <p>The nature reserve borders the Canberra suburbs of Chapman, Fisher and Kambah.</p>
+    <p>
+        It is appoximately 10 sq km (10000 hectares). It runs in a general North West to South East direction. It is 3.3km long on this axis, and averages approximately 500m in the other direction.
+    </p>
 
     <p>
-        The Cooleman Ridge Nature Reserve is an example of a grass woodland ecosystem which is highly endagered ecosystem. These ecosystems are vulnerable to grazing and urban development and very few high quality ones still exist in the Australian Capital Territory.
+        The Cooleman Ridge Nature Reserve is an example of a grass woodland ecosystem which is highly endangered ecosystem. These ecosystems are vulnerable to grazing and urban development and very few high quality ones still exist in the Australian Capital Territory.
     </p>
 
     <div id="location" style="height:600px;"></div>

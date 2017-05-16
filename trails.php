@@ -42,19 +42,7 @@
 
     <script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDCD686jeBcuFYgXk6k7dCHiWakzmYS6uI&callback=initMap"></script>
 
-    <h3>Bicentennial National Trail</h3>
 
-    <p>
-        The <a href="www.bicentennialnationaltrail.com.au">Bicentennial National Trail</a> is a 5000km multipurpose trail that runs from Healesville, Victoria to Cooktown, Queensland. It is Australia's longest formally recognised track and one of the longest in the world. Part of this trail crosses the Cooleman Ridge Nature Reserve along its southern and western boundaries.
-    </p>
-
-    <p>
-        The Bicentennial National Trail is essentally a recreational trail and is used by people travelling its full length or just part of it. The trail is mainly used by equestrian riders but people have been known to travel using other forms of transport such as feet, donkeys and even camels!
-    </p>
-
-    <p>
-        The Bicentennial National Trail is the only part of the nature reserve that horses are allowed on.</p>
-    </p>
 
     <h3>Canberra Centenary Trail</h3>
 

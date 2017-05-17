@@ -39,11 +39,11 @@
     </table>
 
     <p>
-        The effectiveness of the Bradley Method is however counter intuitive to those unfamiliar with it. Planting seems to be the obvious way of restoring native vegetation. However, the main reason why weeding is more effective than planting is that the bush has a natural tendency to regenerate anyway, whether humans help or not. work with nature and not against it. However, humans can great significantly accelerate the natural regeneration process by removing competitors that prevent the bush from regeneration. Weeds compete for light, water and nutrients. Removing weeds allows struggling natives to maximise the use. The idea is to create an empty space for the bush to move into. The bush will do this naturally. All it requires from us is to create this space. This is the main reason for weeding - to remove competition and create a space.Weeding is by no means a futile activity.
+        The effectiveness of the Bradley Method is however counter intuitive to those unfamiliar with it and does not conform with the general publics stereotypical landcare groups. Planting seems to be the obvious way of restoring native vegetation. However, the main reason why weeding is more effective than planting is that the bush has a natural tendency to regenerate anyway, whether humans help or not. work with nature and not against it. However, humans can great significantly accelerate the natural regeneration process by removing competitors that prevent the bush from regeneration. Weeds compete for light, water and nutrients. Removing weeds allows struggling natives to maximise the use. The idea is to create an empty space for the bush to move into. The bush will do this naturally. All it requires from us is to create this space. This is the main reason for weeding - to remove competition and create a space.Weeding is by no means a futile activity.
     </p>
 
     <p>
-        Weeding should by lightweight rather than heavy weight. Weeding is most effective in strong areas rather than week areas. Many think that weeding is futile because they will just come back. Once a good native cover is established, most weeds rarely reenter. Work with the bush rather than against it.   immediately next to the weed. By not causing major daage to the suuroundind natives
+        The Bradley Methods maintains that weeding should by lightweight rather than heavy weight. Weeding is most effective in strong areas rather than week areas. Many think that weeding is futile because they will just come back. Once a good native cover is established, most weeds rarely reenter. Work with the bush rather than against it.   immediately next to the weed. By not causing major daage to the surrounding natives. Precision an minimise collateral damage whereever problem. Manual methods are generally preferred to mechanical methods as they are more precise and less likely to create collateral damage.
     </p>
 
     <p>
@@ -61,7 +61,7 @@
             </p>
 
             <p>
-                Hacking  is most effective against small to medium herbaceous weeds that have a distinctive rosette, such as <a href="weeds.php#aaronsrod">Aaron's Rod</a>, Wild Sage, Scotch Thistle and <a href="weeds.php#pattersonscurse">Patterson's Curse</a>. Large areas. It is a very precise method that removes the weed while leaving natives
+                Hacking  is most effective against small to medium herbaceous weeds that have a distinctive rosette, such as <a href="weeds.php#aaronsrod">Aaron's Rod</a>, <a href="weeds.php#wildsage">Wild Sage</a>, <a href="weeds.php#scotchthisle">Scotch Thistle</a> and <a href="weeds.php#pattersonscurse">Patterson's Curse</a>. Large areas. It is a very precise method that removes the weed while leaving natives and is great way to regenerate native grasslands.
             </p>
 
         </div>
@@ -74,15 +74,15 @@
             <img src="images/jan.png" style="height:100px;float:left;padding:0px;margin: 5px"/>
 
             <p>
-                Poisoning involves the application of some herbicide to the plant. The herbicide is generally a glyophasate based one that does not harm the enviroment nor humans. Some other more specialised poisons are sometimes used for specific weeds.
+                Poisoning involves the application of some herbicide to the plant. The herbicide is generally a <a href="https://en.wikipedia.org/wiki/Glyphosate">glyophasate</a> based one that does not harm the enviroment nor humans. Some other more specialised poisons are sometimes used for specific weeds.
             </p>
 
             <p>
-                Poisons are typically applied using two different methods - spraying or cut-and-dabbing.
+                Poisons are typically applied using two different methods - spraying or cut-and-dabbing. Spraying is most effective against weeds that have a large rosette such as <a href="weeds.php#pattersonscurse">Pattersons Curse</a> whereas cut-and-dab is best used with woody weeds such as <a href="weeds.php#sweetbriar">Sweet Briar</a>.
             </p>
 
             <p>
-                Spraying of specific weeds such as <a href="weeds.php#blackberry">Blackberry</a> is performed by Parks and Gardens using commercial level equipment.
+                Spraying of specific weeds such as <a href="weeds.php#blackberry">Blackberry</a> is performed by Parks and Conservation officers (or their contractors) using commercial level equipment.
             </p>
 
         </div>

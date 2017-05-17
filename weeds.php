@@ -12,25 +12,36 @@
     <h2 class="page-header">Weeds</h2>
 
     <p>
-        Weeds and weeding are central focus of the groups strategy to regenerate the bush on Coolemenan Ridge.
+        Weeds and weeding are the central focus of the groups <a href="methods">strategy</a> to regenerate the bush on Cooleman Ridge.
     </p>
 
     <p>
         The group believes that it is important that everybody who uses the ridge is familiar with the history, scope and types of weeds found on the ridge.
 
-        The group thinks that this important because most people who come into contact with the ridge to not know this.
-        Most inexperienced people often confuse natives and exotics with one another and can do more harm than good.
+        This is  because most people who come into contact with the ridge to not know this.
+        Most inexperienced people often confuse natives and exotics with one another and can do more harm than good. They believe that everything is a weed.
 
-        The first step in helping to solve the problem is to identify the problem.
+        <p>The first step in helping to solve the problem is to identify the problem.</p>
 
-        The best may the public can help is to just bo simply aware of the problem, even if they do not actively weed themselves.
+    <p>The best may the public can help the work the group does is to just bo simply aware of the problem, even if they do not actively weed themselves.</p>
 
-        This page is intended to give a general overview of the history, scope and types of weeds found on the ridge.
+    <p>This page is intended to give a general overview of the history, scope and types of weeds found on the ridge.</p>
+
     </p>
+
+    <h3>History</h3>
 
     <p>
-        Most weeds are typically found in &quot;damaged areas&quot; of the ridge. These are areas that were deliberately or accidentally altered by human activity. The main reason why the landscape has been dammaged has been the intoduction of grazing. Manny areas were overgrazed. Native cover was removed. This leaves  the exposed soil highly vulnerable to invasive weeds such
+        The Australian bush is remarkably resilient to the introduction of most weeds. Most weeds are typically only found in &quot;damaged areas&quot; of the ridge. These are areas that were deliberately or accidentally altered by human activity. The main reason why the landscape has been damaged has been the introduction of grazing but also the creation of roads and foot tracks. Many areas were overgrazed. Weeds move in when native cover has been removed. This leaves  the exposed soil highly vulnerable to invasive weeds such.
+
+        The most important weeds are the invasive ones. This means that move into damaged areas.
     </p>
+
+    <h3>Scope</h3>
+
+    <p>Scope</p>
+
+    <h3>Types</h3>
 
     <p>
         There are large number of different types of weeds on the ridge. However, there are only approximately a dozen weed species that constitute the main bulk of the weeds on the ridge. Each species is quite easy to identify, even for a novice. The following is a shortened list of the main weeds that the Group focuses on. For a complete list of all weeds found on the Cooleman Ridge Nature Reserve, please see our <a href="https://en.wikipedia.org/wiki/Bush_regeneration#Bradley_method">Plant Survey</a>.
@@ -51,7 +62,7 @@
             </p>
 
             <p>
-                Blackberry is difficult to control and requires an approach quite different to other major weeds on the ridge. It  is only effectively treated with poisoning. The poison is normally applied by spraying the leaves of the plant. Blackberrys are typically sprayed in late summer or autumn when they are actively growing and after fruiting. Large infestations require commercial grade equipment such as motor vehicles, pumps and long hoses. Smaller infestations can be poisoned by using a hand held spray pack or by painting the leaves with a herbicide solution.
+                Blackberry is difficult to control and requires an approach quite different to other major weeds on the ridge. It  is only effectively treated with poisoning. The poison is normally applied by spraying the leaves of the plant. Blackberrys are typically sprayed in late summer or autumn when they are actively growing and after fruiting. Large infestations require commercial grade equipment to treat, such as motor vehicles, pumps and long hoses. Smaller infestations can be poisoned by using a hand held spray pack or by painting the leaves with a herbicide solution.
             </p>
 
             <p>
@@ -69,11 +80,11 @@
             <img src="images/phalaris.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
 
             <p>
-                Canary Grass is a large, thick, perenial tussock grass. It grows well during the spring and dries out in the summer. In mass plantings, it forms thick mats that dominate all other plants. It is a pasture grass that was deliberately planted by former pastoralist to signficantly increase the amount of feed available for their grazing animals. It is a native of Southern Africa and has adapted to being grazed by large herbivores. this makes it suitable as a pasture grass.
+                Canary Grass is a large, thick, perenial tussock grass. It grows well during the spring and dries out in the summer. In mass plantings, it forms thick mats that dominate all other plants. It is a pasture grass that was deliberately planted by former pastoralists to signficantly increase the amount of feed available for their grazing animals. It is a native of Southern Africa and has adapted to being grazed by large herbivores.
             </p>
 
             <p>
-                Canary Grass is also significant because it is the major fuel source and can rapidly increase the speed and intersity of grass fires. Eliminating pharlaris is important part of minimising dangerous grassfires on the ridge. See our <a href="fire.php"> Fire</a> page for more information.
+                Canary Grass is also significant because it is the most significant fuel source for grass fires on the ridge. The very qualities that made it a good pasture grass (thick, tall and fast growing) are the very qualities that make it the biggest fire hazard on the ridge. It can rapidly increase the speed and intensity of grass fires. Eliminating Canary Grass is important part of minimising dangerous grass fires on the ridge. See our <a href="fire.php"> Fire</a> page for more information.
             </p>
 
             <p>
@@ -81,7 +92,7 @@
             </p>
 
             <p>
-                Canary Grass is not very invasive and can be cnntrolled either by <a href="methods.php#hacking">hacking</a> or by <a href="methods.php#poisoning">poisoning</a>. This require multiple treatments over several seasons. The group has made significant progress with removing pharlaris from most of the <a href="groupareas.php">Group Areas</a> but large patches still remain elsewhere on the ridge.
+                Canary Grass is not very invasive and can be cnntrolled either by <a href="methods.php#hacking">hacking</a> or by <a href="methods.php#poisoning">poisoning</a>. This require multiple treatments over several seasons. The group has made significant progress with removing Canary Grass from most of the <a href="groupareas.php">Group Areas</a> but large patches still remain elsewhere on the ridge.
             </p>
 
 
@@ -277,10 +288,10 @@
     </div>
 
     <div  id="plantain" class="panel panel-success">
-        <div class="panel-heading">Plantain <em>(????????? )</em></div>
+        <div class="panel-heading">Plantain <em>(Plantanus Lanceolata)</em></div>
         <div class="panel-body">
 
-            <img src="images/scotchthistle.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
+            <img src="images/plaintain.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
 
             <p>
                 Plaintain is a small herbaceous weed. It grows well in damaged areas.

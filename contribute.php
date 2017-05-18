@@ -11,7 +11,7 @@
 
     <p>The Cooleman Ridge Parkcare Group needs your help!</p>
 
-    <p>There is something for everybody to do no matter what your age, health, interest, experience. Your contribution can be regular or adhoc, big or small.</p>
+    <p>There is something for everybody to do no matter what your age, health, interest, experience. Your contribution can be regular or adhoc, big or small - every little bit helps!</p>
 
     <p>You don't even need to make a special event of your work. Many people help out while just 'doing something else' on the ridge (e.g. walking the dog).</p>
 

@@ -23,6 +23,8 @@
 
         <p>The first step in helping to solve the problem is to identify the problem.</p>
 
+
+
     <p>The best may the public can help the work the group does is to just bo simply aware of the problem, even if they do not actively weed themselves.</p>
 
     <p>This page is intended to give a general overview of the history, scope and types of weeds found on the ridge.</p>
@@ -37,9 +39,9 @@
         The most important weeds are the invasive ones. This means that move into damaged areas.
     </p>
 
-    <h3>Scope</h3>
+    <h3>Distribution</h3>
 
-    <p>Scope</p>
+    <p>Weeds still form a significant part of the plants found on the ridge These weeds were either deliberatly introduced or accidentally introduced via grazing or via garden escapees.</p>
 
     <h3>Types</h3>
 
@@ -80,7 +82,7 @@
             <img src="images/phalaris.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
 
             <p>
-                Canary Grass is a large, thick, perenial tussock grass. It grows well during the spring and dries out in the summer. In mass plantings, it forms thick mats that dominate all other plants. It is a pasture grass that was deliberately planted by former pastoralists to signficantly increase the amount of feed available for their grazing animals. It is a native of Southern Africa and has adapted to being grazed by large herbivores.
+                <a href="https://en.wikipedia.org/wiki/Phalaris_aquatica">Canary Grass</a> is a large, thick, perenial tussock grass. It grows well during the spring and dries out in the summer. In mass plantings, it forms thick mats that dominate all other plants. It is a pasture grass that was deliberately planted by former pastoralists to signficantly increase the amount of feed available for their grazing animals. It is a native of Southern Africa and has adapted to being grazed by large herbivores.
             </p>
 
             <p>

@@ -257,8 +257,33 @@
 	<Folder>
 		<name>Trails</name>
 		<Placemark>
-			<name>Mt Arawang Summit Trail</name>
-			<description>Plasyasfdaslf</description>
+			<name><font face="arial" color="#ba7025">Mt Arawang Walking Trail</font></name>
+			<description>
+				<![CDATA[
+				<font face="arial">
+				<p>
+					The Mt Arawang Walking Trail is a walking trail that allows walkers to access the summit of Mt Arawang - the highest point on the ridge. The views from the summit are some of the best from Canberra.
+				</p>
+
+				<p>
+					The trail has two entry/exit points - one at Namitjira and the other at Lincoln Place. Trail can be walked as simple return walk from either entry point or can be walked as a cirucuit by returning via the fire management trail that goes around the base of Mt Arawant.
+				</p>
+
+				<p>
+					 The track was upgraded in 2016 and provides a well formed path to the summit. The walk takes approximately 1 hour return.
+				</p>
+
+				<p>
+					 The southern or Namitajira entry to the track goes through one of our group area. The walk provides a interesting illustration of the natural vegetation found on the ridge. To the west of the track, the bush is in a very good state with large amounts of the original vegetation. To the east, there are vegetation has been badly degraded.
+				</p>
+
+				<p>
+					 The track was upgraded in 2016 and provides a well formed path to the summit. The walk takes approximately 1 hour return.
+				</p>
+				</font>
+	             ]]>
+
+			</description>
 			<styleUrl>#msn_ylw-pushpin9</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
@@ -268,12 +293,11 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>Bicentennial Trail</name>
+			<name><font face="arial" color="#ba7025">Bicentennial National Trail</font></name>
 			<description>
 			 <![CDATA[
-			    <h3>Bicentennial National Trail</h3>
-
-                <p>
+			 <font face="arial">
+			    <p>
                     The <a href="www.bicentennialnationaltrail.com.au">Bicentennial National Trail</a> is a 5000km multipurpose trail that runs from Healesville, Victoria to Cooktown, Queensland. It is Australia's longest formally recognised track and one of the longest in the world. Part of this trail crosses the Cooleman Ridge Nature Reserve along its southern and western boundaries.
                 </p>
 
@@ -284,7 +308,7 @@
                 <p>
                      The Bicentennial National Trail is the only part of the nature reserve that horses are allowed on.</p>
                 </p>
-
+			</font>
              ]]>
             </description>
 			<styleUrl>#msn_ylw-pushpin13</styleUrl>
@@ -296,8 +320,29 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>Centennial Trail</name>
-			<description>Blabh blabh</description>
+			<name><font face="arial" color="#ba7025">Canberra Centenary Trail</font></name>
+			<description>
+				<![CDATA[
+				<font face="arial">
+				<p>
+					The <a href="http://www.environment.act.gov.au/parks-conservation/parks-and-reserves/find-a-park/rural/canberra-centenary-trail">Canberra Centenary Trail</a> is an ACT based multipurpose track that circumnavigates the city of Canberra. The track was created in 2013 to celebrate the 100th anniversery of the founding of the city of Canberra and is intended for use by both walkers and bike rider.
+				</p>
+
+				<p>
+					The section that cross the nature reserve is composed of both existing management vehicular trails as well as specially contructed walking trails.
+				</p>
+
+				<p>
+					The section that crosses the Cooleman Ridge crosses all of our group work areas offers some of the best views that can be seen along the trail, looking out over the Murrumbidge River valley and beyond to the Bullen, Tidbinbilla and Brindabella ranges.
+				</p>
+
+				<p>
+					The Canberra Centenary Trail is very popular with Canberrans and many users can be seen along the the ridge, especially on the weekend. The group tries to maximise the benefit of this by publicing the work that it does through signage.
+				</p>
+				</font>
+             ]]>
+
+			</description>
 			<styleUrl>#msn_ylw-pushpin6</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
@@ -307,8 +352,17 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>Cooleman Trig Trail</name>
-			<description>Blah</description>
+			<name><font face="arial" color="#ba7025">Cooleman Trig Walking Trail</font></name>
+			<description>
+			 <![CDATA[
+				<font face="arial">
+				<p>
+					This trail provides access to the summit of Cooleman Trig - the second highest peak on the ridge. The track is only 200m to the summit but steep and is composed of a well formed sealed path with steps. Access is from Monkman Street. Allow half an hour for the return walk.
+				</p>
+				</font>
+             ]]>
+
+			</description>
 			<LookAt>
 				<longitude>149.0375248016001</longitude>
 				<latitude>-35.35922340328757</latitude>
@@ -327,8 +381,29 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>Cooleman Ridge Nature Trail</name>
-			<description>Blah blah</description>
+			<name><font face="arial" color="#ba7025">Cooleman Ridge Nature Trail</font></name>
+			<description>
+			 <![CDATA[
+			 	<font face="arial">
+				<p>
+					The Cooleman Ridge Nature Trail is a 2.7km walking trail that was developed by the group. The purpose of the track is to introduce the public to some of the natural highlights of the ridge.
+				</p>
+
+				<p>
+					The site of the Nature Trail was originally heavily degraded with little native vegetation. The group in the 1990s  worked extensively on regenerating the bush on this site with considerable succes. The Nature Trail highlights how effective the group can be in regenerating the bush.
+				</p>
+
+				<p>
+					The Nature Trail is marked with numbered posts that identify points of interest that are explained in an accompanying brochure that the group developed. The brochure is available <a href="images/brochure.pdf">online</a> or in the brochure box at the start of the walk.
+				</p>
+
+				<p>
+					The trail is accessed from either Guinness Place or from Freebody Place. It is composed of both pupose built waking tracks and preexisting management trails. The walk is a circuit and you should all 1 hourto complete it.
+				</p>
+				</font>
+             ]]>
+
+			</description>
 			<styleUrl>#msn_ylw-pushpin7</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>

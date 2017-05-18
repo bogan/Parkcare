@@ -2516,21 +2516,21 @@
                         <td>Celery Buttercup</td>
                         <td><a href="news/Aug13.pdf">August 2013</a></td>
                     </tr>
-    <tr>
-      <td>Rhamnaceae</td>
-      <td>Cryptandra</td>
-      <td>amara var. amara</td>
-      <td>Pretty Cryptandra</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Rhamnaceae</td>
-      <td>Pomaderris </td>
-      <td>angustifolia</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
+                    <tr>
+                      <td>Rhamnaceae</td>
+                      <td>Cryptandra</td>
+                      <td>amara var. amara</td>
+                      <td>Pretty Cryptandra</td>
+                      <td>&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td>Rhamnaceae</td>
+                      <td>Pomaderris </td>
+                      <td>angustifolia</td>
+                      <td>&nbsp;</td>
+                      <td>&nbsp;</td>
+                    </tr>
+                    <tr>
                         <td>Rosaceae</td>
                         <td>Acaena</td>
                         <td>novae-zelandiae</td>

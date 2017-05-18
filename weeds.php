@@ -62,11 +62,11 @@
             </p>
 
             <p>
-                Blackberry is difficult to control and requires an approach quite different to other major weeds on the ridge. It  is only effectively treated with poisoning. The poison is normally applied by spraying the leaves of the plant. Blackberrys are typically sprayed in late summer or autumn when they are actively growing and after fruiting. Large infestations require commercial grade equipment to treat, such as motor vehicles, pumps and long hoses. Smaller infestations can be poisoned by using a hand held spray pack or by painting the leaves with a herbicide solution.
+                Blackberry is difficult to control and requires an approach quite different to other major weeds on the ridge. It  is only effectively treated with poisoning. The poison is normally applied by spraying the leaves of the plant. Blackberrys are typically sprayed in late summer or autumn when they are actively growing and after fruiting. Large infestations require commercial grade equipment to treat, such as motor vehicles, pumps and long hoses. Small or juvenile bushes can be poisoned by using a hand held spray pack or by painting the leaves with a herbicide solution.
             </p>
 
             <p>
-                Poisoning of blackberry is mainly performed by <a href="partners.php#parksandconservation">Parks and Conservation</a> officers or their contractors rather than the group itself. The group assists the work performed by Parks and Conservation by communicating the location of bushes to Parks and Conservation workers/contractors. The group complements the work performed by ACT Parks and Conservation by controlling smaller infestations before they become to big for the group to control.
+                Poisoning of Blackberry is mainly performed by <a href="partners.php#parksandconservation">Parks and Conservation</a> officers or their contractors rather than the group itself. The group assists the work performed by Parks and Conservation by communicating the location of bushes to Parks and Conservation workers/contractors. The group complements the work performed by ACT Parks and Conservation by controlling smaller infestations before they become to big for the group to control.
             </p>
 
             <p> N.B. Blackberry is easily confused with the Native Rasberry because they look very similar and are from the same genus.</p>
@@ -127,7 +127,7 @@
             <img src="images/wildsage.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
 
             <p>
-                Wild Sage is a herbaceous weed that is closely related to culniary sage.
+                Wild Sage is a herbaceous weed that is closely related to culniary sage. It germinates in the winter and and grows during the spring. It generally has a large rosette with a tall stem with purple flowers. It is
             </p>
 
             <p>
@@ -135,7 +135,7 @@
             </p>
 
             <p>
-                Wild Sage is quite easy to control and responds well to <a href="methods.php#hacking">hacking</a> or <a href="methods.php#poisoning">poisoning</a>. The group has been able to largely eliminate this weed in each of the group areas.
+                Wild Sage is quite easy to control and responds well to <a href="methods.php#hacking">hacking</a> or <a href="methods.php#poisoning">poisoning</a>. The group has been able to largely eliminate this weed in each of the group areas but significant infestations still exist elsewhere on the ridge.
             </p>
 
         </div>
@@ -256,7 +256,7 @@
             <img src="images/fleabane.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
 
             <p>
-                Fleabane is a large slender herbaceous weed. It germinates into a small rosette in the winter and grows rapidly to approximately 1m in height.
+                Fleabane is a large slender herbaceous weed. It germinates into a small rosette in the winter and grows rapidly to approximately 1m in height. It grow in large thickets.
             </p>
 
             <p>
@@ -264,7 +264,7 @@
             </p>
 
             <p>
-                Fleabane is reasonably easy to control and can be <a href="methods.php#hacked">hacked</a> out or <a href="methods.php#poisoned">poisoned</a>. Fleabane is not currently a major problem on the ridge but future infestations are likely.
+                Fleabane is reasonably easy to control and can be <a href="methods.php#heheaded">beheaded</a>, <a href="methods.php#hacked">hacked</a> or <a href="methods.php#poisoned">poisoned</a>. Fleabane is not currently a major problem on the ridge but future infestations are likely.
             </p>
 
         </div>
@@ -277,7 +277,7 @@
             <img src="images/scotchthistle.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
 
             <p>
-                Scotch Thistle is a large greeny-grey herbaceous plant. It germinates in the autumn or winter after rain to form are large rosette. It then grows rapidly in the spring to to form a large stalk with prickles and multiple seed heads. It is a prolific seeder and and an agressive coloniser of damaged areas.
+                Scotch Thistle is a large greeny-grey herbaceous plant. It germinates in the autumn or winter after rain to form are large rosette. It then grows rapidly in the spring to to form a large stalk with prickles and multiple seed heads. It is a prolific seeder and and an aggressive coloniser of damaged areas.
             </p>
 
             <p>
@@ -288,21 +288,21 @@
     </div>
 
     <div  id="plantain" class="panel panel-success">
-        <div class="panel-heading">Plantain <em>(Plantanus Lanceolata)</em></div>
+        <div class="panel-heading">Plantain <em>(Plantago Lanceolata)</em></div>
         <div class="panel-body">
 
-            <img src="images/plaintain.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
+            <img src="images/plantain.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
 
             <p>
-                Plaintain is a small herbaceous weed. It grows well in damaged areas.
+                Plaintain is a small, perennial, herbaceous weed. It germinates in winter and grows quickly in the spring. It is fast growing and can reproduce quickly. It grows in high densities with many 10s per square metre. It grows well in damaged areas it is a common weed of former pasture lands.
             </p>
 
             <p>
-                Plantain has been a major problem on the ridge.
+                Plantain has been a major problem on the ridge and is widely dispersed.
             </p>
 
             <p>
-                Plantain is best controlled with <a href="methods.php#hacking">hacking</a>.
+                Plantain is best controlled with <a href="methods.php#hacking">hacking</a>. The group has been successfully in largely controlling Plantain in the group areas but large infestations are still common elsewhere on there ridge.
             </p>
 
         </div>

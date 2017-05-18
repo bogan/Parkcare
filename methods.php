@@ -39,12 +39,22 @@
     </table>
 
     <p>
-        The effectiveness of the Bradley Method is however counter intuitive to those unfamiliar with it and does not conform with the general publics stereotypical landcare groups. Planting seems to be the obvious way of restoring native vegetation. However, the main reason why weeding is more effective than planting is that the bush has a natural tendency to regenerate anyway, whether humans help or not. work with nature and not against it. However, humans can great significantly accelerate the natural regeneration process by removing competitors that prevent the bush from regeneration. Weeds compete for light, water and nutrients. Removing weeds allows struggling natives to maximise the use. The idea is to create an empty space for the bush to move into. The bush will do this naturally. All it requires from us is to create this space. This is the main reason for weeding - to remove competition and create a space.Weeding is by no means a futile activity.
+        The effectiveness of the Bradley Method is however counter intuitive to those unfamiliar with it and does not conform with the general publics stereotypical idea of landcare groups. Planting seems to be the obvious way of restoring native vegetation. However, the main reason why weeding is more effective than planting is that the bush has a natural tendency to regenerate anyway, whether humans help or not. work with nature and not against it. However, humans can great significantly accelerate the natural regeneration process by removing competitors that prevent the bush from regeneration. Weeds compete for light, water and nutrients. Removing weeds allows struggling natives to maximise the use. The idea is to create an empty space for the bush to move into. The bush will do this naturally. All it requires from us is to create this space. This is the main reason for weeding - to remove competition and create a space.Weeding is by no means a futile activity.
     </p>
 
+    <h3>Weeding</h3>
+
     <p>
-        The Bradley Methods maintains that weeding should by lightweight rather than heavy weight. Weeding is most effective in strong areas rather than week areas. Many think that weeding is futile because they will just come back. Once a good native cover is established, most weeds rarely reenter. Work with the bush rather than against it.   immediately next to the weed. By not causing major daage to the surrounding natives. Precision an minimise collateral damage whereever problem. Manual methods are generally preferred to mechanical methods as they are more precise and less likely to create collateral damage.
+        The Bradley Methods maintains that weeding should by lightweight rather than heavy weight. Weeding is most effective in strong areas rather than week areas. Many think that weeding is futile because they will just come back. Once a good native cover is established, most weeds rarely reenter. Work with the bush rather than against it.   immediately next to the weed. By not causing major daage to the surrounding natives. Precision an minimise collateral damage wherever problem. Manual methods are generally preferred to mechanical methods as they are more precise and less likely to create collateral damage.
     </p>
+
+    <p>A well planned and executed weeding stategy can have a major impact on th regeneration of the landscape.</p>
+
+    <h3>Planting</h3>
+
+    <p>The group performed many mass plantings in its early years. The focus of the group has steadily shifted away from planting to weeding partly because most areas have now been planted out but partly because the group believes that weeding is amore cost effective approach.</p>
+
+    <p>Planting on the ridge is often more important as means to an end rather than an end itself. Plants are often effective weeders themselves because many weeds do no complete well with large trees such as eucalypts. Trees can be thought of weeders themselves. The best example of this approach has been on the summit of Mt Arawang which was the most damaged area on the ridge with huge infestations of <a href="weeds.php#beardedoats">Scotch Thistle</a>, <a href="weeds.php#beardedoats">Fleabane</a> and <a href="weeds.php#beardedoats">Bearded Oats</a>. Large plantings of ecucalypts and acacia were used to suppress these weeds and they have now largely eliminated the presence of these weeds over time. </p>
 
     <p>
         Many different weeding techniques are used on the ridge, both by the group itself as well its partners. These include:
@@ -123,6 +133,10 @@
                 Burning not only kills many weeds but more importatly triggers the native plants to germinate. See our <a href="fire.php">Fire</a> page for more details.
             </p>
 
+            <p>
+                Burning is not used by the group but by Parks and Conservation as part of their hazard reduction burn programme. Although the primary intention is not to reduce weeds, burning has many secondary benefits for weed control because it not only kills many weeds but more importatly triggers the native plants to germinate. See our <a href="fire.php">Fire</a> page for more details.
+            </p>
+
         </div>
     </div>
 
@@ -146,7 +160,7 @@
             <img src="images/doug.png" style="height:100px;float:left;padding:0px;margin: 5px"/>
 
             <p>
-                Smothering involves covering weeds with some substance such as newspaper, plastic sheets or even the remains of other weeds.
+                Smothering or mulching involves covering weeds with some substance such as newspaper, plastic sheets or even the remains of other weeds. Smothering is limited by the availability of materials to smother with.
             </p>
 
             <p>
@@ -154,7 +168,7 @@
             </p>
 
             <p>
-                Smothering is best used on thick infestations of weeds such as <a href="weeds.php#phalaris">Phalaris</a>
+                Smothering is best used on thick infestations of weeds that are difficult to control with other weeds. such as <a href="weeds.php#phalaris">Phalaris</a>.
             </p>
 
         </div>

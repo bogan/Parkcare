@@ -29,9 +29,9 @@
 
     <p>The group undertakes various surveys to assist in the ongoing management of the ridge. Please visit our <a href="animals.php">Animals</a> page for more information.</p>
 
-    <h3>Water Watch Survey</h3>
-
-    <p>To be completed</p>
+<!--    <h3>Water Watch Survey</h3>-->
+<!---->
+<!--    <p>To be completed</p>-->
 
     <h3>Fire Survey</h3>
 

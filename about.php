@@ -15,16 +15,18 @@ include 'header.php';
     </p>
 
     <p>
-        The Cooleman Ridge Park Care Group is small but active group made up of various volunteers from a variety of backgrounds. It includes scientists, public servants, accounts, homekeepers.
+        The mission of the Cooleman Ridge Park Care Group is to &quot;restore the bush&quot; by returning the ecology of the nature reserve to its pre-European state. Please see our <a href="methods.php">Strategy</a> page for more details.
+        The group has made significant progress with rehabilitating the reserve but much work remains to be done.
     </p>
 
     <p>
-    The Cooleman Ridge Park Care Group is part of a larger network of other parkcare groups working throughout the ACT. See our <a href="partners.php">partners</a> page for more details.
+        The Cooleman Ridge Park Care Group is small but active group made up of various volunteers from a variety of backgrounds, such as scientists, public servants, homekeepers. The group was formed in 1991 by three ladies - Bess Sledge, Pauline Lynga and Tina Nevins -  and now grown to have 50 registered members that contribute in various ways to the groups objectives.  Please see our <a href="activities.php">Activities</a> page for more details.
     </p>
 
     <p>
-    The mission of the Cooleman Ridge Park Care Group is to &quot;restore the bush&quot; by returning the ecology of the nature reserve to its pre-European state.
+        The Cooleman Ridge Park Care Group is part of a larger network of other parkcare groups working throughout the ACT. See our <a href="partners.php">partners</a> page for more details.
     </p>
+
 
     <p>
         The ridge has been part of various rural properties and the ecology of the ridge has been significantly change to fit in with the thinking of the day.
@@ -36,7 +38,6 @@ include 'header.php';
         Please see our group areas and individual areas to be more aware of the progress that has been made of the years.
     </p>
 
-
     <p>
         The Cooleman Ridge Nature Reserve is one of the more damaged but there still remain many good areas. These areas serve as the nucleus of the groups efforts to restore the ecology of the ridge.
     </p>
@@ -44,29 +45,6 @@ include 'header.php';
     <p>
        The official map of the nature reserve can be found at <a href="http://www.environment.act.gov.au/__data/assets/pdf_file/0007/390589/cnpmapcooleman.pdf">Cooleman Ridge Nature Reserve Map</a>
     </p>
-
-    <div id="map" style="width:750px;height:600px;"></div>
-
-    <br/>
-
-    <div align="center">
-        <img align="center" alt="" height="970" src="images/ourmap.jpg" width="700">
-    </div>
-
-    <script>
-        function initMap() {
-
-            var map = new google.maps.Map(document.getElementById('map'), {
-                zoom: 14,
-                center: { lat: -35.361451, lng: 149.033615 },
-                mapTypeId: google.maps.MapTypeId.TERRAIN
-            });
-        }
-    </script>
-
-    <script async="" defer=""
-            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDCD686jeBcuFYgXk6k7dCHiWakzmYS6uI&callback=initMap">
-    </script>
 
 <?php include 'footer.php'; ?>
 

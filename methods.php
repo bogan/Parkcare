@@ -11,6 +11,8 @@
 
     <p>The Cooleman Ridge Parkcare Group uses its own variation of the <a href="https://en.wikipedia.org/wiki/Bush_regeneration#Bradley_method">Bradley Method</a> to regenerate the bush. The effectiveness of this method is proven and is now widely accepted throughout Australian "landcare" groups as the most cost effective method to regenerated the bush.
 
+        The original focus of the group was to plant new plants. Over the years, the focus of the group has switched focus from plantings to weeding. This is inline with the groups philosophy about how to most effectively restore the ecology of the group.</p>
+
     <p>
     The  Bradley Method emphasises "weeding over planting" because it is believed that an hours weeding gives a much better return than an hours planting. This means that a well targeted and executed weeding strategy can achieve major results more cost effectively than an equivalent planting stategy. The main advantages of weeding over planting are summarised in the following table:
     </p>

@@ -116,7 +116,6 @@
 
                         <ul class="dropdown-menu">
                             <li><a href="about.php">About</a></li>
-                            <li><a href="grouphistory.php">History</a></li>
                             <li><a href="members.php">Members</a></li>
                             <li><a href="structure.php">Structure</a></li>
                             <li><a href="news.php">News</a></li>

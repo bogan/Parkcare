@@ -9,50 +9,55 @@
 
     <h2 class="page-header">Actvities</h2>
 
-    <p>The group performs a wide variety of work including:</p>
+    <p>The group performs a wide variety of activities. These activities are design to support our broad strategy to regenerate the bush. The main activities that the group undertakes are the following:</p>
 
 
     <h3>Weeding</h3>
 
     <img src="images/doug.png" style="height:100px;width:100px;float:left;padding:5px;margin: 5px;border:none "/>
 
-    <p>Weeding is the main day to day activity of the group. Although weeding is not glamourous, the group believes that it is the single most effective activity that can be used to restore the ecology of the ridge.</p>
+    <p>
+        Weeding is the main day to day activity of the group. The main reasonAlthough weeding is not glamourous, the group believes that it is the single most effective activity that can be used to restore the ecology of the ridge.
+    </p>
 
-    <p>Our belief in the effectiveness of weeding is based on our own experience with weeding and the experience of similar landcare groups. Please see our <a href="methods.php">methods page</a> for a more detailed explanation of how weeding is a vital part of our strategy to regenerate the native vegetation of the ridge.</p>
+    <p>
+        Our belief in the effectiveness of weeding is based on our own experience with weeding and the experience of similar landcare groups. Please see our <a href="strategy.php">Strategy</a> page for a more detailed explanation of why weeding is a vital part of our strategy to regenerate the native vegetation of the ridge.
+    </p>
 
     <h3>Planting</h3>
 
     <img src="images/potting.jpg" style="height:100px;width:100px;float:left;padding:5px;margin: 5px;border:none "/>
 
-    <p>The group sometimes participates in plantings of farious native grasses, forbs, shrubs and trees. These blants are either source from seedlings grown offsite or by transplating small plants from one part of the ridge to another. Plantings are also performed on the ridge either by other groups (eg. the Green Army) in the planting of new trees, shrubs and grasses. The nature reserve now has some significant plantations. Please visit our plantations page for more details.</p>
+    <p>
+        Planting is somethimes performed by the group. The plantings are of various species that are native to the ridge such as native grasses, forbs, shrubs and trees. These plants are either sourceed from seedlings grown off-site or by transplanting small plants from one part of the ridge to another.
+    </p>
 
-    <p>Many of the plants are now very mature and provide many additional benefits for the ridge such as weed suppresion, windbreaks, and habitati for the animals on the ridge.</p>
+    <p>
+        Plantings are also performed on the ridge either by other groups (eg. the Green Army) in the planting of new trees, shrubs and grasses. The nature reserve now has some significant plantations. Please visit our plantations page for more details.
+    </p>
 
-
+    <p>
+        Many of the plants are now very mature and provide many additional benefits for the ridge such as weed suppresion, windbreaks, and habitati for the animals on the ridge.
+    </p>
 
     <h3>Surveys</h3>
 
     <img src="images/jd.jpg" style="height:100px;width:100px;float:left;padding:5px;margin: 5px;border:none "/>
 
-    <p>The group undertakes various surveys that record a significant aspect of the nature reserve (eg. plants, animals, weeds, etc). These surveys are used to assist in the ongoing management of the ridge. Please visit our <a href="surveys.php">surveys</a> page for more information.</p>
+    <p>
+        Surveys are often performed by the group. A survey aims to record a significant aspect of the nature reserve (eg. plants, animals, weeds, etc). These surveys provide many benefits such assising the ongoing management of the ridge, recording the history of the ridge and the groups work, and just pure enjoyment. Please visit one of our various survey pages on <a href="plants.php">Plants</a>, <a href="plants.php">Animals</a>, <a href="blackberrys.php">Blackberrys</a>, <a href="woodyweeds.php">Woody Weeds</a>, <a href="fires.php">Fires</a> more detailed information about each of the surveys the group performs.
+    </p>
 
-    <p>They also are an important way to record the history of the ridge and the groups work on it for future generations.</p>
-
-    <p>The help track the progress of the regeneration program on the ridge</p>
 
     <h3>Guided Walks</h3>
 
-    <p>The group occassionaly organises guided works on the ridge. These walks have various themes (eg. birds, fire, lichen, weeds, etc). These are conducted by subject matter experts. These guided walks are open to the public and have been important means of building a bridge to the broader public.</p>
-
-    <p>Blah, blah, blah</p>
-
-    <h3>Fuel Reduction</h3>
-
-    <p>Fuel Reduction burns are often done on the ridge. The group assists by providing feedback on the ecological impacts of the proposed burn.</p>
+    <p>
+        Guided walks are sometimes organised by the group. These walks have various themes (eg. birds, fire, lichen, weeds, etc). These are conducted by subject matter experts. These guided walks are open to the general public and are generally well attended. These guided walks have been imporant means of communicating the work the group does and of building better relationships with the broader community.
+    </p>
 
     <h3>Herbarium</h3>
 
-    <p>The group has a signficant herbarium. Specimens are shared with the scientific  community (e.g. National Botanical Gardens).</p>
+    <p>The group maintains a signficant herbarium containing specimums of plants found on the ridge. Specimens are shared with the scientific  community (e.g. National Botanical Gardens).</p>
 
     <h3>Photography</h3>
 

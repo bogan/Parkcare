@@ -1,13 +1,13 @@
-<?php $title = 'Methods';	?>
+<?php $title = 'Strategy';	?>
 <?php include 'header.php'; ?>
 
     <ul class="breadcrumb">
         <li><a href="#">Home</a></li>
         <li><a href="#">Our Work</a></li>
-        <li class="active">Methods</li>
+        <li class="active">Strategy</li>
     </ul>
 
-    <h2 class="page-header">Methods</h2>
+    <h2 class="page-header">Strategy</h2>
 
     <p>The Cooleman Ridge Parkcare Group uses its own variation of the <a href="https://en.wikipedia.org/wiki/Bush_regeneration#Bradley_method">Bradley Method</a> to regenerate the bush. The effectiveness of this method is proven and is now widely accepted throughout Australian "landcare" groups as the most cost effective method to regenerated the bush.
 
@@ -42,6 +42,8 @@
 
     <p>
         The effectiveness of the Bradley Method is however counter intuitive to those unfamiliar with it and does not conform with the general publics stereotypical idea of landcare groups. Planting seems to be the obvious way of restoring native vegetation. However, the main reason why weeding is more effective than planting is that the bush has a natural tendency to regenerate anyway, whether humans help or not. work with nature and not against it. However, humans can great significantly accelerate the natural regeneration process by removing competitors that prevent the bush from regeneration. Weeds compete for light, water and nutrients. Removing weeds allows struggling natives to maximise the use. The idea is to create an empty space for the bush to move into. The bush will do this naturally. All it requires from us is to create this space. This is the main reason for weeding - to remove competition and create a space.Weeding is by no means a futile activity.
+
+        Mother Nature will typically do a much better job or regenerating the bush. All she needs is a helping hand.
     </p>
 
     <h3>Weeding</h3>
@@ -136,17 +138,21 @@
             </p>
 
             <p>
-                Burning is not used by the group but by Parks and Conservation as part of their hazard reduction burn programme. Although the primary intention is not to reduce weeds, burning has many secondary benefits for weed control because it not only kills many weeds but more importatly triggers the native plants to germinate. See our <a href="fire.php">Fire</a> page for more details.
+                Burning is not directly used by the group but is performed by the ACT Rural Fire Service as part of their <a href="http://www.environment.act.gov.au/ACT-parks-conservation/bushfire_management/prescribed-burns">hazard reduction burn programme</a>. Although the primary intention is not to reduce weeds, burning has many secondary benefits for weed control because it not only kills many weeds but more importatly triggers the native plants to germinate. See our <a href="fire.php">Fire</a> page for more details.
             </p>
 
         </div>
     </div>
 
     <div id="smothering" class="panel panel-success">
-        <div class="panel-heading">Biological</em></div>
+        <div class="panel-heading">Munching</em></div>
         <div class="panel-body">
 
             <img src="images/verbascum.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
+
+            <p>
+                Munching involves using biological agents such as insects to simply eat the weeds. The muchning may kill the plant or may simply weaken it. Alternatively, it may prevent it from reproducing.
+            </p>
 
             <p>
                 Biological controls exist for some weeds such as <a href="weeds.php#stjohnswort">St Johns Wort</a> and <a href="weeds.php#pattersonscurse">Pattersons Curse</a>.

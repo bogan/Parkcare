@@ -17,9 +17,13 @@
     <p>
         These trails play an important role for connecting the work of the group with the broader community through their recreational value.</p>
 
-    <p>Click on an area for more information</p>
+    <p>Please click on one of the coloured lines to obtain more information about the various trails found on the ridge.</p>
 
     <div id="groupareas" style="height:600px;"></div>
+
+    <div>
+        <a href="trails.kml">Export as KML file</a>
+    </div>
 
     <script>
         function initMap() {

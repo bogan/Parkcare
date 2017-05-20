@@ -14,11 +14,6 @@
     </p>
 
     <p>
-        If you'd like to know more about Cooleman Ridge Park Care Group or join
-        up, please contact us at the following email address: <a href="mailto:admin@coolemanridge.org.au">admin@coolemanridge.org.au</a>.
-    </p>
-
-    <p>
         The best way to make contact is via email. Our current email address is <a href="mailto:admin@coolemanridge.org.au">admin@coolemanridge.org.au</a>. Somebody should make contact with you within 24 hours.
     </p>
 

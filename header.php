@@ -116,11 +116,10 @@
 
                         <ul class="dropdown-menu">
                             <li><a href="about.php">About</a></li>
-                            <li><a href="members.php">Members</a></li>
-                            <li><a href="structure.php">Structure</a></li>
+                            <li><a href="organisation.php">Organisation</a></li>
+                            <li><a href="partners.php">Partners</a></li>
                             <li><a href="news.php">News</a></li>
                             <li><a href="documents.php">Documents</a></li>
-                            <li><a href="partners.php">Partners</a></li>
                             <li><a href="contact.php">Contact</a></li>
                         </ul>
                     </li>
@@ -157,9 +156,9 @@
                         </a>
 
                         <ul class="dropdown-menu">
+                            <li><a href="strategy.php">Strategy</a></li>
                             <li><a href="activities.php">Actvities</a></li>
                             <li><a href="meetings.php">Meetings</a></li>
-                            <li><a href="methods.php">Methods</a></li>
                             <li class="dropdown-submenu">
                                 <a tabindex="0">Areas</a>
                                 <ul class="dropdown-menu">

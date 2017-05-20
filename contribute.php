@@ -53,6 +53,10 @@
 
     <p>The phootos can then be added to one of our surveys, the newsletter or content elsewhere on this web site.</p>
 
+    <h3>Guided Walks</h3>
+
+    <p>Guided Walks are valuable activity to promote the work the group does. If you have specialised knowledge about a particular aspect of the ridge, you can help the group by leading a guided walk to share your knowledge with the rest of the group and the broader community.</p>
+
     <h3>Rubbish Collection</h3>
 
     <p>There are unfortunately litters on the ridge. If you see some litter, please just pick it up.</p>

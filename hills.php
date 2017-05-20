@@ -10,18 +10,18 @@
 
     <h2 class="page-header">Hills</h2>
 
-    <p>The Cooleman Ridge Nature Reserve is distinctve among other Canberra Nature Parks. It is a long ridge line that is made up of a number of separate gently rolling hills on the ridge.</p>
+    <p>Cooleman Ridge is distinctve among other Canberra Nature Parks in that instead of being dominated by one large peak, it is a long flat ridge line that is comprised of a series of separate gently rolling hills.</p>
 
     <p>
-        Cooleman Ridge is a ridge composed of a series of six low lying hills - Mr Arawang (753m), Reservoir Hill (734m), Sentry Box Hill (733m), Cooleman Trig (732m), One Tree Hill (703m) and Fence Post Hill (653m).
+        The main hills on the ridge are Mr Arawang (753m), Reservoir Hill (734m), Sentry Box Hill (733m), Cooleman Trig (732m), One Tree Hill (703m) and Fence Post Hill (653m).
     </p>
 
     <p> Some of these hills have their own summit trails - Mt Arawang and Cooleman Trig. Please see our <a href="trails.php">Trails</a> page for more information.</p>
 
     <p>
-        We think that we have the best views in Canberra. The various ranges, Bullen, Tidbinbilla and Brindabella ranges in the background.</p>
+        A major benefit of these hills is that provide probably the best views found in the Canberra urban area. Not only can one get views of most of the city itself but you can also get great views to the west over the Murrumbidge Valley to the Bullen, Tidbinbilla and Brindabella ranges in the background.</p>
 
-    <p>Click on an area for more information</p>
+    <p>Please click on the markers to get more information about each of the hilss found on the ridge.</p>
 
     <div id="hills" style="height:600px;"></div>
 

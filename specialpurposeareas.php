@@ -22,6 +22,10 @@
 
     <div id="specialpurposeareas" style="height:600px;"></div>
 
+    <div>
+        <a href="specialpurposeareas.kml">Export as KML file</a>
+    </div>
+
     <script>
         function initMap() {
 

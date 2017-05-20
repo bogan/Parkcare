@@ -35,22 +35,22 @@
     <div class="panel-heading">Blakelys Red Gum <em>(Eucalyptus blakelyii)</em></div>
     <div class="panel-body">
 
-        <img src="images/phalaris.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
+        <img src="images/redgum.jpg" style="height:100px;float:left;padding:0px;margin: 5px"/>
 
         <p>
-            <a href="https://en.wikipedia.org/wiki/Eucalyptus_blakelyi"">Blakely's Red Gum</a> is a medium sized eucalypt. It has  thin crown. It is fairly crooked in shape.
+            <a href="https://en.wikipedia.org/wiki/Eucalyptus_blakelyi"">Blakely's Red Gum</a> is a medium sized eucalypt. It has a large but thin crown which is fairly crooked in shape. They are prone to dieback where they loose almost all their leaves. This is caused by insect attack and occurs mostly in degraded areas where the understorey has been removed. The leaves will grow back once the insect dies off.
         </p>
 
         </p>
-            Red Gum is good at naturally recover. Many young red gum seedlings occur around mature plants when weeds and grazing are removed from the surrounding adult.
+        Blakely's Red Gum is good at naturally good recovery. Many young red gum seedlings occur around mature plants when weeds and grazing are removed from the surrounding adult.
         <p>
 
         <p>
-            Red Gum is widely distributed on the ridge. It is generally found on the lower slopes of the ridge. Red Gums found on the ridge are often unhealthy. They are vulnerable to insect attach in damaged areas and will often loose their leaves when insect infestations are high. The leaves will grow back once the insect
+            Blakely's Red Gum is widely distributed on the ridge. It is generally found on the lower slopes of the ridge. Red Gums found on the ridge are often seasonally unhealthy. Blakely's Red Gum was planted in many of the <a href="plantations.php">plantations</a> that have been planted
         </p>
 
         <p>
-            Good examples can be found around the Kathner Street Dam.
+            Good examples of Blakely's Red Gum can be found around the Kathner Street Dam.
         </p>
 
     </div>
@@ -60,18 +60,18 @@
     <div class="panel-heading">Red Box <em>(Eucalyptus polyanthemos)</em></div>
     <div class="panel-body">
 
-        <img src="images/phalaris.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
+        <img src="images/redbox.jpg" style="height:100px;float:left;padding:0px;margin: 5px"/>
 
         <p>
-            <a href="https://en.wikipedia.org/wiki/Eucalyptus_polyanthemos">Red Box</a> is a tall, straight eucalypt. It has a dense crown of branches and leaves. The branches are very crooked and numberous. The leaves are heart shaped. The bark is tessalated (as with all Box trees).
+            <a href="https://en.wikipedia.org/wiki/Eucalyptus_polyanthemos">Red Box</a> is a tall, straight eucalypt. It has a dense crown of branches and leaves. The branches are very crooked and numerous. The leaves are heart shaped. The bark is tessalated (as with all Box trees).
         </p>
 
         <p>
-            Red Box is widely dispersed through out the ridge. They are generally old and healthy with few examples of any natural regrowth. Red Box has been planted in many of the Plantations that have been planted on the ridge.
+            Red Box is widely dispersed through out the ridge. They are generally old and healthy but with few examples of any natural regrowth. Red Box was planted in many of the <a href="plantations.php">plantations</a> that have been planted on the ridge.
         </p>
 
         <p>
-            A good example of one is found in Group Area North.
+            A good example of one is found in <a href="groupareas.php">Group Area North</a>.
         </p>
 
     </div>
@@ -81,7 +81,7 @@
     <div class="panel-heading">Yellow Box <em>(Eucalyptus melliodora)</em></div>
     <div class="panel-body">
 
-        <img src="images/phalaris.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
+        <img src="images/yellowbox.jpg" style="height:100px;float:left;padding:0px;margin: 5px"/>
 
         <p>
             <a href="https://en.wikipedia.org/wiki/Eucalyptus_melliodora">Yellow Box</a> is tall tree. It has a good crown and one of the more attractive eucalypts. The bark is tessalated. The branches are long, straight and vertical. The leaves are long and green in color.
@@ -92,7 +92,7 @@
         </p>
 
         <p>
-            The best examples of Yellow Box can be found in Group Area North.
+            The best examples of Yellow Box can be found in <a href="groupareas.php">Group Area North</a>.
         </p>
 
     </div>
@@ -102,7 +102,7 @@
     <div class="panel-heading">Green Wattle <em>(Acacia Mearnsii)</em></div>
     <div class="panel-body">
 
-        <img src="images/phalaris.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
+        <img src="images/greenwattle.jpg" style="height:100px;float:left;padding:0px;margin: 5px"/>
 
         <p>
             <a href="https://en.wikipedia.org/wiki/Acacia_mearnsii">Green Wattle</a> is small to medium sized tree. it flowers in November with small creamy yellow flowers. In many parts of the world, Green Wattle is consider a highly invasive weed. It is shortlived (like most acacia) and is prone to insect attack. It regenerates well after fire.
@@ -123,7 +123,7 @@
     <div class="panel-heading">Silver Wattle <em>(Acacia dealbata)</em></div>
     <div class="panel-body">
 
-        <img src="images/phalaris.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
+        <img src="images/silverwattle.jpg" style="height:100px;float:left;padding:0px;margin: 5px"/>
 
         <p>
             <a href="https://en.wikipedia.org/wiki/Acacia_dealbata">Silver Wattle</a> is a small tree. It has small in leaves that are grey or silver in colour. It is fast growing but short lived for a tree. It has a profusion of yellow flowers in the early spring. It grows throgh suckering.
@@ -144,7 +144,7 @@
     <div class="panel-heading">Spear Grass <em>(Austrostipa scabra)</em></div>
     <div class="panel-body">
 
-        <img src="images/phalaris.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
+        <img src="images/speargrass.jpg" style="height:100px;float:left;padding:0px;margin: 5px"/>
 
         <p>
             <a href="https://en.wikipedia.org/wiki/Austrostipa_scabra">Spear Grass</a> is a small thin grass.
@@ -155,7 +155,7 @@
         </p>
 
         <p>
-            The best examples are found in Group Area North.
+            The best examples are found in <a href="groupareas.php">Group Area North</a>.
         </p>
 
     </div>
@@ -165,7 +165,7 @@
     <div class="panel-heading">Weeping Grass <em>(Microlaena stipoides)</em></div>
     <div class="panel-body">
 
-        <img src="images/phalaris.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
+        <img src="images/weepinggrass.jpg" style="height:100px;float:left;padding:0px;margin: 5px"/>
 
         <p>
             <a href="https://en.wikipedia.org/wiki/Microlaena_stipoides">Weeping Grass</a> is a small to medium grass. It has long thing leaves that droop horizontally in a weeping manner.
@@ -176,7 +176,7 @@
         </p>
 
         <p>
-            The best examples of Weeping Grass are found in the Kathner Street Group Area.
+            The best examples of Weeping Grass are found in the <a href="groupareas.php">Kathner Street Group Area</a>.
         </p>
 
     </div>
@@ -186,10 +186,10 @@
     <div class="panel-heading">Sticky Everlasting <em>(Xerochrysum viscosum)</em></div>
     <div class="panel-body">
 
-        <img src="images/phalaris.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
+        <img src="images/stickyeverlasting.jpg" style="height:100px;float:left;padding:0px;margin: 5px"/>
 
         <p>
-            Sticky Everlasting is small herbaceous plant with distinctive flowers. The plant has dark green waxy or sticky leaves. The flowers are large and dry. They resemble a common daisy.
+            <a href="https://en.wikipedia.org/wiki/Xerochrysum_viscosum">Sticky Everlasting</a> is small herbaceous plant with distinctive flowers. The plant has dark green waxy or sticky leaves. The flowers are large and dry. They resemble a common daisy.
         </p>
 
         <p>
@@ -197,7 +197,7 @@
         </p>
 
         <p>
-            The best example of Sticky Everlasting is found in Group Area central on the south western facing slopes.
+            The best example of Sticky Everlasting is found in  <a href="groupareas.php">Kathner Street Group Area</a> on the south western facing slopes.
         </p>
 
     </div>
@@ -207,7 +207,7 @@
     <div class="panel-heading">Australian Bluebell <em>(Wahlenbergia stricta)</em></div>
     <div class="panel-body">
 
-        <img src="images/phalaris.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
+        <img src="images/bluebell.jpg" style="height:100px;float:left;padding:0px;margin: 5px"/>
 
         <p>
             <a href="https://en.wikipedia.org/wiki/Wahlenbergia_stricta">Australian Bluebell</a> is a small perennial herb. It has distintive pale blue bell-like flowers in the spring and summer.
@@ -218,7 +218,7 @@
         </p>
 
         <p>
-            The best exampls of Australian Bluebell are found in Group Area Central.
+            The best exampls of Australian Bluebell are found in  <a href="groupareas.php">Group Area Central</a>.
         </p>
 
     </div>
@@ -228,10 +228,10 @@
     <div class="panel-heading">Narrawa Burr <em>(Solanum cinereum)</em></div>
     <div class="panel-body">
 
-        <img src="images/phalaris.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
+        <img src="images/narrawaburr.jpg" style="height:100px;float:left;padding:0px;margin: 5px"/>
 
         <p>
-            <a href="https://en.wikipedia.org/wiki/Solanum_cinereum">Narrawar Burr</a> is small perennial shrub. It has large lobed dark green leaves. It is has distinctive fruit which resembles a black tomato.
+            <a href="https://en.wikipedia.org/wiki/Solanum_cinereum">Narrawa Burr</a> is small perennial shrub. It has large lobed dark green leaves. It is has distinctive fruit which resembles a black tomato.
         </p>
 
         <p>
@@ -239,7 +239,7 @@
         </p>
 
         <p>
-            The best examples of Narrawa Burr are found in Group Area North.
+            The best examples of Narrawa Burr are found in  <a href="groupareas.php">Group Area North</a>.
         </p>
 
     </div>
@@ -249,7 +249,7 @@
     <div class="panel-heading">Wild Rasberry <em>(Rubus parvifolius)</em></div>
     <div class="panel-body">
 
-        <img src="images/phalaris.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
+        <img src="images/wildrasberry.jpg" style="height:100px;float:left;padding:0px;margin: 5px"/>
 
         <p>
             <a href="https://en.wikipedia.org/wiki/Rubus_parvifolius">Wild Rasberry</a> is a small creeping bush. It has small lime green leaves and canes. It develops small, edible red berrys in mid summer which resemble commerically available rasberrys. The leaves a decidious during winter and dry spells.
@@ -274,7 +274,7 @@
     <div class="panel-heading">Drooping Sheoak <em>(Allocasuarina verticillata)</em></div>
     <div class="panel-body">
 
-        <img src="images/phalaris.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
+        <img src="images/droopingsheoak.jpg" style="height:100px;float:left;padding:0px;margin: 5px"/>
 
         <p>
             <a href="https://en.wikipedia.org/wiki/Allocasuarina_verticillata">Drooping Sheaoak</a> is a small tree. It has long thing leeaves that hang vertically.
@@ -300,7 +300,7 @@
     <div class="panel-heading">Blackthorn <em>(Bursaria spinosa ssp lasiophylla)</em></div>
     <div class="panel-body">
 
-        <img src="images/phalaris.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
+        <img src="images/blackthorn.jpg" style="height:100px;float:left;padding:0px;margin: 5px"/>
 
         <p>
             <a href="https://en.wikipedia.org/wiki/Bursaria_spinosa">Blackthorn</a> is a medium sized shrub. It has small dark green waxy leaves and small thorns. It is fairly slow growing but a very hardy plant that copes well with both drought and fire. It flowers around Christmas time with a profusion of small creamy colour flowers.
@@ -325,7 +325,7 @@
     <div class="panel-heading">Dogwood <em>(Cassinia aculeata)</em></div>
     <div class="panel-body">
 
-        <img src="images/phalaris.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
+        <img src="images/dogwood.jpg" style="height:100px;float:left;padding:0px;margin: 5px"/>
 
         <p>
             <a href="https://en.wikipedia.org/wiki/Cassinia_aculeata">Dogwood</a> is a small to medium sized shrub. It has thing, sticky hairy leaves. It has dense clusters of white or creamy flowers during the summer.
@@ -336,7 +336,7 @@
         </p>
 
         <p>
-            The best examples of Dogwood are found on Mt Arawang and in Kathner Street Group Area.
+            The best examples of Dogwood are found on Mt Arawang and in  <a href="groupareas.php">Kathner Street Group Area</a>.
         </p>
 
     </div>

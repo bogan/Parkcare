@@ -10,13 +10,21 @@
 
     <h2 class="page-header">Individual Areas</h2>
 
-    <p>The group has also many individual work areas. These are typically small areas outside of the group areas where individual members work by themselves whenever they want.</p>
+<p>The group has defined many individual work areas. These areas are &quot;owned&quot; by individual members of the group and are typically areas outside of the group areas. The individual member works on their area whenever they want and performs any <a href="activity">activity</a> that they wish.</p>
 
-    <p>These individual areas are an importmant complement to the group area work. They help link the various group areas into a more integrated whole.</p>
+    <p>
+        The individual areas are an important part of our <a href="strategy.php">strategy</a> to regenerate the rdige with native vegetation. The work areas complement the work dones in our <a href="groupareas.php">group area</a>. They help link the various group areas into a more integrated whole and therefore help accelerate our goal of eventually linking all the various work areas together into a unified area.
+    </p>
 
-    <p>Click on an area for more information</p>
+    <p>Many individual areas have seed significant improvement with most weeds remove and natural regeneration occuring. These improvements have not only helped contribute to a goal of regenerating the ridge but have also provide each member with significant pleasure and satisfaction.</p>
+
+    <p>Please click on one of the colour areas on the map for more information about each of the individual work areas.</p>
 
     <div id="individualareas" style="height:600px;"></div>
+
+    <div>
+        <a href="individualareas.kml">Export as KML file</a>
+    </div>
 
     <script>
         function initMap() {

@@ -12,16 +12,19 @@
 
     <p>The Cooleman Ridge Nature Reserve has several large plantations that have been planted on it.</p>
 
-    <p>These plantations are made up various large trees - normally Eucalyptus and Acacia. Some of the species are indigenous to the ridge, but many are not.</p>
+    <p>These plantations are made up various large trees - normally Eucalyptus and Acacia species. Some of the species are indigenous to the ridge, but many are not.</p>
 
     <p>The purpose of the plantations is varied. Some are believed to be just windbreaks while others have been planted to replace the native tree cover that was originally removed as part of clearing the land. They also provide other benefits such as  suppressing weeds etc.</p>
 
+    <p>Many of these plantations were planted by both the group. However, some pre existed the group and the history and purpose is not know. These unknown plantations are......</p>
 
-    <p>These plantations are have been planted by both the group but some prexisted the group.</p>
-
-    <p>Click on a coloured area for more information about each plantation.</p>
+    <p>Please click on a coloured area for more information about each plantation.</p>
 
     <div id="plantations" style="height:600px;"></div>
+
+    <div>
+        <a href="plantations.kml">Export as KML file</a>
+    </div>
 
     <script>
         function initMap() {

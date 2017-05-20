@@ -27,9 +27,11 @@
 
             <!-- Hazard Reduction -->
 
+            <a href="http://www.environment.act.gov.au/ACT-parks-conservation/bushfire_management/prescribed-burns">hazard reduction burn programme</a>
+
             <p>The group plays an important role in reducing the risk, intensity and impact of unplanned fires.
 
-            <p>Many pasture grasses (such as Phalarais, Rye Grass, Fescue and Wild Oats), were deliberately introduced by former graziers when the ridge used to be part of pastoral properties.
+            <p>Many pasture grasses (such as Phalaris, Rye Grass, Fescue and Wild Oats), were deliberately introduced by former graziers when the ridge used to be part of pastoral properties.
 
                 They were introduced because native grasses were considered to be a poor food source for large grazing animals (eg. horses, cows, sheep).
 

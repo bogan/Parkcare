@@ -16,37 +16,88 @@
     </p>
 
     <p>
-        The group believes that it is important that everybody who uses the ridge is familiar with the history, scope and types of weeds found on the ridge.
+        The group believes that it is important that everybody who uses the ridge be familiar with the history, scope and types of weeds found on the ridge. This is because most inexperienced people misunderstand the nature of the weed problem on the ridge. They either confuse weeds with natives or they simply believe that everything is a weed.
+    </p>
 
-        This is  because most people who come into contact with the ridge to not know this.
-        Most inexperienced people often confuse natives and exotics with one another and can do more harm than good. They believe that everything is a weed.
+    <p>
+        This lack of understanding can do more harm than good and can undermine the work that the group does. Therefore the best may the general public can help the work the group does is to just be simply aware of the nature of the weed problem, even if they do not actively weed themselves.
+    </p>
 
-        <p>The first step in helping to solve the problem is to identify the problem.</p>
-
-
-
-    <p>The best may the public can help the work the group does is to just bo simply aware of the problem, even if they do not actively weed themselves.</p>
-
-    <p>This page is intended to give a general overview of the history, scope and types of weeds found on the ridge.</p>
-
+    <p>
+        This page is intended to give a general overview of the history, scope and types of weeds found on the ridge.
     </p>
 
     <h3>History</h3>
 
     <p>
-        The Australian bush is remarkably resilient to the introduction of most weeds. Most weeds are typically only found in &quot;damaged areas&quot; of the ridge. These are areas that were deliberately or accidentally altered by human activity. The main reason why the landscape has been damaged has been the introduction of grazing but also the creation of roads and foot tracks. Many areas were overgrazed. Weeds move in when native cover has been removed. This leaves  the exposed soil highly vulnerable to invasive weeds such.
+        The history of weeds on the ridge is quite simple - it closely follows the history of grazing on the ridge.
+    </p>
 
-        The most important weeds are the invasive ones. This means that move into damaged areas.
+    <p>
+        The most significant factor in the introduction of weeds on the ridge was the presence of grazing on the ridge.
+
+        Grazing has occured on the ridge for over 100 years and the intensity of the grazing progressively increased significantly overtime.
+    </p>
+
+    <p>
+        Grazing is signficant becomes it "damages the area. Most weeds are typically only found in of the ridge that have been &quot;damaged&quot; by grazing.
+        <ul>
+            <li>Pasture grass is introduced (eg. phalaris, fescue, ryegrass)</li>
+            <li>Fertilisation introduced which favours weeds over natives</li>
+            <li>Reduces native cover by overgrazing especially in times of drought.</li>
+            <li>Roads and tracks are introduced exposing the soil and provide a path for weeds..</li>
+            <li>Tree cover was removed allowing extra space for weeds.</li>
+        </ul>
+    </p>
+
+    <p>
+        Many areas were overgrazed especially in times of drought. this removed the native cover. This exposes the soil and makes the area highly vulnerable to invasive weeds such.
+    </p>
+
+    <p>
+        Native cover was either deliberately or accidentally removed and many weeds were similarly deliberately introduced.
+        These weeds were either deliberatly introduced or accidentally introduced via grazing or via garden escapees.
+        Weeds were either deliberately introduced to support grazing or accidentally introduced by damaging the native cover.
+    </p>
+
+    <p>
+        The most important weeds are the invasive ones. This means that move into damaged areas. Undamaged areas are generally not affected - the Australian bush is remarkably resilient to the introduction of most weeds.
     </p>
 
     <h3>Distribution</h3>
 
-    <p>Weeds still form a significant part of the plants found on the ridge These weeds were either deliberatly introduced or accidentally introduced via grazing or via garden escapees.</p>
+    <p>
+        The distribution of weeds on the ridge strongly correlates with the distrubition of former grazing on the ridge - the weeds often tell the history of grazing on the ridge.
+    </p>
+
+    <p>
+        There were large parts of the ridge that were not intensively grazed and thus still have most of their original native cover. These areas are the ones considered not suitable for grazing such as steep, rocky or heavily wooded areas. These where typically on the <a href="hills.php">hills</a> of the ridge.
+    </p>
+
+    <p>
+        Conversely there are large parts of the ridge that were intestively grazed and consequently now have large weed infestations. These areas are the ones that were flat, deep soiled and thinly wooded. These are typically the areas in the saddles between the main <a href="hills.php">hills</a> on the ridge.
+    </p>
+
+    <p>
+        The ratio of &quot;good&quot; to &quot;bad&quot; areas on the ridge is now rougly half and half. There is a broad spectrum of areas on the ridge from very good to the very bad and everything in between. However, even in some of the worst areas there often still remains a significant element of original cover even if that area is dominated by weeds.
+    </p>
+
+    <p>
+        The north east face of the ridge (ie. the Chapman side) has mostly good native cover with only a few major infestations of weeds. Conversely, the south-west facing side of the ridge has major infestations of weeds.
+    </p>
+
+    <p>
+    The group is working towards changing this ratio.
+    </p>
 
     <h3>Types</h3>
 
     <p>
-        There are large number of different types of weeds on the ridge. However, there are only approximately a dozen weed species that constitute the main bulk of the weeds on the ridge. Each species is quite easy to identify, even for a novice. The following is a shortened list of the main weeds that the Group focuses on. For a complete list of all weeds found on the Cooleman Ridge Nature Reserve, please see our <a href="https://en.wikipedia.org/wiki/Bush_regeneration#Bradley_method">Plant Survey</a>.
+        There are large number of different types of weeds on the ridge. The cover a wide spectrum size, significance and effort on the part of the group to control them.
+    </p>
+
+    <p>
+        There are however only approximately a dozen weed species that constitute the main bulk of the weeds on the ridge. Each of these species is quite easy to identify, even for a novice. The following is a shortened list of the main weeds found on the ridge plus information about their identification, distribution and control. For a complete list of all weeds found on the Cooleman Ridge Nature Reserve, please see our <a href="https://en.wikipedia.org/wiki/Bush_regeneration#Bradley_method">Plant Survey</a>.
     </p>
 
     <div class="panel panel-success">
@@ -56,11 +107,11 @@
             <img src="images/blackberry.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
 
             <p>
-                Blackberry is a very large bush that has long canes, thorns and berries. It can grow to be very large and form dense thickets. Blackberry his highly invasive and will spread rapidly if not controlled. It has many means of spreading including seeding and suckering.
+                <a href="https://en.wikipedia.org/wiki/Blackberry">Blackberry</a> is a very large bush that has long canes, thorns and berries. It can grow to be very large and form dense thickets that provide habitat for other pests such as rabbits. Blackberry has many means of spreading including seeding and suckering and is highly invasive and will spread rapidly if not controlled.
             </p>
 
             <p>
-                Blackberry is a major problem on the ridge. This is especially on the eastern face of Mt Arawang. It will progessively spread. The group tracks the position of every known blackberry bush as part of its <a href="blackberrys.php">Blackberry Survey</a> to assist in its control.
+                Blackberry is a major problem on the ridge. It can be found on most parts of the ridge in varying degrees of severity. However, the main infestation of Blackberry is on the eastern face of Mt Arawang where over a hundred large bushes have been identified. The group tracks the position of every known blackberry bush as part of its <a href="blackberrys.php">Blackberry Survey</a> to assist in its control.
             </p>
 
             <p>
@@ -94,7 +145,7 @@
             </p>
 
             <p>
-                Canary Grass is not very invasive and can be cnntrolled either by <a href="methods.php#hacking">hacking</a> or by <a href="methods.php#poisoning">poisoning</a>. This require multiple treatments over several seasons. The group has made significant progress with removing Canary Grass from most of the <a href="groupareas.php">Group Areas</a> but large patches still remain elsewhere on the ridge.
+                Canary Grass is not very invasive and can be cnntrolled either by <a href="strategy.php#hacking">hacking</a> or by <a href="strategy.php#poisoning">poisoning</a>. This require multiple treatments over several seasons. The group has made significant progress with removing Canary Grass from most of the <a href="groupareas.php">Group Areas</a> but large patches still remain elsewhere on the ridge.
             </p>
 
 
@@ -108,7 +159,7 @@
             <img src="images/verbascum.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
 
             <p>
-                Aaron's Rod is a large herbasceous plant with a large rosette and large vertical stem. It typically germinates in the autumn after rain and grows relatively slowly through the winter and spring. It is a garden escapee.
+                <a href="https://en.wikipedia.org/wiki/Verbascum_thapsus">Aaron's Rod</a> is a large herbasceous plant with a large rosette and large vertical stem. It typically germinates in the autumn after rain and grows relatively slowly through the winter and spring. It is a garden escapee.
             </p>
 
             <p>
@@ -116,7 +167,7 @@
             </p>
 
             <p>
-               Aaron's Rod is easy to control and responds well to <a href="methods.php#hacking">hacking</a>, <a href="methods.php#beheading">beheading</a> or <a href="methods.php#poisoning">poisoning</a>. The group has been able to largely eliminate this weed in each of the group areas.
+               Aaron's Rod is easy to control and responds well to <a href="strategy.php#hacking">hacking</a>, <a href="strategy.php#beheading">beheading</a> or <a href="strategy.php#poisoning">poisoning</a>. The group has been able to largely eliminate this weed in each of the group areas.
             </p>
 
         </div>
@@ -129,7 +180,7 @@
             <img src="images/wildsage.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
 
             <p>
-                Wild Sage is a herbaceous weed that is closely related to culniary sage. It germinates in the winter and and grows during the spring. It generally has a large rosette with a tall stem with purple flowers. It is
+                <a href="https://en.wikipedia.org/wiki/Salvia_verbenaca">Wild Sage</a> is a herbaceous weed that is closely related to culniary sage. It germinates in the winter and and grows during the spring. It generally has a large rosette with a tall stem with purple flowers. It is
             </p>
 
             <p>
@@ -137,7 +188,7 @@
             </p>
 
             <p>
-                Wild Sage is quite easy to control and responds well to <a href="methods.php#hacking">hacking</a> or <a href="methods.php#poisoning">poisoning</a>. The group has been able to largely eliminate this weed in each of the group areas but significant infestations still exist elsewhere on the ridge.
+                Wild Sage is quite easy to control and responds well to <a href="strategy.php#hacking">hacking</a> or <a href="strategy.php#poisoning">poisoning</a>. The group has been able to largely eliminate this weed in each of the group areas but significant infestations still exist elsewhere on the ridge.
             </p>
 
         </div>
@@ -150,7 +201,7 @@
             <img src="images/stjohnswort.jpg" style="height:100px;width:100px;float:left;padding:0;margin: 5px"/>
 
             <p>
-                St Johns Wort is highly invasive noxious weed. It germinates in the late winter and seeds in the spring. St Johns Wort is significant because it is one of the few weeds that will invade non damaged errors.
+                <a href="https://en.wikipedia.org/wiki/Hypericum_perforatum">St Johns Wort</a> is highly invasive noxious weed. It germinates in the late winter and seeds in the spring. St Johns Wort is significant because it is one of the few weeds that will invade non damaged errors.
             </p>
 
             <p>
@@ -158,7 +209,7 @@
             </p>
 
             <p>
-                Most techniques of weed control such as <a href="methods.php#hacking">hacking</a> or <a href="methods.php#poisoning">poisoning</a> are ineffective against St Johns Wort. This is partly due to the fact that St Johns Wort does not have a distinctive rosette to either hack out or poison. It is also has an extensive root system and will reshoot if all the roots are not removed. The only control method for St Johns Wort that is available is a <a href="methods.php#biological">biological</a> control with the presence of the St Johns Wort beetle.
+                Most techniques of weed control such as <a href="strategy.php#hacking">hacking</a> or <a href="strategy.php#poisoning">poisoning</a> are ineffective against St Johns Wort. This is partly due to the fact that St Johns Wort does not have a distinctive rosette to either hack out or poison. It is also has an extensive root system and will reshoot if all the roots are not removed. The only control method for St Johns Wort that is available is a <a href="strategy.php#biological">biological</a> control with the presence of the St Johns Wort beetle.
             </p>
 
         </div>
@@ -168,10 +219,10 @@
         <div class="panel-heading">African Lovegrass <em>(Eragrostis curvula)</em></div>
         <div class="panel-body">
 
-            <img src="images/africanlovegrass.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
+            <img src="images/africanlovegrass.jpg" style="height:100px;float:left;padding:0px;margin: 5px"/>
 
             <p>
-                African Lovegrass is a small grass that grows on bads soils. It is blueish grey when growing and becomes golden brown as it dries out during the warmer months. It is a prolific seeder and a highly invasive weed that will colonise damaged areas quickly and forms monocultures that crowd all ofther natives out. It is also spread by grass mowing.
+                <a href="https://en.wikipedia.org/wiki/Eragrostis_curvula">African Lovegrass</a> is a small grass that grows on bads soils. It is blueish grey when growing and becomes golden brown as it dries out during the warmer months. It is a prolific seeder and a highly invasive weed that will colonise damaged areas quickly and forms monocultures that crowd all ofther natives out. It is also spread by grass mowing.
             </p>
 
             <p>
@@ -179,7 +230,7 @@
             </p>
 
             <p>
-                Lovegrass is reasonably easy to control and can be <a href="methods.php#hacked">hacked</a> out or <a href="methods.php#hacked">poisoned</a>. Small local localised infestations of lovegrass are regularly controlled by the group to prevent further spreading but large uncontrolled patches remain. It has been largely controlled in the <a href="groupareas.php">Group Areas</a> but remains a major problem outside of them.
+                African Lovegrass is reasonably easy to control and can be <a href="strategy.php#hacked">hacked</a> out or <a href="strategy.php#hacked">poisoned</a>. Small local localised infestations of lovegrass are regularly controlled by the group to prevent further spreading but large uncontrolled patches remain. It has been largely controlled in the <a href="groupareas.php">Group Areas</a> but remains a major problem outside of them.
             </p>
 
         </div>
@@ -192,7 +243,7 @@
             <img src="images/pattersonscurse.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
 
             <p>
-                Patterson's Curse is a small to medium sized herbaceous weed. It has bright purple leaves and is very fast growing. It prefers deep wet soils. It takes off in wet periods at any time of the year, rapidly flowers and seeds, before quickly dying off in dry periods. It is an opportunistic grower and can occur during any season. It is a highly prolific seeder and infestations can be extremely dense. It is highly invasive of disturbed ground by does not compete well with good quality native cover.
+                <a href="https://en.wikipedia.org/wiki/Echium_plantagineum">Patterson's Curse</a> is a small to medium sized herbaceous weed. It has bright green leaves with purple flowers and is very fast growing. It prefers areas that have deep wet soils. It germinates in wet periods at any time of the year, rapidly flowers and seeds, before quickly dying off in dry periods. It is an opportunistic grower and can occur during any season. It is a highly prolific seeder and infestations can be extremely dense. It is highly invasive of disturbed ground by does not compete well with good quality native cover.
             </p>
 
             <p>
@@ -200,7 +251,7 @@
             </p>
 
             <p>
-                Patterson's Curse is reasonably easy to control and can be <a href="methods.php#hacking">hacked</a> out or <a href="methods.php#hacking">poisoned</a>. It is critical that Pattersons curse is replaced with native cover quickly or else repeat infestations will easily occur.
+                Patterson's Curse is reasonably easy to control and can be <a href="strategy.php#hacking">hacked</a> out or <a href="strategy.php#hacking">poisoned</a>. It is critical that Pattersons curse is replaced with native cover quickly or else repeat infestations will easily occur.
             </p>
 
         </div>
@@ -213,7 +264,7 @@
             <img src="images/wildoats.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
 
             <p>
-                Bearded Oats is a perennial, tall, slender and rapidly growing grass. It is annual that germinates in late winter and rapidly grows to maturity within a few weeks. It dries out rapidly in late spring and early summer and becomes a golden colour. It remains standing until the autumn.
+                <a href="https://en.wikipedia.org/wiki/Avena_barbata">Bearded Oats</a> is a tall, slender and rapidly growing grass. It is annual that germinates in late winter and rapidly grows to maturity within a few weeks. It dries out rapidly in late spring and early summer and becomes a golden colour. It remains standing until the autumn.
             </p>
 
             <p>
@@ -225,7 +276,7 @@
             </p>
 
             <p>
-                Wild Oats is difficult to directly control because both of its speed of growth and the fact that it does not have a rosette that allows it to be easily hacked or sprayed. However it does not compete very well with native grass areas and can easily be indirectly controlled by replacing infested areas with native grasses, which will quickly out competed.
+                Wild Oats is difficult to directly control because both of its speed of growth and the fact that it does not have a rosette that allows it to be easily <a href="strategy.php#hacking">hacked</a> or  <a href="strategy.php#spraying">sprayed</a>. However it does not compete very well with native grass areas and can easily be indirectly controlled by replacing infested areas with native grasses, which will quickly out competed.
             </p>
         </div>
     </div>
@@ -237,15 +288,15 @@
             <img src="images/briarrose.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
 
             <p>
-                Briar Rose is a large bush that resembles a common garden variety rose bush. It has a woody stem, thorns and red/orange berrys on it that are easily spread by birds.
+                <a href="https://en.wikipedia.org/wiki/Rosa_rubiginosa">Sweet Briar</a> is a large bush that resembles a common garden variety rose bush. It has a woody stem, thorns and red/orange berrys on it that are easily spread by birds.
             </p>
 
             <p>
-                Briar Rose is the most significant woody weed on the reserve. It is widely dispersed over the ridge. The group tracks the position of every known bush as part of its <a href="woodyweeds.php">Wood Weed Survey</a>.
+                Sweet Briar Rose is the most significant woody weed on the reserve. It is widely dispersed over the ridge. The group tracks the position of every known bush as part of its <a href="woodyweeds.php">Wood Weed Survey</a>.
             </p>
 
             <p>
-                Briar Rose is best treated by <a href="methods.php#poisoning">poisoining</a> using a cut-and-dab method. The group spent a significant amount of time poisoning it in its early years. The group has now largely eliminated this weed from the ridge but pockets still remain.
+                Sweet Briar Rose is best treated by <a href="strategy.php#poisoning">poisoining</a> using a cut-and-dab method. The group spent a significant amount of time poisoning it in its early years. The group has now largely eliminated this weed from the ridge but pockets still remain.
             </p>
 
         </div>
@@ -258,7 +309,7 @@
             <img src="images/fleabane.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
 
             <p>
-                Fleabane is a large slender herbaceous weed. It germinates into a small rosette in the winter and grows rapidly to approximately 1m in height. It grow in large thickets.
+                <a href="https://en.wikipedia.org/wiki/Erigeron_bonariensis">Fleabane</a> is a large slender herbaceous weed. It germinates into a small rosette in the winter and grows rapidly to approximately 1m in height. It grow in large thickets.
             </p>
 
             <p>
@@ -266,7 +317,7 @@
             </p>
 
             <p>
-                Fleabane is reasonably easy to control and can be <a href="methods.php#heheaded">beheaded</a>, <a href="methods.php#hacked">hacked</a> or <a href="methods.php#poisoned">poisoned</a>. Fleabane is not currently a major problem on the ridge but future infestations are likely.
+                Fleabane is reasonably easy to control and can be <a href="strategy.php#heheaded">beheaded</a>, <a href="strategy.php#hacked">hacked</a> or <a href="strategy.php#poisoned">poisoned</a>. Fleabane is not currently a major problem on the ridge but future infestations are likely.
             </p>
 
         </div>
@@ -279,32 +330,32 @@
             <img src="images/scotchthistle.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
 
             <p>
-                Scotch Thistle is a large greeny-grey herbaceous plant. It germinates in the autumn or winter after rain to form are large rosette. It then grows rapidly in the spring to to form a large stalk with prickles and multiple seed heads. It is a prolific seeder and and an aggressive coloniser of damaged areas.
+                <a href="https://en.wikipedia.org/wiki/Onopordum_acanthium">Scotch Thistle</a> is a large greeny-grey herbaceous plant. It germinates in the autumn or winter after rain to form are large rosette. It then grows rapidly in the spring to to form a large stalk with prickles and multiple seed heads. It is a prolific seeder and and an aggressive coloniser of damaged areas.
             </p>
 
             <p>
-                Scotch Thistle has been a major problem on the ridge. This was especially the case on the summit Mt Arawang. It can easily be controlled with either <a href="weeds.php#hacking">hacking</a> or <a href="weeds.php#poisoning">poisoning</a>. The group has largely eliminated this weed from the ridge.
+                Scotch Thistle has been a major problem on the ridge. This was especially the case on the summit Mt Arawang. However, it can easily be controlled with either <a href="weeds.php#hacking">hacking</a> or <a href="weeds.php#poisoning">poisoning</a> and will not reappear once native cover has been restored. The group has largely eliminated this weed from the ridge.
             </p>
 
         </div>
     </div>
 
     <div  id="plantain" class="panel panel-success">
-        <div class="panel-heading">Plantain <em>(Plantago Lanceolata)</em></div>
+        <div class="panel-heading">Plantain <em>(Plantago lanceolata)</em></div>
         <div class="panel-body">
 
             <img src="images/plantain.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
 
             <p>
-                Plaintain is a small, perennial, herbaceous weed. It germinates in winter and grows quickly in the spring. It is fast growing and can reproduce quickly. It grows in high densities with many 10s per square metre. It grows well in damaged areas it is a common weed of former pasture lands.
+                <a href="https://en.wikipedia.org/wiki/Plantago_lanceolata">Plaintain</a> is a small, perennial, herbaceous weed. It germinates in winter and grows quickly in the spring. It is fast growing and can reproduce quickly. It grows in high densities with many 10s per square metre. It grows well in damaged areas it is a common weed of former pasture lands.
             </p>
 
             <p>
-                Plantain has been a major problem on the ridge and is widely dispersed.
+                Plantain has been a major problem on the ridge and is widely dispersed. It occures in damaged areas and can occur in high densities.
             </p>
 
             <p>
-                Plantain is best controlled with <a href="methods.php#hacking">hacking</a>. The group has been successfully in largely controlling Plantain in the group areas but large infestations are still common elsewhere on there ridge.
+                Plantain is best controlled with <a href="strategy.php#hacking">hacking</a>. The group has been successfully in largely controlling Plantain in the group areas but large infestations are still common elsewhere on there ridge.
             </p>
 
         </div>

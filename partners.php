@@ -46,7 +46,7 @@
 
     <p>The Green Army assists the group by providing information and general support to the group.</p>
 
-    <h3>Canberra Nature map</h3>
+    <h3>Canberra Nature Map</h3>
 
     <img src="images/canberranaturemap.jpg" style="height:100px;width:100px;float:left;padding:5px;margin: 5px"/>
 
@@ -56,11 +56,11 @@
 
     <h3>Australian National Botanical Gardens</h3>
 
-    <img src="images/canberranaturemap.jpg" style="height:100px;width:100px;float:left;padding:5px;margin: 5px"/>
+    <img src="images/anbg.jpg" style="height:100px;width:100px;float:left;padding:5px;margin: 5px"/>
 
-    <p><a href="https://canberra.naturemapr.org.au/">Canberra Nature Map</a> is web site based on volunteers who contribute sightings of various plancts, animals, etc in the various nature reserves throught the ACT and adjoing areas.</p>
+    <p><a href="https://www.anbg.gov.au/">Australian National Botanic Gardens</a> is Australias premier organisation on botany.</p>
 
-    <p>Canberra Nature Map assists be allowing the group to locate significant species on the ridge. It complements several of our own surveys such as the Plant Survery, the Animal Survey.</p>
+    <p>The group often liaises with the Australian National Botanic Gardens to help identify plant species found on the ridge.</p>
 
 <!--    <h3>Private contractors</h3>-->
 <!---->

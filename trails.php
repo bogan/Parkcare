@@ -55,7 +55,7 @@
     </p>
 
     <p>
-        The section that cross the nature reserve is composed of both existing management vehicular trails as well as specially contructed walking trails.
+       Foo The section that cross the nature reserve is composed of both existing management vehicular trails as well as specially contructed walking trails.
     </p>
 
     <p>

@@ -27,6 +27,7 @@
                         <th>Genus</th>
                         <th>Species</th>
                         <th>Common Name</th>
+                        <th>Native</th>
                         <th>Newsletter</th>
                     </tr>
                     </thead>
@@ -36,6 +37,7 @@
                         <td>Viburnum</td>
                         <td>tinus</td>
                         <td>Laurustinus</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -43,6 +45,7 @@
                         <td>Alternanthera*</td>
                         <td>nana</td>
                         <td>Hairy Joyweed</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -50,6 +53,7 @@
                         <td>Alternanthera*</td>
                         <td>pungens</td>
                         <td>Khaki Weed</td>
+                        <td>?</td>
                         <td><a href="news/Apr11.pdf">April 2011</a></td>
                     </tr>
                     <tr>
@@ -57,6 +61,7 @@
                         <td>Amaranthus*</td>
                         <td>albus</td>
                         <td>Tumbleweed</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -64,6 +69,7 @@
                         <td>Amaranthus*</td>
                         <td>powellii</td>
                         <td>Powell's Amaranth</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -71,6 +77,7 @@
                         <td>Amaranthus*</td>
                         <td>retroflexus</td>
                         <td>Red Root</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -78,6 +85,7 @@
                         <td>Pistacia*</td>
                         <td>sp</td>
                         <td>Pistachio</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -85,6 +93,7 @@
                         <td>Arthropodium</td>
                         <td>milleflorum</td>
                         <td>Pale Vanilla Lily</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -92,6 +101,7 @@
                         <td>Arthropodium</td>
                         <td>minus</td>
                         <td>Small Vanilla Lily</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -99,6 +109,7 @@
                         <td>Caesia</td>
                         <td>calliantha</td>
                         <td>Purple Grass Lily</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -106,6 +117,7 @@
                         <td>Dichopogon</td>
                         <td>fimbriatus</td>
                         <td>Nodding Chocolate Lily</td>
+                        <td>?</td>
                         <td><a href="news/Jan09.pdf">January 2009</a></td>
                     </tr>
                     <tr>
@@ -113,6 +125,7 @@
                         <td>Thysanotus</td>
                         <td>tuberosus</td>
                         <td>Common Fringed Lily</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -120,6 +133,7 @@
                         <td>Tricoryne</td>
                         <td>elatior</td>
                         <td>Yellow Rush Lily</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -127,6 +141,7 @@
                         <td>Cyclospermum*</td>
                         <td>leptophyllum</td>
                         <td>Slender Celery</td>
+                        <td>?</td>
                         <td><a href="news/Apr15.pdf">April 2015</a></td>
                     </tr>
                     <tr>
@@ -134,6 +149,7 @@
                         <td>Conium*</td>
                         <td>maculatum</td>
                         <td>Slender Celery</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -141,6 +157,7 @@
                         <td>Daucus</td>
                         <td>glochidiatus</td>
                         <td>Native Carrot</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -148,6 +165,7 @@
                         <td>Eryngium</td>
                         <td>ovinum</td>
                         <td>Blue Devil</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -155,6 +173,7 @@
                         <td>Foeniculum*</td>
                         <td>vulgare</td>
                         <td>Fennel</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -162,6 +181,7 @@
                         <td>Hydrocotyle</td>
                         <td>laxiflora</td>
                         <td>Stinking Pennywort</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -169,6 +189,7 @@
                         <td>Vinca*</td>
                         <td>major</td>
                         <td>Periwinkle</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -176,6 +197,7 @@
                         <td>Araujia*</td>
                         <td>sericifera</td>
                         <td>Moth Vine, Mothplant</td>
+                        <td>?</td>
                         <td><a href="news/Sep15.pdf">September 2015</a></td>
                     </tr>
                     <tr>
@@ -183,6 +205,7 @@
                         <td>Asparagus*</td>
                         <td>officinalis</td>
                         <td>Asparagus</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -190,6 +213,7 @@
                         <td>Oxypetalum*</td>
                         <td>coeruleum</td>
                         <td>Tweedia</td>
+                        <td>?</td>
                         <td><a href="news/Jan11.pdf">January 2011</a></td>
                     </tr>
                     <tr>
@@ -197,6 +221,7 @@
                         <td>Bulbine</td>
                         <td>bulbosa</td>
                         <td>Bulbine Lily</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -204,6 +229,7 @@
                         <td>Asplenium</td>
                         <td>flabellifolium</td>
                         <td>Necklace Fern</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -211,6 +237,7 @@
                         <td>Pleurosorus</td>
                         <td>rutifolius</td>
                         <td>Blanket Fern</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -218,6 +245,7 @@
                         <td>Arctotheca*</td>
                         <td>calendula</td>
                         <td>Capeweed</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -225,6 +253,7 @@
                         <td>Brachyscome</td>
                         <td>spathulata</td>
                         <td>Spoon Daisy</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -232,6 +261,7 @@
                         <td>Calotis</td>
                         <td>lappulacea</td>
                         <td>Yellow Burr Daisy</td>
+                        <td>?</td>
                         <td><a href="news/Apr14.pdf">April 2014</a></td>
                     </tr>
                     <tr>
@@ -239,6 +269,7 @@
                         <td>Carduus*</td>
                         <td>pycnocephalus</td>
                         <td>Slender Thistle</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -246,6 +277,7 @@
                         <td>Carthamus*</td>
                         <td>lanatus</td>
                         <td>Saffron Thistle</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -253,6 +285,7 @@
                         <td>Carthamus*</td>
                         <td>tinctorius</td>
                         <td>Safflower</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -260,6 +293,7 @@
                         <td>Cassinia</td>
                         <td>aculeata</td>
                         <td>Dolly Bush</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -267,6 +301,7 @@
                         <td>Cassinia</td>
                         <td>longifolia</td>
                         <td>Shiny Cassinia</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -274,6 +309,7 @@
                         <td>Cassinia</td>
                         <td>quinquefaria</td>
                         <td>Dogwood</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -281,6 +317,7 @@
                         <td>Chondrilla*</td>
                         <td>juncea</td>
                         <td>Skeleton Weed</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -288,6 +325,7 @@
                         <td>Chrysocephalum</td>
                         <td>apiculatum</td>
                         <td>Yellow Buttons</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -295,6 +333,7 @@
                         <td>Chrysocephalum</td>
                         <td>semipapposum</td>
                         <td>Clustered Everlasting</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -302,6 +341,7 @@
                         <td>Cirsium*</td>
                         <td>vulgare</td>
                         <td>Spear Thistle</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -309,6 +349,7 @@
                         <td>Conyza*</td>
                         <td>albida</td>
                         <td>Tall Fleabane</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -316,6 +357,7 @@
                         <td>Conyza*</td>
                         <td>bonariensis</td>
                         <td>Flax-leaf Fleabane</td>
+                        <td>?</td>
                         <td><a href="news/Jun12.pdf">June 2012</a></td>
                     </tr>
                     <tr>
@@ -323,6 +365,7 @@
                         <td>Cotula</td>
                         <td>australis</td>
                         <td>Common Cotula</td>
+                        <td>?</td>
                         <td><a href="news/Aug09.pdf">August 2009</a></td>
                     </tr>
                     <tr>
@@ -330,6 +373,7 @@
                         <td>Craspedia</td>
                         <td>sp</td>
                         <td>Billy Buttons</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -337,6 +381,7 @@
                         <td>Crepis*</td>
                         <td>capillaris</td>
                         <td>Smooth Hawksbeard</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -344,6 +389,7 @@
                         <td>Cymbonotus</td>
                         <td>lawsonianus</td>
                         <td>Bear's Ear</td>
+                        <td>?</td>
                         <td><a href="news/Aug10.pdf">August 2010</a></td>
                     </tr>
                     <tr>
@@ -351,6 +397,7 @@
                         <td>Erigeron*</td>
                         <td>karvinskianus</td>
                         <td>Bony-tip Fleabane, Seaside Daisy</td>
+                        <td>?</td>
                         <td><a href="news/Aug14.pdf">August 2014</a></td>
                     </tr>
                     <tr>
@@ -358,6 +405,7 @@
                         <td>Euchiton</td>
                         <td>sphaericus</td>
                         <td>Cudweed</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -365,6 +413,7 @@
                         <td>Gamochaeta*</td>
                         <td>calviceps</td>
                         <td>Cudweed</td>
+                        <td>?</td>
                         <td><a href="news/De10.pdf">December 2010</a></td>
                     </tr>
                     <tr>
@@ -372,6 +421,7 @@
                         <td>Gazania*</td>
                         <td>sp</td>
                         <td>&nbsp;</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -379,6 +429,7 @@
                         <td>Helianthus *</td>
                         <td>annuus</td>
                         <td>Common Sunflower</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -386,6 +437,7 @@
                         <td>Hypochaeris*</td>
                         <td>glabra</td>
                         <td>Smooth Catsear</td>
+                        <td>?</td>
                         <td><a href="news/Oct09.pdf">October 2009</a></td>
                     </tr>
                     <tr>
@@ -393,6 +445,7 @@
                         <td>Hypochaeris*</td>
                         <td>radicata</td>
                         <td>Flat weed</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -400,6 +453,7 @@
                         <td>Leptorhynchos</td>
                         <td>squamatus</td>
                         <td>Scaly Buttons</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -407,6 +461,7 @@
                         <td>Lactuca*</td>
                         <td><a href="Flora/Asteraceae/Lactuca/serriola/index.php">serriola</a></td>
                         <td>Prickly Lettuce</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -414,6 +469,7 @@
                         <td>Onopordum*</td>
                         <td>acanthium</td>
                         <td>Scotch Thistle</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -421,6 +477,7 @@
                         <td>Pseudognaphalium</td>
                         <td>luteoalbum</td>
                         <td>Jersey Cudweed</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -428,6 +485,7 @@
                         <td></td>
                         <td>bathurstianus</td>
                         <td>&nbsp;</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -435,6 +493,7 @@
                         <td>Senecio</td>
                         <td>hispidulus</td>
                         <td>Hill Fireweed</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -442,6 +501,7 @@
                         <td>Senecio</td>
                         <td>quadridentatus</td>
                         <td>Cotton Fireweed</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -449,6 +509,7 @@
                         <td>Silybum *</td>
                         <td>marianum</td>
                         <td>Variegated Thistle</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -456,6 +517,7 @@
                         <td>Solenogyne</td>
                         <td>dominii</td>
                         <td>&nbsp;</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -463,6 +525,7 @@
                         <td>Sonchus*</td>
                         <td>asper</td>
                         <td>Prickly Sowthistle</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -470,6 +533,7 @@
                         <td>Sonchus*</td>
                         <td>oleraceus</td>
                         <td>Common Sowthistle</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -477,6 +541,7 @@
                         <td>Tanacetum*</td>
                         <td>vulgare</td>
                         <td>Tansy</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -484,6 +549,7 @@
                         <td>Taraxacum*</td>
                         <td>officinale</td>
                         <td>Dandelion</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -491,6 +557,7 @@
                         <td>Tolpis*</td>
                         <td>barbata</td>
                         <td>&nbsp;</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -498,6 +565,7 @@
                         <td>Tragopogon*</td>
                         <td>dubius</td>
                         <td>Goatsbeard</td>
+                        <td>?</td>
                         <td><a href="news/Feb11.pdf">February 2011</a></td>
                     </tr>
                     <tr>
@@ -505,6 +573,7 @@
                         <td>Tragopogon*</td>
                         <td>porrifolius</td>
                         <td>Salsify</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -512,6 +581,7 @@
                         <td>Triptilodiscus</td>
                         <td>pygmaeus</td>
                         <td>Common Sunray</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -519,6 +589,7 @@
                         <td>Vittadinia</td>
                         <td>cuneata forma cuneata</td>
                         <td>Fuzz Weed</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -526,6 +597,7 @@
                         <td>Vittadinia</td>
                         <td>cuneata forma minor</td>
                         <td>Fuzz Weed</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -533,6 +605,7 @@
                         <td>Vittadinia</td>
                         <td>gracilis</td>
                         <td>Woolly New Holland Daisy</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -540,6 +613,7 @@
                         <td>Vittadinia</td>
                         <td>muelleri</td>
                         <td>&nbsp;</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -547,6 +621,7 @@
                         <td>Xanthium*</td>
                         <td>spinosum</td>
                         <td>Bathurst Burr</td>
+                        <td>?</td>
                         <td><a href="news/Jun09.pdf">Jun 2009</a><br><a href="news/May11.pdf">May 2011</a><br><a href="news/Dec11.pdf">December 2011</a></td>
                     </tr>
                     <tr>
@@ -554,6 +629,7 @@
                         <td>Xanthium*</td>
                         <td>occidentale</td>
                         <td>Noogoora Burr, Cockle Burr</td>
+                        <td>?</td>
                         <td><a href="news/Aug11.pdf">August 2011</a></td>
                     </tr>
                     <tr>
@@ -561,6 +637,7 @@
                         <td>Xerochrysum </td>
                         <td>viscosum</td>
                         <td>Sticky Everlasting</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -568,6 +645,7 @@
                         <td>Azolla</td>
                         <td>filiculoides var. rubra</td>
                         <td>Azolla</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -575,6 +653,7 @@
                         <td>Berberis*</td>
                         <td>aquifolium</td>
                         <td>Oregon Grape</td>
+                        <td>?</td>
                         <td><a href="news/Oct12.pdf">October 2012</a></td>
                     </tr>
                     <tr>
@@ -582,6 +661,7 @@
                         <td>Nandina*</td>
                         <td>domestica</td>
                         <td>Chinese Sacred Bamboo</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -589,6 +669,7 @@
                         <td>Mahonia *</td>
                         <td>aquifolium</td>
                         <td>Mahonia</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -596,6 +677,7 @@
                         <td>Amsinckia*</td>
                         <td>intermedia</td>
                         <td>Common Fiddleneck</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -603,6 +685,7 @@
                         <td>Cynoglossum</td>
                         <td>australe</td>
                         <td>Australian Hound's Tooth</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -610,6 +693,7 @@
                         <td>Cynoglossum</td>
                         <td>suaveolens</td>
                         <td>Sweet Hound's Tooth</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -617,6 +701,7 @@
                         <td>Echium*</td>
                         <td>plantagineum</td>
                         <td>Paterson's Curse</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -624,6 +709,7 @@
                         <td>Echium*</td>
                         <td>vulgare</td>
                         <td>Viper's Bugloss</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -631,6 +717,7 @@
                         <td>Buglossoides*</td>
                         <td>arvensis</td>
                         <td>Sheepwell</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -638,6 +725,7 @@
                         <td>Capsella*</td>
                         <td>bursa-pastoris</td>
                         <td>Shepherd's Purse</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -645,6 +733,7 @@
                         <td>Hirschfeldia*</td>
                         <td>incana</td>
                         <td>Buchan Weed</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -652,6 +741,7 @@
                         <td>Lepidium*</td>
                         <td>africanum</td>
                         <td>Peppercress</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -659,6 +749,7 @@
                         <td>Sisymbrium*</td>
                         <td>orientale</td>
                         <td>Indian Hedge Mustard</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -666,6 +757,7 @@
                         <td>Opuntia*</td>
                         <td>stricta</td>
                         <td>Prickly Pear</td>
+                        <td>?</td>
                         <td><a href="news/Aug15.pdf">August 2015</a></td>
                     </tr>
                     <tr>
@@ -673,6 +765,7 @@
                         <td>Wahlenbergia</td>
                         <td>ceracea</td>
                         <td>Waxy Bluebell</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -680,6 +773,7 @@
                         <td>Wahlenbergia</td>
                         <td>communis</td>
                         <td>Tufted Bluebell</td>
+                        <td>?</td>
                         <td><a href="news/May10.pdf">May 2010</a></td>
                     </tr>
                     <tr>
@@ -687,6 +781,7 @@
                         <td>Wahlenbergia</td>
                         <td>gracilis</td>
                         <td>Australian Bluebell</td>
+                        <td>?</td>
                         <td><a href="news/May10.pdf">May 2010</a></td>
                     </tr>
                     <tr>
@@ -694,6 +789,7 @@
                         <td>Wahlenberbia</td>
                         <td>luteola</td>
                         <td>&nbsp;</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -701,6 +797,7 @@
                         <td>Wahlenbergia</td>
                         <td>stricta</td>
                         <td>Tall Bluebell</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -708,6 +805,7 @@
                         <td>Lonicera*</td>
                         <td>japonica</td>
                         <td>Honeysuckle</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -715,6 +813,7 @@
                         <td>Viburnum*</td>
                         <td>sp</td>
                         <td>Viburnum</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -722,6 +821,7 @@
                         <td>Cerastium*</td>
                         <td>glomeratum</td>
                         <td>Mouse-ear Chickweed</td>
+                        <td>?</td>
                         <td><a href="news/Oct09.pdf">October 2009</a></td>
                     </tr>
                     <tr>
@@ -729,6 +829,7 @@
                         <td>Lychnis*</td>
                         <td>coronaria</td>
                         <td>Dusty Miller</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -736,6 +837,7 @@
                         <td>Moenchia*</td>
                         <td>erecta</td>
                         <td>Erect Chickweed</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -743,6 +845,7 @@
                         <td>Paronychia*</td>
                         <td>brasiliana</td>
                         <td>Chilean Whitlow</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -750,6 +853,7 @@
                         <td>Petrorhagia*</td>
                         <td>nanteuilii</td>
                         <td>Proliferous Pink</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -757,6 +861,7 @@
                         <td>Silene*</td>
                         <td>gallica</td>
                         <td>French Catchfly</td>
+                        <td>?</td>
                         <td><a href="news/Nov10.pdf">Nov 2010</a></td>
                     </tr>
                     <tr>
@@ -764,6 +869,7 @@
                         <td>Spergularia*</td>
                         <td>rubra</td>
                         <td>Sandspurry</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -771,6 +877,7 @@
                         <td>Stellaria</td>
                         <td>pungens</td>
                         <td>Prickly Starwort</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -778,6 +885,7 @@
                         <td>Allocasuarina</td>
                         <td>verticillata</td>
                         <td>Drooping Sheoak</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -785,6 +893,7 @@
                         <td>Einadia</td>
                         <td>sp</td>
                         <td>&nbsp;</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -792,6 +901,7 @@
                         <td>Einadia</td>
                         <td>nutans subsp. nutans</td>
                         <td>Climbing Saltbush</td>
+                        <td>?</td>
                         <td><a href="news/Jul14.pdf">July 2014</a></td>
                     </tr>
                     <tr>
@@ -799,6 +909,7 @@
                         <td>Chenopodium*</td>
                         <td>album</td>
                         <td>Fat Hen </td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -806,6 +917,7 @@
                         <td>Chenopodium</td>
                         <td>pumilio</td>
                         <td>Small Crumbweed</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -813,6 +925,7 @@
                         <td>Hypericum *</td>
                         <td>calycinum</td>
                         <td>Rose of Sharon</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -820,6 +933,7 @@
                         <td>Hypericum</td>
                         <td>gramineum</td>
                         <td>Small St.John's Wort</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -827,6 +941,7 @@
                         <td>Hypericum*</td>
                         <td>perforatum</td>
                         <td>St John's Wort</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -834,6 +949,7 @@
                         <td>Wurmbea</td>
                         <td>dioica</td>
                         <td>Early Nancy</td>
+                        <td>?</td>
                         <td><a href="news/Oct10.pdf">October 2010</a></td>
                     </tr>
                     <tr>
@@ -841,6 +957,7 @@
                         <td>Convolvulus</td>
                         <td>angustissimus</td>
                         <td>Native Bindweed</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -848,6 +965,7 @@
                         <td>Dichondra</td>
                         <td>repens</td>
                         <td>Kidney Weed</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -855,6 +973,7 @@
                         <td>Crassula</td>
                         <td>sieberiana</td>
                         <td>Australian Stonecrop</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -862,6 +981,7 @@
                         <td>Cucumis*</td>
                         <td>myriocarpus</td>
                         <td>Paddymelon</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -869,6 +989,7 @@
                         <td>Juniperus*</td>
                         <td>sp</td>
                         <td>Juniper</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -876,6 +997,7 @@
                         <td>Carex</td>
                         <td>appressa</td>
                         <td>Tall Sedge</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -883,6 +1005,7 @@
                         <td>Eleocharis</td>
                         <td>acuta</td>
                         <td>Spike Rush</td>
+                        <td>?</td>
                         <td><a href="news/Jan16.pdf">January 2016</a></td>
                     </tr>
                     <tr>
@@ -890,6 +1013,7 @@
                         <td>Carex</td>
                         <td>breviculmis</td>
                         <td>Short-stem Sedge</td>
+                        <td>?</td>
                         <td><a href="news/Sept14.pdf">September 2014</a></td>
                     </tr>
                     <tr>
@@ -897,6 +1021,7 @@
                         <td>Carex</td>
                         <td>inversa</td>
                         <td>Knob Sedge</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -904,6 +1029,7 @@
                         <td>Cyperus*</td>
                         <td>eragrostis</td>
                         <td>Umbrella Sedge</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -911,6 +1037,7 @@
                         <td>Cyperus*</td>
                         <td>tenellus</td>
                         <td>&nbsp;</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -918,6 +1045,7 @@
                         <td>Lepidosperma</td>
                         <td>laterale</td>
                         <td>Variable Saw Sedge</td>
+                        <td>?</td>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>

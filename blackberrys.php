@@ -115,7 +115,15 @@ include 'databasedb.php';
 
 <h2 class="page-header">Blackberry Survey</h2>
 
-<p>The following map displays specific occurences of blackberry bushes found on Cooleman Ridge Nature Reserve</p>
+<p>
+    The Cooleman Ridge Parkcare Group undertakes a Blackberry Survey of the ridge. It involves locating and recording significant information about any <a href="weeds.php#blackberry">Blackberry</a> bushes found on the ridge.
+</p>
+
+<p>
+    The main purpose of the Blackberry Survey is to assist in the weeding program of blackberrys. blackberrys are different from most other weeds found on the ridge in that because of their size they require the help of one of our <a href="partners.php">partners</a> to control the blackberry. The survey allows the group to accurately communicate the location of blackberrys as well as assisting in the tracking of the progress of the program.
+</p>
+
+<p>The following map displays specific occurrences of blackberry bushes found on Cooleman Ridge Nature Reserve.</p>
 
 <p><strong>NOTE: You can click on each marker for more detailed information</strong></p>
 

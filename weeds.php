@@ -16,7 +16,7 @@
     </p>
 
     <p>
-        The group believes that it is important that everybody who uses the ridge be familiar with the history, scope and types of weeds found on the ridge. This is because most inexperienced people misunderstand the nature of the weed problem on the ridge. They either confuse weeds with natives or they simply believe that everything is a weed.
+        The group believes that it is important that everybody who uses the ridge, whether a member or non member, be familiar with the history, scope and types of weeds found on the ridge. This is because most inexperienced people misunderstand the nature of the weed problem on the ridge. They either confuse weeds with natives or they simply believe that everything is a weed.
     </p>
 
     <p>
@@ -24,40 +24,49 @@
     </p>
 
     <p>
-        This page is intended to give a general overview of the history, scope and types of weeds found on the ridge.
+        This page is intended to give a general overview of the definition, history, scope and types of weeds found on the ridge.
+    </p>
+
+    <h3>Definition</h3>
+
+    <p>
+        The definition of what is and what is not a weed is somewhat contentious. A basic definition of what constitutes a weed for the group is basically "any plant that was not present prior to european settlement". This definition is itself somewhat contentious as it may not always be clear what was present prior to european settlement, but it is good enough.
+    </p>
+
+    <p>
+        Many names for plants have the name weed in them but are not considered weeds by the group. Conversely, there are many weeds that do not have the name weed on them. The main reason why the common name contains the word weed in it is that reflected the perspective of the the person giving the name. this was typically a grazier
+    </p>
+
+    <p>
+        Another important point about weeds is that looks are deceptive. Many people have preconceived ideas about what a weed looks like and what a native looks like. However, many plants found on the ridge.
+    </p>
+
+    <p>
+        The best way to identify what is a weed and what is not a weed is to consult our Plant Survey. This survey clearly identifies the status of the plant as either a Native or a non native (ie. weed)
     </p>
 
     <h3>History</h3>
 
     <p>
-        The history of weeds on the ridge is quite simple - it closely follows the history of grazing on the ridge.
+        The history of weeds on the ridge is quite simple - it closely follows the <a href="history.php">history</a> of the ridge itself.
     </p>
 
     <p>
-        The most significant factor in the introduction of weeds on the ridge was the presence of grazing on the ridge.
-
-        Grazing has occured on the ridge for over 100 years and the intensity of the grazing progressively increased significantly overtime.
+        The most significant factor in the history of the ridge that has influenced the history of weeds on the ridge has been the presence of grazing on the ridge.
     </p>
 
     <p>
-        Grazing is signficant becomes it "damages the area. Most weeds are typically only found in of the ridge that have been &quot;damaged&quot; by grazing.
+        Grazing has now occurred on the ridge for over 100 years with regular grazing only stopping relatively recently when the ridge became a nature reserve in the 1980sand the intensity of the grazing progressively increased significantly overtime.</p>
+    <p>
+        Grazing has been significant because it has "damaged" many areas by doing the following:
         <ul>
-            <li>Pasture grass is introduced (eg. phalaris, fescue, ryegrass)</li>
-            <li>Fertilisation introduced which favours weeds over natives</li>
-            <li>Reduces native cover by overgrazing especially in times of drought.</li>
-            <li>Roads and tracks are introduced exposing the soil and provide a path for weeds..</li>
+            <li>Pasture grass was deliberately introduced (eg. phalaris, fescue, ryegrass)</li>
+            <li>Fertilisation was introduced which favours weeds over natives.</li>
             <li>Tree cover was removed allowing extra space for weeds.</li>
+            <li>Large herbivores are introduced which decreases native cover because native grass have not evolved to cope with their grazing pressure.</li>
+            <li>Overgrazing (ie in times of drought) exposes the soil and makes the area vulnerable to invasive weeds.</li>
+            <li>Roads and tracks were introduced exposing the soil and provide a pathway for weeds.</li>
         </ul>
-    </p>
-
-    <p>
-        Many areas were overgrazed especially in times of drought. this removed the native cover. This exposes the soil and makes the area highly vulnerable to invasive weeds such.
-    </p>
-
-    <p>
-        Native cover was either deliberately or accidentally removed and many weeds were similarly deliberately introduced.
-        These weeds were either deliberatly introduced or accidentally introduced via grazing or via garden escapees.
-        Weeds were either deliberately introduced to support grazing or accidentally introduced by damaging the native cover.
     </p>
 
     <p>
@@ -68,6 +77,10 @@
 
     <p>
         The distribution of weeds on the ridge strongly correlates with the distrubition of former grazing on the ridge - the weeds often tell the history of grazing on the ridge.
+    </p>
+
+    <p>
+        Most weeds are generally found in of the ridge that have been &quot;damaged&quot; by grazing.
     </p>
 
     <p>
@@ -87,13 +100,13 @@
     </p>
 
     <p>
-    The group is working towards changing this ratio.
+        The group is working towards changing this ratio.
     </p>
 
     <h3>Types</h3>
 
     <p>
-        There are large number of different types of weeds on the ridge. The cover a wide spectrum size, significance and effort on the part of the group to control them.
+        There are large number of different types of weeds on the ridge. They cover a wide spectrum size, significance and effort on the part of the group to control them.
     </p>
 
     <p>

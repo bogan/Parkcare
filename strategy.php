@@ -43,13 +43,13 @@
     <p>
         The effectiveness of the Bradley Method is however counter intuitive to those unfamiliar with it and does not conform with the general publics stereotypical idea of landcare groups. Planting seems to be the obvious way of restoring native vegetation. However, the main reason why weeding is more effective than planting is that the bush has a natural tendency to regenerate anyway, whether humans help or not. work with nature and not against it. However, humans can great significantly accelerate the natural regeneration process by removing competitors that prevent the bush from regeneration. Weeds compete for light, water and nutrients. Removing weeds allows struggling natives to maximise the use. The idea is to create an empty space for the bush to move into. The bush will do this naturally. All it requires from us is to create this space. This is the main reason for weeding - to remove competition and create a space.Weeding is by no means a futile activity.
 
-        Mother Nature will typically do a much better job or regenerating the bush. All she needs is a helping hand.
+        Mother Nature will typically do a much better job or regenerating the bush. All she needs is a helping hand. A natural rather than an artificial approach to bush regeneration.
     </p>
 
     <h3>Weeding</h3>
 
     <p>
-        The Bradley Methods maintains that weeding should by lightweight rather than heavy weight. Weeding is most effective in strong areas rather than week areas. Many think that weeding is futile because they will just come back. Once a good native cover is established, most weeds rarely reenter. Work with the bush rather than against it.   immediately next to the weed. By not causing major daage to the surrounding natives. Precision an minimise collateral damage wherever problem. Manual methods are generally preferred to mechanical methods as they are more precise and less likely to create collateral damage.
+        The Bradley Methods maintains that weeding should by lightweight rather than heavy weight. Weeding is most effective in strong areas rather than week areas. Many think that weeding is futile because they will just come back. Once a good native cover is established, most weeds rarely reenter. Work with the bush rather than against it.   immediately next to the weed. By not causing major damage to the surrounding natives. Precision an minimise collateral damage wherever problem. Manual methods are generally preferred to mechanical methods as they are more precise and less likely to create collateral damage.
     </p>
 
     <p>A well planned and executed weeding stategy can have a major impact on th regeneration of the landscape.</p>

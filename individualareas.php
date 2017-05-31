@@ -13,12 +13,12 @@
 <p>The group has defined many individual work areas. These areas are &quot;owned&quot; by individual members of the group and are typically areas outside of the group areas. The individual member works on their area whenever they want and performs any <a href="activity">activity</a> that they wish.</p>
 
     <p>
-        The individual areas are an important part of our <a href="strategy.php">strategy</a> to regenerate the rdige with native vegetation. The work areas complement the work dones in our <a href="groupareas.php">group area</a>. They help link the various group areas into a more integrated whole and therefore help accelerate our goal of eventually linking all the various work areas together into a unified area.
+        The individual areas are an important part of our <a href="strategy.php">strategy</a> to regenerate the ridge with native vegetation. The individual areas complement the work the group does in our <a href="groupareas.php">group area</a>. They help link the various group areas into a more integrated whole and therefore help accelerate our goal of eventually linking all the various work areas together into a unified area.
     </p>
 
-    <p>Many individual areas have seed significant improvement with most weeds remove and natural regeneration occuring. These improvements have not only helped contribute to a goal of regenerating the ridge but have also provide each member with significant pleasure and satisfaction.</p>
+    <p>Many individual areas have seen significant improvement with many weeds removed and natural regeneration occurring. These improvements have not only helped contribute to a goal of regenerating the ridge but have also provide each member with significant pleasure and satisfaction.</p>
 
-    <p>Please click on one of the colour areas on the map for more information about each of the individual work areas.</p>
+    <p>The following map displays all the currently known individual work areas. You can click on any one for more information about the individual and the work that they do.</p>
 
     <div id="individualareas" style="height:600px;"></div>
 

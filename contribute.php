@@ -11,9 +11,9 @@
 
     <p>The Cooleman Ridge Parkcare Group needs your help!</p>
 
-    <p>There is something for everybody to do no matter what your age, health, interest, experience. Your contribution can be regular or adhoc, big or small - every little bit helps!</p>
+    <p>We believe everybody can help the work the group does, no matter what their age, health, interest, skill-level or experience. Your contribution can be regular or adhoc, big or small - every little bit helps!</p>
 
-    <p>You don't even need to make a special event of your work. Many people help out while just 'doing something else' on the ridge (e.g. walking the dog).</p>
+    <p>To help out, you don't even need to make a special event of your work. Many people help out while just 'doing something else' on the ridge (e.g. walking the dog).</p>
 
     <p>Many members make various contributions. By contributing in just one area you can free another member to do something that you can't or don't want to do (e.g weeding).</p>
 
@@ -23,11 +23,13 @@
 
     <p>Yes, weeding! Weeding can be surprisingly satisfying and even addictive. Once you start, it can be hard to stop.</p>
 
-    <p>Weeding does not necessarily mean you have to attend group meetings or have an individual area to help with the weeding. Many people weed just when they go for a walk on the ridge every day and pull out a hundred weeds each time.</p>
+    <p>Weeding does not necessarily mean you have to attend <a href="meetings.php#group">group meetings</a> or have an <a href="groupareas.php">individual area</a>. Many people weed just when they go for a walk on the ridge every day and pull out a hundred weeds each time.</p>
 
-    <p>Many people have a favourite weed (e.g fleabane, verbascum, wort, etc). They whack the weed wherever they see it.</p>
+    <p>Many people have a favourite weed (e.g <a href="weeds.php#fleabane">fleabane</a>, <a href="weeds.php#verbascum">verbascum</a>, <a href="weeds.php#stjohnswort">wort</a>, etc). They whack the weed wherever they see it.</p>
 
     <p>The combined effect of lots of people doing a little bit of weeding can have a big impact overtime.</p>
+
+    <p>You can help by adopting a favourite weed and pulling it out whenever you can.</p>
 
     <h3>Surveying</h3>
 

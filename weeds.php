@@ -30,41 +30,58 @@
     <h3>Definition</h3>
 
     <p>
-        The definition of what is and what is not a weed is somewhat contentious. A basic definition of what constitutes a weed for the group is basically "any plant that was not present prior to european settlement". This definition is itself somewhat contentious as it may not always be clear what was present prior to european settlement, but it is good enough.
+        The definition of what is and what is not a weed is somewhat contentious. However, a basic definition of what constitutes a weed for the group is basically "any plant that was not present prior to european settlement". This definition is itself somewhat contentious as it may not always be clear what was present prior to european settlement, but it reasonable criterion.
     </p>
 
     <p>
-        Many names for plants have the name weed in them but are not considered weeds by the group. Conversely, there are many weeds that do not have the name weed on them. The main reason why the common name contains the word weed in it is that reflected the perspective of the the person giving the name. this was typically a grazier
+        The problem of what constitues a weed is also complicated by several other factors including
     </p>
 
     <p>
-        Another important point about weeds is that looks are deceptive. Many people have preconceived ideas about what a weed looks like and what a native looks like. However, many plants found on the ridge.
+        <ul>
+            <li>
+                <strong>Context</strong> - a weed in one context may not be another context. Agricultural versus environmental weed. The group uses a more environmental interpretation of what a weed is.
+                reflects the perspective of the the person giving the name. this was typically a grazier
+            </li>
+
+            <li>
+                <strong>Location</strong> - the location of a plant can be significant because a native in one place be a weed in another. Something that is native in one state, region or locality may be a weed in another. Even a matter of metres can make a different to whether a plant is considered a weed or not.
+            </li>
+
+            <li>
+                <strong>Names</strong> - the common (as opposed to the scientifc) names for plants can be very misleading as they have the word "weed" included in them. name weed in them but are not considered weeds by the group. Conversely, there are many weeds that do not have the name weed on them.
+            </li>
+
+            <li>
+                <strong>Appearence</strong> - the appearance of a plant can be deceptive. Many people have preconceived ideas about what a weed looks like and what a native looks like. However, many plants found on the ridge.
+            </li>
+        </ul>
     </p>
 
+
     <p>
-        The best way to identify what is a weed and what is not a weed is to consult our Plant Survey. This survey clearly identifies the status of the plant as either a Native or a non native (ie. weed)
+        The best way to determine what is a weed and what is not a weed according to the group is to consult our Plant Survey. This survey clearly identifies the status of the plant as either a Native or a Non Native (ie. weed)
     </p>
 
     <h3>History</h3>
 
     <p>
-        The history of weeds on the ridge is quite simple - it closely follows the <a href="history.php">history</a> of the ridge itself.
+        The history of weeds closely follows the <a href="history.php">history</a> of the ridge itself.
     </p>
 
     <p>
-        The most significant factor in the history of the ridge that has influenced the history of weeds on the ridge has been the presence of grazing on the ridge.
+        The most significant factor in the history of the ridge that has influenced the history of weeds on the ridge has been the presence of grazing on the ridge. Grazing has now occurred on the ridge for over 100 years with regular grazing only stopping relatively recently when the ridge became a nature reserve in the 1980s.
     </p>
 
-    <p>
-        Grazing has now occurred on the ridge for over 100 years with regular grazing only stopping relatively recently when the ridge became a nature reserve in the 1980sand the intensity of the grazing progressively increased significantly overtime.</p>
     <p>
         Grazing has been significant because it has "damaged" many areas by doing the following:
         <ul>
             <li>Pasture grass was deliberately introduced (eg. phalaris, fescue, ryegrass)</li>
-            <li>Fertilisation was introduced which favours weeds over natives.</li>
-            <li>Tree cover was removed allowing extra space for weeds.</li>
-            <li>Large herbivores are introduced which decreases native cover because native grass have not evolved to cope with their grazing pressure.</li>
-            <li>Overgrazing (ie in times of drought) exposes the soil and makes the area vulnerable to invasive weeds.</li>
+            <li>Fertilisation (ie superphosphate) was introduced which generally favours weeds over natives.</li>
+            <li>Clearing of native tree cover both reduced native cover as well as provided extra space for weeds.</li>
+            <li>Large herbivores were introduced which decreased native cover because native grass have not evolved to cope with their grazing pressure.</li>
+            <li>Overgrazing (eg. in times of drought) exposes the soil and makes the area vulnerable to invasive weeds.</li>
+            <li>Animals and vehicles carried the seeds of weeds and thus spread new weeds into the reserve.</li>
             <li>Roads and tracks were introduced exposing the soil and provide a pathway for weeds.</li>
         </ul>
     </p>
@@ -76,19 +93,15 @@
     <h3>Distribution</h3>
 
     <p>
-        The distribution of weeds on the ridge strongly correlates with the distrubition of former grazing on the ridge - the weeds often tell the history of grazing on the ridge.
+        The distribution of weeds on the ridge strongly correlates with the distrubition of former grazing on the ridge - most weeds are generally found in of the ridge that have been &quot;damaged&quot; by grazing.
     </p>
 
     <p>
-        Most weeds are generally found in of the ridge that have been &quot;damaged&quot; by grazing.
+        There were large parts of the ridge that were not intensively grazed and thus still have most of their original native cover. These areas were the ones considered not suitable for grazing such as steep, rocky or heavily wooded areas. These where typically on the <a href="hills.php">hills</a> of the ridge.
     </p>
 
     <p>
-        There were large parts of the ridge that were not intensively grazed and thus still have most of their original native cover. These areas are the ones considered not suitable for grazing such as steep, rocky or heavily wooded areas. These where typically on the <a href="hills.php">hills</a> of the ridge.
-    </p>
-
-    <p>
-        Conversely there are large parts of the ridge that were intestively grazed and consequently now have large weed infestations. These areas are the ones that were flat, deep soiled and thinly wooded. These are typically the areas in the saddles between the main <a href="hills.php">hills</a> on the ridge.
+        Conversely there are large parts of the ridge that were intestively grazed and consequently now have large weed infestations. These areas were the ones that were flat, deep soiled and thinly wooded. These are typically the areas in the saddles between the main <a href="hills.php">hills</a> on the ridge.
     </p>
 
     <p>
@@ -99,18 +112,14 @@
         The north east face of the ridge (ie. the Chapman side) has mostly good native cover with only a few major infestations of weeds. Conversely, the south-west facing side of the ridge has major infestations of weeds.
     </p>
 
-    <p>
-        The group is working towards changing this ratio.
-    </p>
-
     <h3>Types</h3>
 
     <p>
-        There are large number of different types of weeds on the ridge. They cover a wide spectrum size, significance and effort on the part of the group to control them.
+        There are large number of different types of weeds on the ridge. They cover a wide range of sizes, forms and problems.
     </p>
 
     <p>
-        There are however only approximately a dozen weed species that constitute the main bulk of the weeds on the ridge. Each of these species is quite easy to identify, even for a novice. The following is a shortened list of the main weeds found on the ridge plus information about their identification, distribution and control. For a complete list of all weeds found on the Cooleman Ridge Nature Reserve, please see our <a href="https://en.wikipedia.org/wiki/Bush_regeneration#Bradley_method">Plant Survey</a>.
+        There are however only approximately a dozen weed species that constitute the main bulk of the weeds on the ridge. The following is a shortened list of the main weeds found on the ridge plus information about their identification, distribution and control. For a complete list of all weeds found on the Cooleman Ridge Nature Reserve, please see our <a href="https://en.wikipedia.org/wiki/Bush_regeneration#Bradley_method">Plant Survey</a>.
     </p>
 
     <div class="panel panel-success">
@@ -146,11 +155,11 @@
             <img src="images/phalaris.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
 
             <p>
-                <a href="https://en.wikipedia.org/wiki/Phalaris_aquatica">Canary Grass</a> is a large, thick, perenial tussock grass. It grows well during the spring and dries out in the summer. In mass plantings, it forms thick mats that dominate all other plants. It is a pasture grass that was deliberately planted by former pastoralists to signficantly increase the amount of feed available for their grazing animals. It is a native of Southern Africa and has adapted to being grazed by large herbivores.
+                <a href="https://en.wikipedia.org/wiki/Phalaris_aquatica">Canary Grass</a> is a large, thick, perenial tussock grass. It grows well during the spring and dries out in the summer. In mass plantings, it forms thick mats that dominate all other plants. It is a pasture grass that was deliberately planted by former pastoralists to signficantly increase the amount of feed available for their grazing animals. It is a native of Southern Europe and has adapted to being grazed by large herbivores.
             </p>
 
             <p>
-                Canary Grass is also significant because it is the most significant fuel source for grass fires on the ridge. The very qualities that made it a good pasture grass (thick, tall and fast growing) are the very qualities that make it the biggest fire hazard on the ridge. It can rapidly increase the speed and intensity of grass fires. Eliminating Canary Grass is important part of minimising dangerous grass fires on the ridge. See our <a href="fire.php"> Fire</a> page for more information.
+                Canary Grass is also significant because it is a major fuel source for grass fires on the ridge.  Eliminating Canary Grass is important part of minimising dangerous grass fires on the ridge. See our <a href="fire.php"> Fire</a> page for more information.
             </p>
 
             <p>
@@ -176,7 +185,7 @@
             </p>
 
             <p>
-                 Aaron's Rod is very common in Canberra nature parks and is widely dispersed throughout the ridge. The best examples found are in the <a href="groupareas.php">Kathner Street group area</a>. It is easily identified and is normally the first weed newcomers weed.
+               Aaron's Rod is very common in Canberra nature parks and is widely dispersed throughout the ridge. The best examples found are in the <a href="groupareas.php">Kathner Street group area</a>. It is easily identified and is normally the first weed newcomers weed.
             </p>
 
             <p>
@@ -322,7 +331,7 @@
             <img src="images/fleabane.jpg" style="height:100px;width:100px;float:left;padding:0px;margin: 5px"/>
 
             <p>
-                <a href="https://en.wikipedia.org/wiki/Erigeron_bonariensis">Fleabane</a> is a large slender herbaceous weed. It germinates into a small rosette in the winter and grows rapidly to approximately 1m in height. It grow in large thickets.
+                <a href="https://en.wikipedia.org/wiki/Erigeron_bonariensis">Fleabane</a> is a large slender herbaceous weed. It germinates into a small rosette in the winter and grows rapidly to approximately 1m in height. It grows in large and dense thickets.
             </p>
 
             <p>

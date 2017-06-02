@@ -10,31 +10,65 @@
 
     <h2 class="page-header">Group Areas</h2>
 
-    <p>Group Areas have been defined for where regular group work is perform.</p>
+    <p>
+        The group has defined several Group Areas. These areas are areas we work regularly work on a specific on the ridge as a group.
+    </p>
 
-    <p>The group areas are a critical part of the groups <a href="strategy.php">strategy</a> to rehabilitate the ridge.</p>
+    <p>
+        The main purpose of the Group Areas area is to be the venue where one of a regularly monthly <a href="meetings#groupmeetings">group meetings</a> take place. The group rotates through the group areas and means that a group area is visited approximately 3 or 4 times a year, once per season.
+    </p>
 
-    <p>The main focus of the group area is to be the place  were one of a regularly monthly <a href="meetings#groupmeetings">group meetings</a> take place. The group rotates through the group areas and means that a group area is visited approximately 3 or 4 times a year, once per season.</p>
-
-    <p>The work areas also serve the role of being of showpieces of the what the ridge has to offer and what the group has achieved.</p>
-
-    <p>The group areas allow the group to focus on the areas are most valuable and thus help in maximising the return on our work</p>
-
-    <p>The group work areas have shown major improvements over the years, with some of the areas now being very close to their original state. The group areas demonstrate the effectivess of the groups strategy and help encourage other people to help join the group and contribute to the work that we do.</p>
-
-    <p> The long term goal for the group work areas is to progessively expand them and link them with other group areas or with other <a href="individualareas.php">individual work areas</a>.
-
-        groug areas form the future basis from which to expand and eventually link them up. the nucleus for future expansion. We focus on the best areas. We also try to link the areas eventually.</p>
-
-    <p>The groups areas have been selected based on a variety of criteria. These include:
+    <p>
+        The groups has defined 5 main group areas:
         <ul>
-           <li>Ease of Access</li>
-           <li>Ecological Value</li>
-           <li>Work Value</li>
+            <li>Group Area North</li>
+            <li>Group Area Central</li>
+            <li>Group Area South</li>
         </ul>
     </p>
 
-    <p>Click on a coloured area for more information about the individual group areas.</p>
+    <p>
+        The groups areas have been selected based on a variety of criteria. These include:
+        <ul>
+            <li>Ease of Access</li>
+            <li>Ecological Value</li>
+            <li>Work Value</li>
+        </ul>
+    </p>
+
+    <p>
+        The Group Areas are an important part of the groups <a href="strategy.php">strategy</a> to rehabilitate the ridge. The main functions of the Group Work Areas include the following:
+
+        <ul>
+            <li>
+                Form the basis of the long term goal to restore the health of the ridge.
+            </li>
+            <li>
+                Act as reservoir of high quality biological diversity to form the nuculeus of future expansion ont the ridge.
+            </li>
+            <li>
+                Act as showpieces of the what the ridge has to offer for both educational iand inspirational purposes.
+            </li>
+            <li>
+                Allow the group to focus on the areas are most valuable and thus help in maximising the return on our work.
+            </li>
+            <li>
+                Demonstrate the effectivess of the groups strategy
+            </li>
+            <li>
+                Promotes the work of the group  and help encourages other people to help.
+            </li>
+        </ul>
+    </p>
+
+    <p>
+        The group work areas have shown major improvements over the years, with some of the areas now being very close to their original state. The long term goal for the group work areas is to progessively expand them and link them with other group areas or with other <a href="individualareas.php">individual work areas</a>.
+    </p>
+
+
+    <p>
+        Click on a coloured area for more information about the individual group areas.
+    </p>
 
     <div id="groupareas" style="width:750px;height:600px;"></div>
 

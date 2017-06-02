@@ -11,40 +11,110 @@
 
             <h2 class="page-header">Fire</h2>
 
-            <p>Fire is an important part of the ecology of the ridge. Fire has played a part for thousands of years.</p>
+            <p>Fire is an important part of the ecology and long term management of the ridge. Fire has played a sometimes controversial part in the ridge. This page is intended to give a brief overview of the histroy, role and management of fire on the ridge.</p>
+
+
+            <h3>History</h3>
 
             <!-- Today -->
 
-            <p>Fire on the ridge nowdays can be planned or unplanned. Planned fires are conduct by the rural fire service with the objective being to reduce the amount of fuel. This helps reduce the possibility and intensity of an uncontrolled fires on the ridge.</p>
+            <p>The history of fire on the ridge has stronly followed the <a href="history.php"> history</a> of the ridge itself. the role of humans has been the most significant factor in the frequency, intensity and effect of fires on the ridge.</p>
 
-            <!-- Regeneration -->
+            <p>Fire has been present on the ridge for millions of years.</p>
 
-            <p>A balanced fire management regime can have significantly assist in the regeneration of the bush. Too much and things don't do well. To little and things don't do well.</p>
+            <p>Artificial burning was introduced by Aborigines who regularly burned, low intenstity burns. to better manage the land for their purposes</p>
 
-            <p>Native generally respond better to regular burns than exotics. Burns help accelerate the regeneration of native plants and grasses in particular.</p>
+            <p>European settlers generally believed that fire was only bad as it not only destroyed food but risked destroying intrastructure such as fences, sheds and homes. Fire was therefore generally suppressed.</p>
 
-            <p>Controlled burns also provide a great opportunity for the group. The group takes advantage of control burns as a good opportunity. Vegetation cover is reduced, weeds are more visible and easier to remove.</p>
+            <p>When the ridge was converted from a grazing property to a nature service in the 1980s, there were very few fires occured on the ridge prior to january 2003.</p>
 
-            <!-- Hazard Reduction -->
+            <p>Since January 2003n the ridge nowdays can be planned or unplanned. Planned fires are conducted by the rural fire service with the objective being to reduce the amount of fuel. This helps reduce the possibility and intensity of an uncontrolled fires on the ridge.</p>
 
-            <a href="http://www.environment.act.gov.au/ACT-parks-conservation/bushfire_management/prescribed-burns">hazard reduction burn programme</a>
 
-            <p>The group plays an important role in reducing the risk, intensity and impact of unplanned fires.
+            <p>Since then fires have been a regular occurrence. Since the 20003 fires are now more actively managed.</p>
 
-            <p>Many pasture grasses (such as Phalaris, Rye Grass, Fescue and Wild Oats), were deliberately introduced by former graziers when the ridge used to be part of pastoral properties.
 
-                They were introduced because native grasses were considered to be a poor food source for large grazing animals (eg. horses, cows, sheep).
+            <h3>Management</h3>
 
-                These pasture grasses have  a much larger biomass.
-
-                Their fuel load is therefore much smaller than introduced pasture grasses.
-
+            <p>
+                fires are now managed different. The right balance between too much and too little fire.
             </p>
 
-            <p>Introduced pasture grasses when they are no longer grazed pose a significant fire hazard..</p>
+            <p>
+                Fires are manage by the rural service.
+            </p>
+
+            <p>
+                controlled burns have been a regular almost annual feature of the fire management on the ridge since
+            </p>
+
+            <p>
+                Controlled burns typically target only a small area of the ridge at a time. Progressively overtime, the ridge is burnt. This pattern of burning mosaic burning.
+            </p>
 
 
-                These grasses when  grazed regularly have a minimal affect. However, when they are no longer grazed, they dry out
+            <p>
+                The use of controlled of hazard reduction burns has many secondary benefits on the ridge.</p>
+            <a href="http://www.environment.act.gov.au/ACT-parks-conservation/bushfire_management/prescribed-burns">hazard reduction burn programme
+            </a>
+
+            <h3>Weeds</h3>
+
+            <p>
+                Weeds play an important factor in the role of fire on the ridge.
+            </p>
+
+            <p>
+                A balanced fire management regime can be beneficial to both humans and the general environment.
+            </p>
+
+            <p>
+                The group plays an important role in reducing the risk, intensity and impact of unplanned fires.
+            </p>
+
+            <p>
+                Many pasture grasses (such as Phalaris, Rye Grass, Fescue and Wild Oats), were deliberately introduced by former graziers when the ridge used to be part of pastoral properties.
+            </p>
+
+            <p>
+                They were introduced because native grasses were considered to be a poor food source for large grazing animals (eg. horses, cows, sheep).
+            </p>
+
+            <p>
+                the fuel load of native grasses and forbs is generally much lower that that of many weeds.
+            </p>
+
+            <p>
+                These pasture grasses have  a much larger biomass.
+            </p>
+
+            <p>
+                The very qualities that made it a good pasture grass (thick, tall and fast growing) are the very qualities that make it the biggest fire hazard on the ridge. It can rapidly increase the speed and intensity of grass fires.
+            </p>
+
+            <p>
+                The biomass of many weeds is much greater than that of many natives. This biomass makes them a much more significant fuel source
+            </p>
+
+            <p>
+                Their fuel load is therefore much smaller than introduced pasture grasses.
+            </p>
+
+            <p>
+                many of the the weeds on the ridge play an important role in fires. they are a major fuel source.
+            </p>
+
+            <p>
+                These weeds were not a major fuel problem when they were actively grazed. However, now that regular grazing has been removed, they become a more significant problem.
+            </p>
+
+            <p>
+                Introduced pasture grasses when they are no longer grazed pose a significant fire hazard.
+            </p>
+
+
+            <p>
+                These grasses when  grazed regularly have a minimal affect. However, when they are no longer grazed, they dry out</p>
 
             <p>Most native grasses on the ridge, in contrast are much smaller and sparse. They pose a much smaller fire risk.
 
@@ -54,8 +124,29 @@
 
             <p>The long term goal is to remove the pasture grasses and thereby significantly reduce the associated fire hazard.</p>
 
+            <h3>Regeneration</h3>
 
-            <!--<div id="content" class="row">
+            <p>
+                A major secondary benefit of controlled burns is that these burns can signficantly accelerate the regeneration of the bush.
+            </p>
+
+            <p>
+                A balanced fire management regime can have significantly assist in the regeneration of the bush. Too much and things don't do well. To little and things don't do well.
+            </p>
+
+            <p>
+                Most of the group areas have had one or more burns on them. This has significantly enhanced the ratural regeneration process.
+            </p>
+
+            <p>
+                Native generally respond better to regular burns than exotics. Burns help accelerate the regeneration of native plants and grasses in particular.
+            </p>
+
+            <p>
+                Controlled burns also provide a great opportunity for the group. The group takes advantage of control burns as a good opportunity. Vegetation cover is reduced, weeds are more visible and easier to remove.
+            </p>
+
+            <div id="content" class="row">
 				<div class="span12">
 					<h2>Fire on Cooleman Ridge, Saturday 18th January 2003</h2>
 
@@ -219,6 +310,6 @@
 					</p>
 
 					<h3>More information</h3>
--->
+
 
 			<?php include 'footer.php'; ?>

@@ -13,6 +13,8 @@
 
             <p>Fire is an important part of the ecology and long term management of the ridge. Fire has played a sometimes controversial part in the ridge. This page is intended to give a brief overview of the histroy, role and management of fire on the ridge.</p>
 
+            <p>Foo</p>
+
 
             <h3>History</h3>
 

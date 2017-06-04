@@ -95,10 +95,20 @@ img{
 }*/
 
 .jumbotron {
-	background-color: #ba7025; /* Orange */
-	color: #ffffff;
+	background-color: #ffffff; /* Orange */
+	color: #ba7025;
 }
 
 .gsc-input {
 	color : black;
 }
+
+.navbar-default .navbar-nav {
+	font-weight:bold;
+}
+.navbar-default .navbar-nav li a{
+	color:#ba7025;
+	font-family:arial;
+}
+
+

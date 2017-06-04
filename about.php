@@ -3,8 +3,8 @@ include 'header.php';
 ?>
 
 <ul class="breadcrumb">
-    <li><a href="#">Home</a></li>
-    <li><a href="#">Our Group</a></li>
+    <li>Home</li>
+    <li>Our Group</li>
     <li class="active">About</li>
 </ul>
 

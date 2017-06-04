@@ -3,9 +3,9 @@
 
     <!-- Breadcrumb -->
     <ul class="breadcrumb">
-        <li><a href="#">Home</a></li>
-        <li><a href="#">Our Ridge</a></li>
-        <li><a href="#">Features</a></li>
+        <li>Home</li>
+        <li>Our Ridge</li>
+        <li>Features</li>
         <li class="active">Weeds</li>
     </ul>
 

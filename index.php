@@ -16,7 +16,6 @@
         <div class="row">
             <div class="col-sm-2">&nbsp;</div>
             <div class="col-sm-8">
-
                 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
                     <!-- Indicators -->
                     <ol class="carousel-indicators">
@@ -28,19 +27,31 @@
                     <!-- Wrapper for slides -->
                     <div class="carousel-inner" role="listbox">
                         <div class="item active">
-                            <img src="images/IMG_7250.jpg" alt="...">
+                            <img src="photos/Rainbow%20Arawang%20full.jpg" alt="...">
                             <!--<div class="carousel-caption">
                                 Foo
                             </div>-->
                         </div>
                         <div class="item">
-                            <img src="images/IMG_7267.jpg" alt="...">
+                            <img src="photos/p1010769.jpg" alt="...">
                             <!--<div class="carousel-caption">
                                 Bar
                             </div>-->
                         </div>
                         <div class="item">
-                            <img src="images/IMG_7268.jpg" alt="...">
+                            <img src="photos/p1030014.jpg" alt="...">
+                            <!--<div class="carousel-caption">
+                                Bar
+                            </div>-->
+                        </div>
+                        <div class="item">
+                            <img src="photos/p1030834.jpg" alt="...">
+                            <!--<div class="carousel-caption">
+                                Bar
+                            </div>-->
+                        </div>
+                        <div class="item">
+                            <img src="photos/p1030846.jpg" alt="...">
                             <!--<div class="carousel-caption">
                                 Bar
                             </div>-->

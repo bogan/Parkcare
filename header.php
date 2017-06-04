@@ -79,7 +79,9 @@
     <div class="jumbotron text-left">
 
         <div>
-            <h1>Cooleman Ridge Parkcare Group</h1>
+            <img src="images/logo1.jpg" style="width:100px; float:left; padding:5px; border:none">
+
+            <span style="font-size:250%;margin:50px;vertical-align:middle">Cooleman Ridge Parkcare Group</span>
         </div>
 
         <div style="width:300px;float:right">
@@ -102,7 +104,6 @@
         <div class="container-fluid">
 
             <div class="navbar-header">
-                <img src="images/logo1.jpg" width=54 height=50 style="float:left; padding:5px; border:none">
                 <a class="navbar-brand" href="index.php"><span style="color:#ba7025;font-family:arial;">Home</span></a>
             </div>
 
@@ -111,11 +112,10 @@
 
                     <!-- Our Group -->
                     <li class="dropdown">
-                        <a tabindex="0" aria-expanded="false" data-toggle="dropdown" data-submenu="">
-                            Our Group<span class="caret"></span></a>
+                        <a class="menuitem" tabindex="0" aria-expanded="false" data-toggle="dropdown" data-submenu="">Our Group<span class="caret"></span></a>
 
                         <ul class="dropdown-menu">
-                            <li><a href="about.php">About</a></li>
+                            <li class="menuitem" ><a href="about.php">About</a></li>
                             <li><a href="organisation.php">Organisation</a></li>
                             <li><a href="partners.php">Partners</a></li>
                             <li><a href="news.php">News</a></li>
@@ -196,7 +196,7 @@
                         <ul class="dropdown-menu">
                             <li><a href="map.php">Map</a></li>
                             <li><a href="coordinates.php">Coordinates</a></li>
-                            <li><a href="links.php">Coordinates</a></li>
+                            <li><a href="links.php">Links</a></li>
                         </ul>
                     </li>
                 </ul>

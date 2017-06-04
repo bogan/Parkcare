@@ -1,5 +1,11 @@
 			<?php $title = 'Members';	?>
 			<?php include 'header.php'; ?>
+
+            <ul class="breadcrumb">
+                <li>Home</li>
+                <li>Our Ridge</li>
+                <li class="active">History</li>
+            </ul>
 			
 			<div>
 				<h2>History</h2>

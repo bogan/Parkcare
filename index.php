@@ -27,179 +27,129 @@
                     <!-- Wrapper for slides -->
                     <div class="carousel-inner" role="listbox">
                         <div class="item active">
-                            <img src="photos/Rainbow%20Arawang%20full.jpg" alt="...">
+                            <img src="images/Rainbow%20Arawang%20full.jpg" alt="...">
                             <!--<div class="carousel-caption">
                                 Foo
                             </div>-->
                         </div>
                         <div class="item">
-                            <img src="photos/bluewren.jpg" alt="...">
+                            <img src="images/bluewren.jpg" alt="...">
                             <!--<div class="carousel-caption">
                                 Bar
                             </div>-->
                         </div>
                         <div class="item">
-                            <img src="photos/turtle.jpg" alt="...">
+                            <img src="images/turtle.jpg" alt="...">
                             <!--<div class="carousel-caption">
                                 Bar
                             </div>-->
                         </div>
                         <div class="item">
-                            <img src="photos/lizard2.jpg" alt="...">
+                            <img src="images/lizard2.jpg" alt="...">
                             <!--<div class="carousel-caption">
                                 Bar
                             </div>-->
                         </div>
                         <div class="item">
-                            <img src="photos/noisyminer.jpg" alt="...">
+                            <img src="images/noisyminer.jpg" alt="...">
                             <!--<div class="carousel-caption">
                                 Bar
                             </div>-->
                         </div>
                         <div class="item">
-                            <img src="photos/silvereye.jpg" alt="...">
+                            <img src="images/silvereye.jpg" alt="...">
                             <!--<div class="carousel-caption">
                                 Bar
                             </div>-->
                         </div>
                         <div class="item">
-                            <img src="photos/currawong.jpg" alt="...">
+                            <img src="images/currawong.jpg" alt="...">
                             <!--<div class="carousel-caption">
                                 Bar
                             </div>-->
                         </div>
                         <div class="item">
-                            <img src="photos/woodduck3.jpg" alt="...">
+                            <img src="images/woodduck3.jpg" alt="...">
                             <!--<div class="carousel-caption">
                                 Bar
                             </div>-->
                         </div>
                         <div class="item">
-                            <img src="photos/redneckedwallaby.JPG" alt="...">
-                            <!--<div class="carousel-caption">
-                                Bar
-                            </div>-->
-                        </div>
-
-                        <div class="item">
-                            <img src="images/redbrestedrobin.jpg" alt="...">
-                            <!--<div class="carousel-caption">
-                                Bar
-                            </div>-->
-                        </div>
-                        <div class="item">
-                            <img src="images/magpielock.jpg" alt="...">
-                            <!--<div class="carousel-caption">
-                                Bar
-                            </div>-->
-                        </div>
-                        <div class="item">
-                            <img src="images/majormitchell.jpg" alt="...">
-                            <!--<div class="carousel-caption">
-                                Bar
-                            </div>-->
-                        </div>
-
-                        <div class="item">
-                            <img src="images/kestrels.jpg" alt="...">
-                            <!--<div class="carousel-caption">
-                                Bar
-                            </div>-->
-                        </div>
-                        <div class="item">
-                            <img src="images/finch.jpg" alt="...">
-                            <!--<div class="carousel-caption">
-                                Bar
-                            </div>-->
-                        </div>
-
-                        <div class="item">
-                            <img src="images/echidna.jpg" alt="...">
-                            <!--<div class="carousel-caption">
-                                Bar
-                            </div>-->
-                        </div>
-
-                        <div class="item">
-                            <img src="images/drgbw.jpg" alt="...">
+                            <img src="images/redneckedwallaby.JPG" alt="...">
                             <!--<div class="carousel-caption">
                                 Bar
                             </div>-->
                         </div>
 
 
-
-
-
-
                         <div class="item">
-                            <img src="photos/landscape1.jpg" alt="...">
+                            <img src="images/landscape1.jpg" alt="...">
                             <!--<div class="carousel-caption">
                                 Bar
                             </div>-->
                         </div>
                         <div class="item">
-                            <img src="photos/landscape2.jpg" alt="...">
+                            <img src="images/landscape2.jpg" alt="...">
                             <!--<div class="carousel-caption">
                                 Bar
                             </div>-->
                         </div>
                         <div class="item">
-                            <img src="photos/landscape3.jpg" alt="...">
+                            <img src="images/landscape3.jpg" alt="...">
                             <!--<div class="carousel-caption">
                                 Bar
                             </div>-->
                         </div>
                         <div class="item">
-                            <img src="photos/landscape4.jpg" alt="...">
+                            <img src="images/landscape4.jpg" alt="...">
                             <!--<div class="carousel-caption">
                                 Bar
                             </div>-->
                         </div>
                         <div class="item">
-                            <img src="photos/landscape5.jpg" alt="...">
+                            <img src="images/landscape5.jpg" alt="...">
                             <!--<div class="carousel-caption">
                                 Bar
                             </div>-->
                         </div>
                         <div class="item">
-                            <img src="photos/landscape6.jpg" alt="...">
+                            <img src="images/landscape6.jpg" alt="...">
                             <!--<div class="carousel-caption">
                                 Bar
                             </div>-->
                         </div>
                         <div class="item">
-                            <img src="photos/landscape7.jpg" alt="...">
+                            <img src="images/landscape7.jpg" alt="...">
                             <!--<div class="carousel-caption">
                                 Bar
                             </div>-->
                         </div>
                         <div class="item">
-                            <img src="photos/landscape8.jpg" alt="...">
+                            <img src="images/landscape8.jpg" alt="...">
                             <!--<div class="carousel-caption">
                                 Bar
                             </div>-->
                         </div>
                         <div class="item">
-                            <img src="photos/landscape9.jpg" alt="...">
+                            <img src="images/landscape9.jpg" alt="...">
                             <!--<div class="carousel-caption">
                                 Bar
                             </div>-->
                         </div>
                         <div class="item">
-                            <img src="photos/landscape10.jpg" alt="...">
+                            <img src="images/landscape10.jpg" alt="...">
                             <!--<div class="carousel-caption">
                                 Bar
                             </div>-->
                         </div>
                         <div class="item">
-                            <img src="photos/landscape11.jpg" alt="...">
+                            <img src="images/landscape11.jpg" alt="...">
                             <!--<div class="carousel-caption">
                                 Bar
                             </div>-->
                         </div>
                         <div class="item">
-                            <img src="photos/landscape12.jpg" alt="...">
+                            <img src="images/landscape12.jpg" alt="...">
                             <!--<div class="carousel-caption">
                                 Bar
                             </div>-->

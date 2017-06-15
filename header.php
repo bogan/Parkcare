@@ -43,7 +43,14 @@
 			 }); 
 		</script>
 
+        <style type="text/css">
 
+            .gsc-control-cse {
+                opacity: 1;
+                background-color: #f8f8f8;
+            }
+
+        </style>
 
        <!--<style type="text/css">
 			td
@@ -79,11 +86,7 @@
     <div class="jumbotron text-left" >
 
         <div>
-            <img src="images/logo1.jpg" style="width:100px; float:left; padding:5px; border:none">
-
             <span style="font-size:250%;margin:50px;vertical-align:middle">Cooleman Ridge Parkcare Group</span>
-
-
 
         </div>
 
@@ -93,7 +96,7 @@
         <div class="container-fluid">
 
             <div class="navbar-header">
-                <a class="navbar-brand" href="index.php"><span style="color:#ba7025;font-family:arial;">Home</span></a>
+                <a class="navbar-brand" href="index.php"><span>Home</span></a>
             </div>
 
             <div>
@@ -104,12 +107,12 @@
                         <a class="menuitem" tabindex="0" aria-expanded="false" data-toggle="dropdown" data-submenu="">Our Group<span class="caret"></span></a>
 
                         <ul class="dropdown-menu">
-                            <li class="menuitem" ><a href="about.php">About</a></li>
-                            <li><a href="organisation.php">Organisation</a></li>
-                            <li><a href="partners.php">Partners</a></li>
-                            <li><a href="news.php">News</a></li>
-                            <li><a href="documents.php">Documents</a></li>
-                            <li><a href="contact.php">Contact</a></li>
+                            <li class="menuitem"><a href="about.php">About</a></li>
+                            <li class="menuitem"><a href="organisation.php">Organisation</a></li>
+                            <li class="menuitem"><a href="partners.php">Partners</a></li>
+                            <li class="menuitem"><a href="news.php">News</a></li>
+                            <li class="menuitem"><a href="documents.php">Documents</a></li>
+                            <li class="menuitem"><a href="contact.php">Contact</a></li>
                         </ul>
                     </li>
 
@@ -119,20 +122,20 @@
                             Our Ridge<span class="caret"></span></a>
 
                         <ul class="dropdown-menu">
-                            <li><a href="location.php">Location</a></li>
-                            <li><a href="history.php">History</a></li>
+                            <li class="menuitem"><a href="location.php">Location</a></li>
+                            <li class="menuitem"><a href="history.php">History</a></li>
                             <li class="dropdown-submenu">
                                 <a tabindex="0">Features</a>
                                 <ul class="dropdown-menu">
-                                    <li><a tabindex="0" href="earth.php">Earth</a></li>
-                                    <li><a tabindex="0" href="fire.php">Fire</a></li>
-                                    <li><a tabindex="0" href="water.php">Water</a></li>
-                                    <li><a tabindex="0" href="flora.php">Flora</a></li>
-                                    <li><a tabindex="0" href="fauna.php">Fauna</a></li>
-                                    <li><a tabindex="0" href="hills.php">Hills</a></li>
-                                    <li><a tabindex="0" href="plantations.php">Plantations</a></li>
-                                    <li><a tabindex="0" href="trails.php">Trails</a></li>
-                                    <li><a tabindex="0" href="weeds.php">Weeds</a></li>
+                                    <li class="menuitem"><a tabindex="0" href="earth.php">Earth</a></li>
+                                    <li class="menuitem"><a tabindex="0" href="fire.php">Fire</a></li>
+                                    <li class="menuitem"><a tabindex="0" href="water.php">Water</a></li>
+                                    <li class="menuitem"><a tabindex="0" href="flora.php">Flora</a></li>
+                                    <li class="menuitem"><a tabindex="0" href="fauna.php">Fauna</a></li>
+                                    <li class="menuitem"><a tabindex="0" href="hills.php">Hills</a></li>
+                                    <li class="menuitem"><a tabindex="0" href="plantations.php">Plantations</a></li>
+                                    <li class="menuitem"><a tabindex="0" href="trails.php">Trails</a></li>
+                                    <li class="menuitem"><a tabindex="0" href="weeds.php">Weeds</a></li>
                                 </ul>
                             </li>
                         </ul>
@@ -145,30 +148,30 @@
                         </a>
 
                         <ul class="dropdown-menu">
-                            <li><a href="strategy.php">Strategy</a></li>
-                            <li><a href="activities.php">Actvities</a></li>
-                            <li><a href="meetings.php">Meetings</a></li>
+                            <li class="menuitem"><a href="strategy.php">Strategy</a></li>
+                            <li class="menuitem"><a href="activities.php">Actvities</a></li>
+                            <li class="menuitem"><a href="meetings.php">Meetings</a></li>
                             <li class="dropdown-submenu">
                                 <a tabindex="0">Areas</a>
                                 <ul class="dropdown-menu">
-                                    <li><a tabindex="0" href="groupareas.php">Group</a></li>
-                                    <li><a tabindex="0" href="individualareas.php">Individual</a></li>
-                                    <li><a tabindex="0" href="specialpurposeareas.php">Special Purpose</a></li>
+                                    <li class="menuitem"><a tabindex="0" href="groupareas.php">Group</a></li>
+                                    <li class="menuitem"><a tabindex="0" href="individualareas.php">Individual</a></li>
+                                    <li class="menuitem"><a tabindex="0" href="specialpurposeareas.php">Special Purpose</a></li>
                                 </ul>
                             </li>
                             <li class="dropdown-submenu">
                                 <a tabindex="0" href="surveys.php">Surveys</a>
                                 <ul class="dropdown-menu">
-                                    <li><a tabindex="0" href="plants.php">Plants</a></li>
-                                    <li><a tabindex="0" href="animals.php">Animals</a></li>
-                                    <li><a tabindex="0" href="trees.php">Trees</a></li>
-                                    <li><a tabindex="0" href="blackberrys.php">Blackberrys</a></li>
-                                    <li><a tabindex="0" href="woodyweeds.php">Woody Weeds</a></li>
-                                    <li><a tabindex="0" href="fires.php">Fires</a></li>
-                                    <li><a tabindex="0" href="dams.php">Dams</a></li>
+                                    <li class="menuitem"><a tabindex="0" href="plants.php">Plants</a></li>
+                                    <li class="menuitem"><a tabindex="0" href="animals.php">Animals</a></li>
+                                    <li class="menuitem"><a tabindex="0" href="trees.php">Trees</a></li>
+                                    <li class="menuitem"><a tabindex="0" href="blackberrys.php">Blackberrys</a></li>
+                                    <li class="menuitem"><a tabindex="0" href="woodyweeds.php">Woody Weeds</a></li>
+                                    <li class="menuitem"><a tabindex="0" href="fires.php">Fires</a></li>
+                                    <li class="menuitem"><a tabindex="0" href="dams.php">Dams</a></li>
                                 </ul>
                             </li>
-                            <li><a href="contribute.php">Contribute</a></li>
+                            <li class="menuitem"><a href="contribute.php">Contribute</a></li>
 
 
                         </ul>
@@ -189,6 +192,7 @@
                     })();
                 </script>
                 <gcse:search></gcse:search>
+
 
             </div>
         </div>

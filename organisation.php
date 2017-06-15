@@ -9,12 +9,12 @@
 
     <h2>Organisation</h2>
 
-    <p>The following gives  a brief overview of the general organisaiton of the group.</p>
+    <p>The following gives a brief overview of the general organisaiton of the group.</p>
 
     <h3 id=""membership">Membership</h3>
 
     <p>
-        The Cooleman Ridge Parkcare group is a voluntary community organisation. Membership is free and easy. You can be choose to be an 'active' that attends <a href="meetings.php#groupmeetings">group meetings</a> or maintains an <a href="individualareas.php">invididual area</a> or you can just be 'passive' member that only receives correspondence such as the <a href="news.php">newsletter</a>.
+        The Cooleman Ridge Parkcare group is a voluntary community organisation and membership of the group is free and easy. You can choose eitherto be an 'active' that attends <a href="meetings.php#groupmeetings">group meetings</a> or maintains an <a href="individualareas.php">individual area</a> or you can just be 'passive' member that only receives correspondence such as the <a href="news.php">newsletter</a>.
     </p>
 
     <p>

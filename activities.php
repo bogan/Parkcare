@@ -2,8 +2,8 @@
 <?php include 'header.php'; ?>
 
     <ul class="breadcrumb">
-        <li><a href="#">Home</a></li>
-        <li><a href="#">Our Work</a></li>
+        <li>Home</li>
+        <li>Our Work</li>
         <li class="active">Activities</li>
     </ul>
 

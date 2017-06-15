@@ -109,6 +109,17 @@ img{
 .navbar-default .navbar-nav li a{
 	color:#ba7025 ;
 	font-family:arial;
+	font-size: 20px;
+}
+.navbar-default .navbar-brand{
+	color:#ba7025 ;
+	font-family:arial;
+	font-size: 20px;
+}
+.navbar-default .navbar-nav li a .menuitem{
+	color:#ba7025 ;
+	font-family:arial;
+	font-size: 16px;
 }
 
 .gsc-search-button {
@@ -122,7 +133,7 @@ img{
 	opacity: 1;
 }
 
-.gsc-control-cse, .gsc-control-cse-en {
+.cse .gsc-control-cse {
 	opacity: 1;
 	background-color: #f8f8f8;
 }
@@ -138,7 +149,8 @@ gs-result.gs-webResult a.gs-title:hover, .gs-result.gs-webResult a.gs-title:hove
 .jumbotron {
 	background-image: url("../images/header.jpg");
 	background-size: cover;
-	height:100%
+	height:100%;
+	margin-bottom: 0px;
 }
 
 

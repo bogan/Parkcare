@@ -61,7 +61,7 @@ th.headerSortDown {
 
 h2,h3,h4
 {
-    color:#ba7025;
+    color:#ba7025 ;
     font-family:ARIAL;
 }
 
@@ -96,7 +96,7 @@ img{
 
 .jumbotron {
 	background-color: #ffffff; /* Orange */
-	color: #ba7025;
+	color: #ba7025 ;
 }
 
 .gsc-input {
@@ -107,8 +107,39 @@ img{
 	font-weight:bold;
 }
 .navbar-default .navbar-nav li a{
-	color:#ba7025;
+	color:#ba7025 ;
 	font-family:arial;
 }
+
+.gsc-search-button {
+	box-sizing: content-box;
+}
+
+#___gcse_0 {
+	float: right;
+
+	width:300px;
+	opacity: 1;
+}
+
+.gsc-control-cse, .gsc-control-cse-en {
+	opacity: 1;
+	background-color: #f8f8f8;
+}
+
+.gsc-webResult{
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+gs-result.gs-webResult a.gs-title:hover, .gs-result.gs-webResult a.gs-title:hover b, .gs-imageResult a.gs-title:hover, .gs-imageResult a.gs-title:hover b *{
+	color:#ba7025 ;
+}
+
+.jumbotron {
+	background-image: url("../images/header.jpg");
+	background-size: cover;
+	height:100%
+}
+
 
 

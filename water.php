@@ -1,5 +1,6 @@
 <?php $title = 'Water';	?>
 <?php include 'header.php'; ?>
+<?php include 'articleheader.php'; ?>
 
     <ul class="breadcrumb">
         <li>Home</li>
@@ -18,4 +19,5 @@
 
     <p>These dams have been survey over the years. Please see our <a href="dams.php">Dam Survey</a> page for more details.</p>
 
+<?php include 'articlefooter.php'; ?>
 <?php include 'footer.php'; ?>

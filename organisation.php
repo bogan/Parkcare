@@ -1,9 +1,10 @@
 <?php $title = 'Members';	?>
 <?php include 'header.php'; ?>
+<?php include 'articleheader.php'; ?>
 
     <ul class="breadcrumb">
-        <li><a href="#">Home</a></li>
-        <li><a href="#">Our Group</a></li>
+        <li>Home</li>
+        <li>Our Group</li>
         <li class="active">Members</li>
     </ul>
 
@@ -11,10 +12,10 @@
 
     <p>The following gives a brief overview of the general organisaiton of the group.</p>
 
-    <h3 id=""membership">Membership</h3>
+    <h3 id="membership">Membership</h3>
 
     <p>
-        The Cooleman Ridge Parkcare group is a voluntary community organisation and membership of the group is free and easy. You can choose eitherto be an 'active' that attends <a href="meetings.php#groupmeetings">group meetings</a> or maintains an <a href="individualareas.php">individual area</a> or you can just be 'passive' member that only receives correspondence such as the <a href="news.php">newsletter</a>.
+        Membership of the group is free and easy. You can choose either to be an 'active' member that attends our regularly <a href="meetings.php#groupmeetings">group meetings</a> or maintains an <a href="individualareas.php">individual area</a> or you can just be 'passive' member that only receives correspondence such as the <a href="news.php">newsletter</a>.
     </p>
 
     <p>
@@ -24,15 +25,13 @@
     <h3 id="status">Status</h3>
 
     <p>
-        The group is not incorporated. However, the group is affiliated with the <a href="partners.php#southerncatchementgroup">Southern ACT Catchment Group</a>. This relationship provides the group certain benfits such as insurance and legal liability.
+        The group is a voluntary community organisation and not incorporated. However, the group is affiliated with the <a href="partners.php#southerncatchementgroup">Southern ACT Catchment Group</a>. This relationship provides the group certain benfits such as insurance and legal liability.
     </p>
 
     <h3 id="funding">Funding</h3>
 
     <p>
-        The group is self funded.
-
-        The group does not receive any regularly funding from the government or other organisations. It occassionally receives small amounts from special purpose grants.
+        The group is self funded and does not receive any regularly funding from the government or other organisations. It occassionally receives small amounts from special purpose grants.
     </p>
 
     <p>
@@ -44,7 +43,7 @@
     <h3 id="structure">Structure</h3>
 
     <p>
-        The group has a formal structure and has a formal <a href="news/Cooleman_Constitution.pdf">constitution</a>. The group is managed by an executive committee that is elected annually. The current structure of the group is as follows.
+        The group has a formal structure and has a formal <a href="news/Cooleman_Constitution.pdf">constitution</a>. The group is managed by an executive committee that is elected by general members annually. The current structure of the committee is as follows.
     </p>
 
     <p>
@@ -68,4 +67,5 @@
         </ul>
     </p>
 
+<?php include 'articlefooter.php'; ?>
 <?php include 'footer.php'; ?>

@@ -1,5 +1,6 @@
-			<?php $title = 'Earth';	?>
-			<?php include 'header.php'; ?>
+<?php $title = 'Earth';	?>
+<?php include 'header.php'; ?>
+<?php include 'articleheader.php'; ?>
 
             <ul class="breadcrumb">
                 <li>Home</li>
@@ -106,4 +107,5 @@
             of a Continent. Bureau of Mineral Resources Geology and Geophysics, Canberra,
             ACT.</p>
 
-			<?php include 'footer.php'; ?>
+<?php include 'articlefooter.php'; ?>
+<?php include 'footer.php'; ?>

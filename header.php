@@ -83,16 +83,13 @@
 
 	<body>
 
-    <div class="jumbotron text-left" >
-
+    <div id="banner" class="jumbotron text-left" >
         <div>
             <span style="font-size:250%;margin:50px;vertical-align:middle">Cooleman Ridge Parkcare Group</span>
-
         </div>
-
     </div>
 
-    <nav class="navbar navbar-default">
+    <nav id="navigationbar" class="navbar navbar-default">
         <div class="container-fluid">
 
             <div class="navbar-header">
@@ -198,8 +195,3 @@
         </div>
     </nav>
 
-    <div class="container" >
-        <div class="row">
-            <div class="col-sm-2">&nbsp;</div>
-            <div class="col-sm-8">
-            <!-- content starts here -->

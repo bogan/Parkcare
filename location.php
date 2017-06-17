@@ -1,8 +1,9 @@
 <?php $title = 'Location';	?>
 <?php include 'header.php'; ?>
+<?php include 'articleheader.php'; ?>
 
     <ul class="breadcrumb">
-        <li>>Home</a></li>
+        <li>Home</a></li>
         <li>Our Ridge</li>
         <li class="active">Location</li>
     </ul>
@@ -53,4 +54,5 @@
         <img align="center" alt="" height="970" src="images/ourmap.jpg" width="700">
     </div>
 
+<?php include 'articlefooter.php'; ?>
 <?php include 'footer.php'; ?>

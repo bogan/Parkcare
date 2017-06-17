@@ -1,5 +1,6 @@
 <?php $title = 'Trails';	?>
 <?php include 'header.php'; ?>
+<?php include 'articleheader.php'; ?>
 
     <ul class="breadcrumb">
         <li>Home</li>
@@ -107,5 +108,5 @@
     <p>The management trails are open to the public for use for walking, bicycle riding and in some cases horse riding.</p>
 
 
-
+<?php include 'articlefooter.php'; ?>
 <?php include 'footer.php'; ?>

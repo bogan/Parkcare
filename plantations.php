@@ -1,5 +1,6 @@
 <?php $title = 'Plantations';	?>
 <?php include 'header.php'; ?>
+<?php include 'articleheader.php'; ?>
 
     <ul class="breadcrumb">
         <li>Home</li>
@@ -47,4 +48,5 @@
 
     <script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDCD686jeBcuFYgXk6k7dCHiWakzmYS6uI&callback=initMap"></script>
 
+<?php include 'articlefooter.php'; ?>
 <?php include 'footer.php'; ?>

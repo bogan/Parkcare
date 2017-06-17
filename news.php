@@ -1,10 +1,10 @@
 <?php $title = 'News';	?>
 <?php include 'header.php'; ?>
-
+<?php include 'articleheader.php'; ?>
 
 <ul class="breadcrumb">
-    <li><a href="#">Home</a></li>
-    <li><a href="#">Our Group</a></li>
+    <li>Home</a></li>
+    <li>Our Group</a></li>
     <li class="active">News</li>
 </ul>
 
@@ -15,7 +15,7 @@
     </p>
 
     <p>
-        The newsletter contains news of <a href="meetings.php">group meetings</a>, <a href="plants.php">plant sitings</a>, <a href="animals">animal sitings</a>, government initiatives, etc. The main highlight is a section called "What's Around" segment, which includes details about a particular plant or animal specie on the ridge.
+        The newsletter contains news of <a href="meetings.php">group meetings</a>, <a href="plants.php">plant sitings</a>, <a href="animals.php">animal sitings</a>, government initiatives, etc. The main highlight is a section called "What's Around" segment, which includes details about a particular plant or animal specie on the ridge.
     </p>
 
     <p>
@@ -200,5 +200,6 @@
         </tr>
     </table>
 
+<?php include 'articlefooter.php'; ?>
 <?php include 'footer.php'; ?>
 

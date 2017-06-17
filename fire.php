@@ -1,5 +1,6 @@
-			<?php $title = 'Fire';	?>
-			<?php include 'header.php'; ?>
+<?php $title = 'Fire';	?>
+<?php include 'header.php'; ?>
+<?php include 'articleheader.php'; ?>
 
             <ul class="breadcrumb">
                 <li>Home</li>
@@ -313,5 +314,5 @@
 
 					<h3>More information</h3>
 
-
-			<?php include 'footer.php'; ?>
+<?php include 'articlefooter.php'; ?>
+<?php include 'footer.php'; ?>

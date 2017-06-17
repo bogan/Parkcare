@@ -1,8 +1,9 @@
 <?php $title = 'Documents';	?>
 <?php include 'header.php'; ?>
+<?php include 'articleheader.php'; ?>
 
     <ul class="breadcrumb">
-        <li>>Home</li>
+        <li>Home</li>
         <li>Our Group</li>
         <li class="active">Documents</li>
     </ul>
@@ -21,4 +22,5 @@
         <a href="news/Cooleman_Constitution.pdf">Constitution</a>
     </p>
 
+<?php include 'articlefooter.php'; ?>
 <?php include 'footer.php'; ?>

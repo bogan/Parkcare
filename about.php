@@ -1,6 +1,6 @@
-<?php $title = 'About';
-include 'header.php';
-?>
+<?php $title = 'About'; ?>
+<?php include 'header.php';?>
+<?php include 'articleheader.php'; ?>
 
 <ul class="breadcrumb">
     <li>Home</li>
@@ -14,6 +14,14 @@ include 'header.php';
         The Cooleman Ridge Park Care Group is a <a href="http://www.environment.act.gov.au/parks-conservation/parks-and-reserves/get-involved/parkcare-and-urban-landcare-program">Park Care</a> group that &quot;cares&quot; for the Cooleman Ridge Nature Reserve.
     </p>
 
+    <p>
+        The Cooleman Ridge Park Care Group is part of a larger network of other parkcare groups working throughout the ACT. See our <a href="partners.php">partners</a> page for more details.
+    </p>
+
+    <p>
+        You can read more about the important work that group performs in the Our Work section of the web site.
+    </p>
+
     <h3>Mission</h3>
 
     <p>
@@ -24,25 +32,6 @@ include 'header.php';
 
     <p>
         The Cooleman Ridge Park Care Group is small but active group made up of various volunteers from a variety of backgrounds, such as scientists, public servants, homekeepers. The group was formed in 1991 by three ladies - Bess Sledge, Pauline Lynga and Tina Nevins -  and now grown to have 50 registered members that contribute in various ways to the groups objectives.
-    </p>
-
-    <h3>Work</h3>
-
-    <p>
-        Please see our <a href="activities.php">Activities</a> page for more details.
-    </p>
-
-    <p>
-        You can read more about the important work that group performs in the Our Work section of the web site.
-    </p>
-
-    <p>
-        The Cooleman Ridge Park Care Group is part of a larger network of other parkcare groups working throughout the ACT. See our <a href="partners.php">partners</a> page for more details.
-    </p>
-
-    <p>
-        The ridge has been part of various rural properties and the ecology of the ridge has been significantly change to fit in with the thinking of the day.
-        The ridge has since became a nature reserve in the 1980's. Please see our <a href="history">history</a> page for a more detailed description of the history of the ridge.
     </p>
 
     <h3>Achievements</h3>
@@ -69,6 +58,6 @@ include 'header.php';
         The Cooleman Ridge Nature Reserve is one of the more damaged but there still remain many good areas. These areas serve as the nucleus of the groups efforts to restore the ecology of the ridge.
     </p>
 
-
+<?php include 'articlefooter.php'; ?>
 <?php include 'footer.php'; ?>
 

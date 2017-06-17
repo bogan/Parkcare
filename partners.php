@@ -1,9 +1,10 @@
 <?php $title = 'Partners';	?>
 <?php include 'header.php'; ?>
+<?php include 'articleheader.php'; ?>
 
 <ul class="breadcrumb">
-    <li><a href="#">Home</a></li>
-    <li><a href="#">Our Group</a></li>
+    <li>Home</a></li>
+    <li>Our Group</a></li>
     <li class="active">Partners</li>
 </ul>
 
@@ -52,13 +53,13 @@
 
     <p><a href="https://canberra.naturemapr.org.au/">Canberra Nature Map</a> is web site based on volunteers who contribute sightings of various plants, animals, etc in the various nature reserves throught the ACT and adjoing areas.</p>
 
-    <p>Canberra Nature Map assists be allowing the group to locate significant species on the ridge. It complements several of our own surveys such as the Plant Survery, the Animal Survey.</p>
+    <p>Canberra Nature Map assists the group by allowing the group to track the location of significant species on the ridge. It complements several of our own surveys such as the <a href="plants.php">Plant Survery</a>, the <a href="animals.php">Animal Survey</a>.</p>
 
     <h3>Australian National Botanical Gardens</h3>
 
     <img src="images/anbg.jpg" style="height:100px;width:100px;float:left;padding:5px;margin: 5px"/>
 
-    <p><a href="https://www.anbg.gov.au/">Australian National Botanic Gardens</a> is Australias premier organisation on botany.</p>
+    <p><a href="https://www.anbg.gov.au/">Australian National Botanic Gardens</a> is Australias premier scientific organisation on Australian flora.</p>
 
     <p>The group often liaises with the Australian National Botanic Gardens to help identify plant species found on the ridge.</p>
 
@@ -66,4 +67,5 @@
 <!---->
 <!--    <p>To be completed</p>-->
 
+<?php include 'articlefooter.php'; ?>
 <?php include 'footer.php'; ?>

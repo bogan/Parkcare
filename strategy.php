@@ -1,5 +1,6 @@
 <?php $title = 'Strategy';	?>
 <?php include 'header.php'; ?>
+<?php include 'articleheader.php'; ?>
 
     <ul class="breadcrumb">
         <li><a href="#">Home</a></li>
@@ -9,12 +10,16 @@
 
     <h2 class="page-header">Strategy</h2>
 
-    <p>The Cooleman Ridge Parkcare Group uses its own variation of the <a href="https://en.wikipedia.org/wiki/Bush_regeneration#Bradley_method">Bradley Method</a> to regenerate the bush. The effectiveness of this method is proven and is now widely accepted throughout Australian "landcare" groups as the most cost effective method to regenerated the bush.
+    <p>The strategy of group to "regenerate the bush" is based on its own variation of the <a href="https://en.wikipedia.org/wiki/Bush_regeneration#Bradley_method">Bradley Method</a>. The effectiveness of this method is proven and is now widely accepted throughout Australian "landcare" groups as the most cost-effective method to regenerated the bush.</p>
 
-        The original focus of the group was to plant new plants. Over the years, the focus of the group has switched focus from plantings to weeding. This is inline with the groups philosophy about how to most effectively restore the ecology of the group.</p>
+<p>
+    The Bradley Method is a more &quot;natural&quot; rather than an &quot;artificial&quot; approach to bush regeneration.
+</p>
+
+    <h3>Philosophy</h3>
 
     <p>
-    The  Bradley Method emphasises "weeding over planting" because it is believed that an hours weeding gives a much better return than an hours planting. This means that a well targeted and executed weeding strategy can achieve major results more cost effectively than an equivalent planting stategy. The main advantages of weeding over planting are summarised in the following table:
+    The main feature of the Bradley Method is that it emphasises "weeding over planting" because it is believed that an hours weeding gives a much better return than an hours planting. This means that a well targeted and executed weeding strategy can achieve major results more cost effectively than an equivalent planting stategy. The main advantages of weeding over planting are summarised in the following table:
     </p>
 
     <table class="table table-striped table-bordered table-hover table-condensed">
@@ -41,9 +46,32 @@
     </table>
 
     <p>
-        The effectiveness of the Bradley Method is however counter intuitive to those unfamiliar with it and does not conform with the general publics stereotypical idea of landcare groups. Planting seems to be the obvious way of restoring native vegetation. However, the main reason why weeding is more effective than planting is that the bush has a natural tendency to regenerate anyway, whether humans help or not. work with nature and not against it. However, humans can great significantly accelerate the natural regeneration process by removing competitors that prevent the bush from regeneration. Weeds compete for light, water and nutrients. Removing weeds allows struggling natives to maximise the use. The idea is to create an empty space for the bush to move into. The bush will do this naturally. All it requires from us is to create this space. This is the main reason for weeding - to remove competition and create a space.Weeding is by no means a futile activity.
+        The effectiveness of the Bradley Method is however counter intuitive to those unfamiliar with it and does not conform with the general publics stereotypical idea of landcare groups.
 
-        Mother Nature will typically do a much better job or regenerating the bush. All she needs is a helping hand. A natural rather than an artificial approach to bush regeneration.
+
+    <p>Weeding is not sexy or glamourous but it is the single most effective method for regeneration the bush.</p>
+
+    <h3>Effectiveness</h3>
+
+        Planting seems to be the obvious way of restoring native vegetation. However, the main reason why weeding is more effective than planting is that the bush has a natural tendency to regenerate anyway, whether humans help or not. work with nature and not against it. However, humans can great significantly accelerate the natural regeneration process by removing competitors that prevent the bush from regeneration. Weeds compete for light, water and nutrients. Removing weeds allows struggling natives to maximise the use. The idea is to create an empty space for the bush to move into. The bush will do this naturally. All it requires from us is to create this space. This is the main reason for weeding - to remove competition and create a space.Weeding is by no means a futile activity.
+
+        Mother Nature will typically do a much better job or regenerating the bush than humans can. All she needs is a helping hand.
+    </p>
+
+    <h3>Application</h3>
+
+    <p>The main areas that are weed are both our <a href="groupareas.php">group areas</a> and our <a href="individualareas.php">individual areas</a>. This is inline with working with the strongest areas first.</p>
+
+    <p>
+        This has many benefits
+        <ul>
+            <li>Foo</li>
+            <li>Bar</li>
+        </ul>
+    </p>
+
+    <p>
+        Some of the group areas and indivual areas have been largley cleared of many weeds. These areas are being gradually expand with the long term goal of connecting these areas together.
     </p>
 
     <h3>Weeding</h3>
@@ -54,11 +82,10 @@
 
     <p>A well planned and executed weeding stategy can have a major impact on th regeneration of the landscape.</p>
 
-    <h3>Planting</h3>
+    <p>It is important to understand that weeds are not removed simply because &quot;they don't belong&quot;, but because weeding is the most cost effective method of stimulating natural regrowth. An area that is weeded properly will regenerate much faster than an area that is not weeded or an area that is &quot;artifically&quot; regenerated with direct plantings.</p>
 
-    <p>The group performed many mass plantings in its early years. The focus of the group has steadily shifted away from planting to weeding partly because most areas have now been planted out but partly because the group believes that weeding is amore cost effective approach.</p>
 
-    <p>Planting on the ridge is often more important as means to an end rather than an end itself. Plants are often effective weeders themselves because many weeds do no complete well with large trees such as eucalypts. Trees can be thought of weeders themselves. The best example of this approach has been on the summit of Mt Arawang which was the most damaged area on the ridge with huge infestations of <a href="weeds.php#beardedoats">Scotch Thistle</a>, <a href="weeds.php#beardedoats">Fleabane</a> and <a href="weeds.php#beardedoats">Bearded Oats</a>. Large plantings of ecucalypts and acacia were used to suppress these weeds and they have now largely eliminated the presence of these weeds over time. </p>
+    <h3>Techniques</h3>
 
     <p>
         Many different weeding techniques are used on the ridge, both by the group itself as well its partners. These include:
@@ -113,7 +140,7 @@
             </p>
 
             <p>
-                Although this does not kill the plant, it prevents it from reseeding and thus prevents any future generations from replacing the plant when that plant eventually dies. A concerted over several seasons will reduce or eliminate the weed.
+                Although this does not kill the plant, it prevents it from reseeding and thus prevents any future generations from replacing the plant when that plant eventually dies. A concerted course of this technique over several seasons will reduce or eliminate the weed.
             </p>
 
             <p>
@@ -193,5 +220,5 @@
     </p>
 
 
-
+<?php include 'articlefooter.php'; ?>
 <?php include 'footer.php'; ?>

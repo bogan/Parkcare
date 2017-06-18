@@ -11,6 +11,12 @@
 
     <h2 class="page-header">Plantations</h2>
 
+    <p>The group performed many mass plantings in its early years. The focus of the group has steadily shifted away from planting to weeding partly because most areas have now been planted out but partly because the group believes that weeding is amore cost effective approach.</p>
+
+    <p>Planting on the ridge is often more important as means to an end rather than an end itself. Plants are often effective weeders themselves because many weeds do no complete well with large trees such as eucalypts. Trees can be thought of weeders themselves. The best example of this approach has been on the summit of Mt Arawang which was the most damaged area on the ridge with huge infestations of <a href="weeds.php#beardedoats">Scotch Thistle</a>, <a href="weeds.php#beardedoats">Fleabane</a> and <a href="weeds.php#beardedoats">Bearded Oats</a>. Large plantings of ecucalypts and acacia were used to suppress these weeds and they have now largely eliminated the presence of these weeds over time. </p>
+
+    <p>The original focus of the group was to plant new plants. Over the years, the focus of the group has switched focus from plantings to weeding. This is inline with the groups <a href="strategy.php">strategy</a> about how to most effectively restore the ecology of the group.</p>
+
     <p>The Cooleman Ridge Nature Reserve has several large plantations that have been planted on it.</p>
 
     <p>These plantations are made up various large trees - normally Eucalyptus and Acacia species. Some of the species are indigenous to the ridge, but many are not.</p>

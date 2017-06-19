@@ -3,24 +3,130 @@
 <?php include 'articleheader.php'; ?>
 
     <ul class="breadcrumb">
-        <li><a href="#">Home</a></li>
-        <li><a href="#">Our Work</a></li>
+        <li>Home</a></li>
+        <li>Our Work</a></li>
         <li class="active">Strategy</li>
     </ul>
 
     <h2 class="page-header">Strategy</h2>
 
-    <p>The strategy of group to "regenerate the bush" is based on its own variation of the <a href="https://en.wikipedia.org/wiki/Bush_regeneration#Bradley_method">Bradley Method</a>. The effectiveness of this method is proven and is now widely accepted throughout Australian "landcare" groups as the most cost-effective method to regenerated the bush.</p>
-
-<p>
-    The Bradley Method is a more &quot;natural&quot; rather than an &quot;artificial&quot; approach to bush regeneration.
-</p>
-
-    <h3>Philosophy</h3>
+    <p>
+        The group believes that it is important that everybody who uses the ridge, whether a member or non member, be familiar with the history, scope and types of weeds found on the ridge. This is because most inexperienced people misunderstand the nature of the weed problem on the ridge. They either confuse weeds with natives or they simply believe that everything is a weed.
+    </p>
 
     <p>
-    The main feature of the Bradley Method is that it emphasises "weeding over planting" because it is believed that an hours weeding gives a much better return than an hours planting. This means that a well targeted and executed weeding strategy can achieve major results more cost effectively than an equivalent planting stategy. The main advantages of weeding over planting are summarised in the following table:
+        This lack of <span class="highlight">understanding</span> can do more harm than good and can undermine the work that the group does. Therefore the best may the general public can help the work the group does is to just be simply aware of the nature of the weed problem, even if they do not actively weed themselves.
+    The work of the group is either poorly understood or even misunderstood by the broader community.
     </p>
+
+    <p>
+        This page is intended to better explain the what, why, when, who and how of the groups work.</p>
+
+
+    <h3>Method</h3>
+
+    <p>
+        The strategy of group to "regenerate the bush" is based on its own variation of the <a href="https://en.wikipedia.org/wiki/Bush_regeneration#Bradley_method">Bradley Method</a>. The Bradley Method is popular amongst &quot;landcare&quot; groups and is now the de-facto standard for bush regeneration groups, such as the Cooleman Ridge Parkcare Group.
+    </p>
+
+    <p>
+        The Bradley Method is based on the belief that the Australia bush has a <span class="highlight">natural tendency to regenerate itself</span>, whether humans help or not. If left alone, it will naturally regenerate but would take decades if not centuries to achieve.
+    </p>
+
+    <p>
+        However, humans can great significantly <span>accelerate</span> the natural regeneration process by removing competitors that prevent the bush from regenerating.
+    </p>
+
+    <p>
+        Weeding is a natural accelerant to regeneration, just a petrol is to a fire.
+    </p>
+
+    <p>
+        The Bradley Method is a more <span class="highlight">&quot;natural&quot; rather than an &quot;artificial&quot;</span> approach to bush regeneration.  Mother Nature will typically do a much better job or regenerating the bush than humans will ever to. All she needs is a helping hand. The idea is to tap into the bushes natural tendency to regenerate.
+
+        Planting is artificial but weeding is natural and that it is better to &quot;work with bush rather than against it&quot;. However, it is important to understand that it is not just a "idealistic" or "moral" statement, but also a highly practical one as well.
+    </p>
+
+    <p>
+        The main feature of the Bradley Method is that it <span class="highlight">emphasises</span> &quot;weeding over planting&quot; because it is believed that an hours weeding gives a much better return than an hours planting. This means that a well targeted and executed weeding strategy can achieve major results more cost effectively than an equivalent planting strategy.
+    </p>
+
+
+    <h3>Rationale</h3>
+
+    <p>
+        The main factor that prevents that the regeneration of the bush is the presence of weeds. Weeds prevent the natural regeneration of the bush in that &quot;compete&quot; for essential resources that allow natives to regenerate for their few potential. These include:
+    </p>
+
+    <p></p>
+    <ul>
+        <li>Light</li>
+        <li>Water </li>
+        <li>Nutrients</li>
+    </ul>
+
+    <p>
+        Removing weeds allows struggling natives to maximise the use of these essential resources and they will generally thrive once the resources are released. This is the main reason for weeding - to remove competition.
+    </p>
+
+    <p>
+        The effectiveness of the Bradley Method is however counter intuitive to those unfamiliar with it and does not conform with the general publics stereotypical idea of landcare groups. Planting seems to be the obvious way of restoring native vegetation.
+    </p>
+
+    Weeding is a process of "creative destruction" in that you can create natives by destroying exotices. It requires less time, energy and money to destroy than to create and this is the main reason why weeding is considered to be more cost effective than planting.
+
+    <p>
+        Weeding is not sexy nor glamorous and does not fit with the stereotypical view of landcare groups being all about planting. Weeding is however the single most effective method for regeneration the bush.
+    </p>
+
+<p>Weeding has many secondary benefits such as fuel reduction.</p>
+
+    <p>To learn more about weeds and their impacts see our dedicated <a href="weeds.php">weeds</a> page.</p>
+
+    <h3>Principles</h3>
+
+    <p>The Bradley Method is based on three main principles that guide the work that the group does. These are:</p>
+
+    <p>&nbsp;</p>
+
+    <p>
+        <ol>
+            <li>
+                Where - Secure the best areas first
+            </li>
+    The idea is to create an empty space for the bush to move into. All it requires from us is to create this space. Weeding is most effective in strong areas rather than weak areas.
+
+            <li>
+                What - Minimise disturbance to the natural conditions (e.g. minimise soil disturbance and off-target damage).The Bradley Method maintains that weeding should by lightweight rather than heavy weight.immediately next to the weed. By not causing major damage to the surrounding natives. Precision an minimise collateral damage wherever problem. Manual methods are generally preferred to mechanical methods as they are more precise and less likely to create collateral damage.
+            </li>
+
+            <li>
+                When - Don't over-clear, let the regenerative ability of the bush set the pace of clearance (Bradley 1988)</li>
+            </ol>
+    </p>
+
+    <h3>Effectiveness</h3>
+
+    <p>
+        Weeding is by no means a futile activity. Weeding is the single most effective activity to regenerate the bush.       Many think that weeding is futile because they will just come back. However, once a good native cover has been re-established, most weeds rarely reenter and when they are do they are few or weak.
+    </p>
+
+    <p>
+        The effectiveness of this method is proven and is now widely accepted throughout Australian &quot;landcare&quot; groups as the most cost-effective method to regenerated the bush.
+
+        It is important to understand that weeds are not removed simply because &quot;they don't belong&quot;, but because weeding is the most cost effective method of stimulating natural regrowth. An area that is weeded properly will regenerate much faster than an area that is not weeded or an area that is &quot;artificially&quot&quot; regenerated with direct plantings.
+
+        Weeding therefore has dual benefits - it not only decreases the exotics but also increasing the natives. The aim is to create a virutous circle.vituosc circle. The process can be slow at first (especially if the proportion of natives is low), but can rapid accelerate as the balance shifts from exotics to natives.
+    </p>
+
+    <p>
+        The main advantages of weeding over planting are summarised in the following table:
+    </p>
+
+    <div>
+        <a href="https://plot.ly/~rohanthomas68/1/?share_key=Swq9AiHhsIeqtOwXLBUkKE" target="_blank" title="Plot 1" style="display: block; text-align: center;"><img src="https://plot.ly/~rohanthomas68/1.png?share_key=Swq9AiHhsIeqtOwXLBUkKE" alt="Plot 1" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+        <script data-plotly="rohanthomas68:1" sharekey-plotly="Swq9AiHhsIeqtOwXLBUkKE" src="https://plot.ly/embed.js" async></script>
+    </div>
 
     <table class="table table-striped table-bordered table-hover table-condensed">
         <tr>
@@ -45,50 +151,62 @@
         </tr>
     </table>
 
-    <p>
-        The effectiveness of the Bradley Method is however counter intuitive to those unfamiliar with it and does not conform with the general publics stereotypical idea of landcare groups.
-
-
-    <p>Weeding is not sexy or glamourous but it is the single most effective method for regeneration the bush.</p>
-
-    <h3>Effectiveness</h3>
-
-        Planting seems to be the obvious way of restoring native vegetation. However, the main reason why weeding is more effective than planting is that the bush has a natural tendency to regenerate anyway, whether humans help or not. work with nature and not against it. However, humans can great significantly accelerate the natural regeneration process by removing competitors that prevent the bush from regeneration. Weeds compete for light, water and nutrients. Removing weeds allows struggling natives to maximise the use. The idea is to create an empty space for the bush to move into. The bush will do this naturally. All it requires from us is to create this space. This is the main reason for weeding - to remove competition and create a space.Weeding is by no means a futile activity.
-
-        Mother Nature will typically do a much better job or regenerating the bush than humans can. All she needs is a helping hand.
-    </p>
+    <table class="table table-striped table-bordered table-hover table-condensed">
+        <tr>
+            <th></th>
+            <th>Planting</th>
+            <th>Weeding</th>
+        </tr>
+        <tr>
+            <th>Time</th>
+            <td>High</td>
+            <td>Low</td>
+        </tr>
+        <tr>
+            <th>Energy</th>
+            <td>High</td>
+            <td>Low</td>
+        </tr>
+        <tr>
+            <th>Money</th>
+            <td>High</td>
+            <td>Low</td>
+        </tr>
+    </table>
 
     <h3>Application</h3>
 
-    <p>The main areas that are weed are both our <a href="groupareas.php">group areas</a> and our <a href="individualareas.php">individual areas</a>. This is inline with working with the strongest areas first.</p>
+    <p>
+        The group believes that a well planned and executed weeding strategy can have a major impact on th regeneration of the landscape.
+    </p>
 
     <p>
-        This has many benefits
+        The main means by which the the groups strategy to regenerate the bush is applied is the the creation of several <a href="groupareas.php">group areas</a> and <a href="individualareas.php">individual areas</a>. These dedicated work areas help apply the three core principles of the Bradley Method in the following way.
+
+        inline with working with the strongest areas first.
+    </p>
+
+    <p>
+        This has many benefits:
         <ul>
-            <li>Foo</li>
-            <li>Bar</li>
+            <li>Strengthening existing reserves of biodiversity.</li>
+            <li>Act as a reservoir to expand further.</li>
+            <li>Maximise the return will minimising the cost of work performed.</li>
         </ul>
     </p>
 
     <p>
-        Some of the group areas and indivual areas have been largley cleared of many weeds. These areas are being gradually expand with the long term goal of connecting these areas together.
+        Some of the group areas and individual areas have been largely cleared of many weeds. These areas are being gradually expand with the long term goal of connecting these areas together.
     </p>
-
-    <h3>Weeding</h3>
-
-    <p>
-        The Bradley Methods maintains that weeding should by lightweight rather than heavy weight. Weeding is most effective in strong areas rather than week areas. Many think that weeding is futile because they will just come back. Once a good native cover is established, most weeds rarely reenter. Work with the bush rather than against it.   immediately next to the weed. By not causing major damage to the surrounding natives. Precision an minimise collateral damage wherever problem. Manual methods are generally preferred to mechanical methods as they are more precise and less likely to create collateral damage.
-    </p>
-
-    <p>A well planned and executed weeding stategy can have a major impact on th regeneration of the landscape.</p>
-
-    <p>It is important to understand that weeds are not removed simply because &quot;they don't belong&quot;, but because weeding is the most cost effective method of stimulating natural regrowth. An area that is weeded properly will regenerate much faster than an area that is not weeded or an area that is &quot;artifically&quot; regenerated with direct plantings.</p>
-
 
     <h3>Techniques</h3>
 
+
+
     <p>
         Many different weeding techniques are used on the ridge, both by the group itself as well its partners. These include:
+
+
     </p>
 
     <div id="hacking" class="panel panel-success">
@@ -102,7 +220,7 @@
             </p>
 
             <p>
-                Hacking  is most effective against small to medium herbaceous weeds that have a distinctive rosette, such as <a href="weeds.php#aaronsrod">Aaron's Rod</a>, <a href="weeds.php#wildsage">Wild Sage</a>, <a href="weeds.php#scotchthisle">Scotch Thistle</a> and <a href="weeds.php#pattersonscurse">Patterson's Curse</a>. Large areas. It is a very precise method that removes the weed while leaving natives and is great way to regenerate native grasslands.
+                Hacking  is most effective against small to medium herbaceous weeds that have a distinctive rosette, such as <a href="weeds.php#aaronsrod">Aaron's Rod</a>, <a href="weeds.php#wildsage">Wild Sage</a>, <a href="weeds.php#scotchthisle">Scotch Thistle</a> and <a href="weeds.php#pattersonscurse">Patterson's Curse</a>. Large areas can be clear quickly with minimal effort. It is also a very precise method that removes the weed while leaving natives and is great way to regenerate native grasslands.
             </p>
 
         </div>

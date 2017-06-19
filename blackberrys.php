@@ -1,8 +1,7 @@
-<?php $title = 'Blackberrys';	
-
-include 'header.php';
-include 'databasedb.php';
-?>
+<?php $title = 'Blackberrys'; ?>
+<?include 'header.php'; ?>
+<?include 'databasedb.php';?>
+<?php include 'articleheader.php'; ?>
 
 <script>
   function initMap() {
@@ -196,10 +195,8 @@ while($row = $result->fetch_assoc()) {
    </table>
 </div>
 
-
-<?php 	
-include 'footer.php';
-?>
+<?php include 'articlefooter.php'; ?>
+<?php include 'footer.php';?>
   
 
 

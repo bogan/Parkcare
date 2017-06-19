@@ -1,5 +1,7 @@
 <?php $title = 'Special Purpose Areas';	?>
 <?php include 'header.php'; ?>
+<?php include 'articleheader.php'; ?>
+
 
     <ul class="breadcrumb">
         <li><a href="#">Home</a></li>

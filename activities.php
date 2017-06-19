@@ -1,5 +1,7 @@
 <?php $title = 'Activities';	?>
 <?php include 'header.php'; ?>
+<?php include 'articleheader.php'; ?>
+
 
     <ul class="breadcrumb">
         <li>Home</li>

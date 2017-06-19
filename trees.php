@@ -1,5 +1,7 @@
 <?php $title = 'Tree Survey';	?>
 <?php include 'header.php'; ?>
+<?php include 'articleheader.php'; ?>
+
 
 <ul class="breadcrumb">
     <li><a href="#">Home</a></li>
@@ -39,4 +41,5 @@
 
     </ol>
 
+<?php include 'articlefooter.php'; ?>
 <?php include 'footer.php'; ?>

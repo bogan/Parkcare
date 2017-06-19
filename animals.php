@@ -1,5 +1,6 @@
 <?php $title = 'Plant List';	?>
 <?php include 'header.php'; ?>
+<?php include 'articleheader.php'; ?>
 
 <ul class="breadcrumb">
     <li><a href="#">Home</a></li>
@@ -261,4 +262,5 @@
         </tr>
     </table>
 
+<?php include 'articlefooter.php'; ?>
 <?php include 'footer.php'; ?>

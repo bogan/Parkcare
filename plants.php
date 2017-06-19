@@ -1,5 +1,6 @@
 <?php $title = 'Plant Survey';?>
 <?php include 'header.php'; ?>
+<?php include 'articleheader.php'; ?>
 
 <!-- Breadcrumb -->
 <ul class="breadcrumb">
@@ -3343,4 +3344,5 @@
     </table>
 
 
+<?php include 'articlefooter.php'; ?>
 <?php include 'footer.php'; ?>

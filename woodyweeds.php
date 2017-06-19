@@ -1,8 +1,7 @@
-<?php $title = 'Blackberrys';
-
-include 'header.php';
-include 'databasedb.php';
-?>
+<?php $title = 'Blackberrys';?>
+<?php include 'header.php';?>
+<?php include 'databasedb.php';?>
+<?php include 'articleheader.php'; ?>
 
     <script>
         function initMap() {
@@ -184,4 +183,5 @@ include 'databasedb.php';
         </table>
     </div>
 
+<?php include 'articlefooter.php'; ?>
 <?php include 'footer.php'; ?>

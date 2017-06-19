@@ -16,13 +16,6 @@
         Weeds and weeding are the central focus of the groups <a href="methods">strategy</a> to regenerate the bush on Cooleman Ridge.
     </p>
 
-    <p>
-        The group believes that it is important that everybody who uses the ridge, whether a member or non member, be familiar with the history, scope and types of weeds found on the ridge. This is because most inexperienced people misunderstand the nature of the weed problem on the ridge. They either confuse weeds with natives or they simply believe that everything is a weed.
-    </p>
-
-    <p>
-        This lack of understanding can do more harm than good and can undermine the work that the group does. Therefore the best may the general public can help the work the group does is to just be simply aware of the nature of the weed problem, even if they do not actively weed themselves.
-    </p>
 
     <p>
         This page is intended to give a general overview of the definition, history, scope and types of weeds found on the ridge.
@@ -102,7 +95,7 @@
     </p>
 
     <p>
-        Conversely there are large parts of the ridge that were intestively grazed and consequently now have large weed infestations. These areas were the ones that were flat, deep soiled and thinly wooded. These are typically the areas in the saddles between the main <a href="hills.php">hills</a> on the ridge.
+        Conversely there are large parts of the ridge that were intensively grazed and consequently now have large weed infestations. These areas were the ones that were flat, deep soiled and thinly wooded. These are typically the areas in the saddles between the main <a href="hills.php">hills</a> on the ridge.
     </p>
 
     <p>

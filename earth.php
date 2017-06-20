@@ -42,6 +42,8 @@
             readily soluble minerals have long since been dissolved and carried away
             in the streams.</p>
 
+            <img src="images/geology.jpg" height="508" width="544">
+
             <p>Cooleman Ridge (our local park system) sits almost entirely on Ordovician
             volcanic rocks referred to as the Laidlaw Volcanic Suite. This suite is
             divided into two units or formations which are slightly different in composition.
@@ -99,6 +101,7 @@
             we find that some minerals such as quartz and feldspar have developed as
             large crystals (up to 2 cm) while the rest of the rock forms a very fine
             matrix.</p>
+
             <h3>Further reading:</h3>
             <p>Abell, Robert S., 1992, Geology of the Canberra 1:100 000 Sheet area,
             New South Wales and Australian Capital Territory Bureau of Mineral Resources

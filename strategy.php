@@ -11,34 +11,31 @@
     <h2 class="page-header">Strategy</h2>
 
     <p>
-        The group believes that it is important that everybody who uses the ridge, whether a member or non member, be familiar with the history, scope and types of weeds found on the ridge. This is because most inexperienced people misunderstand the nature of the weed problem on the ridge. They either confuse weeds with natives or they simply believe that everything is a weed.
+        The group has a broad strategy to regenerate the bush on Cooleman Ridge. This strategy guids all the work that the group performs on the ridge.
     </p>
 
     <p>
-        This lack of <span class="highlight">understanding</span> can do more harm than good and can undermine the work that the group does. Therefore the best may the general public can help the work the group does is to just be simply aware of the nature of the weed problem, even if they do not actively weed themselves.
-    The work of the group is either poorly understood or even misunderstood by the broader community.
+        The group believes that it is important that everybody who uses the ridge, whether a member or non member, be understands this strategy.
+        This is because the work of the group is either poorly understood or even misunderstood by the broader community.
+        This lack of <span class="highlight">understanding</span> can do more harm than good and can undermine the work that the group does.
     </p>
 
     <p>
-        This page is intended to better explain the what, why, when, who and how of the groups work.</p>
-
+        Therefore the best may the general public can help the work the group does is to just be simply aware of work the group does, even if they do not directly or actively work in the group. This page is intended to better explain the what, why, when, who and how of the groups work.
+    </p>
 
     <h3>Method</h3>
 
     <p>
-        The strategy of group to "regenerate the bush" is based on its own variation of the <a href="https://en.wikipedia.org/wiki/Bush_regeneration#Bradley_method">Bradley Method</a>. The Bradley Method is popular amongst &quot;landcare&quot; groups and is now the de-facto standard for bush regeneration groups, such as the Cooleman Ridge Parkcare Group.
+        The strategy of group to &quot;regenerate the bush&quot; is based on its own variation of the <a href="https://en.wikipedia.org/wiki/Bush_regeneration#Bradley_method">Bradley Method</a>. The Bradley Method is popular amongst &quot;landcare&quot; groups and is now the de-facto standard for bush regeneration groups, such as the Cooleman Ridge Parkcare Group.
     </p>
 
     <p>
-        The Bradley Method is based on the belief that the Australia bush has a <span class="highlight">natural tendency to regenerate itself</span>, whether humans help or not. If left alone, it will naturally regenerate but would take decades if not centuries to achieve.
+        The Bradley Method is based on the belief that the Australia bush has a <span class="highlight">natural tendency to regenerate itself</span>, whether humans help or not. If left alone, it will naturally regenerate itself, even it this process would take decades if not centuries.
     </p>
 
     <p>
-        However, humans can great significantly <span>accelerate</span> the natural regeneration process by removing competitors that prevent the bush from regenerating.
-    </p>
-
-    <p>
-        Weeding is a natural accelerant to regeneration, just a petrol is to a fire.
+        However, humans can great significantly <span class="highlight"><em>accelerate</em></span> the natural regeneration process by removing competitors that prevent the bush from regenerating. Weeding is a natural accelerant to regeneration, just a petrol is to a fire.
     </p>
 
     <p>
@@ -48,7 +45,7 @@
     </p>
 
     <p>
-        The main feature of the Bradley Method is that it <span class="highlight">emphasises</span> &quot;weeding over planting&quot; because it is believed that an hours weeding gives a much better return than an hours planting. This means that a well targeted and executed weeding strategy can achieve major results more cost effectively than an equivalent planting strategy.
+        The main feature of the Bradley Method is that it emphasises  <span class="highlight">&quot;weeding over planting&quot;</span> because it is believed that an hours weeding gives a much better return than an hours planting. This means that a well targeted and executed weeding strategy can achieve major results more cost effectively than an equivalent planting strategy.
     </p>
 
 
@@ -66,22 +63,28 @@
     </ul>
 
     <p>
-        Removing weeds allows struggling natives to maximise the use of these essential resources and they will generally thrive once the resources are released. This is the main reason for weeding - to remove competition.
+        Removing weeds allows struggling natives to maximise the use of these essential resources and they will generally thrive once the resources are released. This is the main reason for weeding - to remove <span class="highlight">competition</span>.
     </p>
 
     <p>
-        The effectiveness of the Bradley Method is however counter intuitive to those unfamiliar with it and does not conform with the general publics stereotypical idea of landcare groups. Planting seems to be the obvious way of restoring native vegetation.
+        The effectiveness of the Bradley Method is however <span class="highlight">counter intuitive</span> to those unfamiliar with it and does not conform with the general publics stereotypical idea of landcare groups. Planting seems to be the obvious way of restoring native vegetation.
     </p>
-
-    Weeding is a process of "creative destruction" in that you can create natives by destroying exotices. It requires less time, energy and money to destroy than to create and this is the main reason why weeding is considered to be more cost effective than planting.
 
     <p>
-        Weeding is not sexy nor glamorous and does not fit with the stereotypical view of landcare groups being all about planting. Weeding is however the single most effective method for regeneration the bush.
+        Weeding is a process of &quot;creative destruction&quot; by which you can &quot;create&quot; natives by destroying &quot;exotics&quot;. It requires less time, energy and money to destroy than to create and this is the main reason why weeding is considered to be more cost effective than planting.
     </p>
 
-<p>Weeding has many secondary benefits such as fuel reduction.</p>
+    <p>
+        Weeding is not sexy nor glamorous and does not fit with the <span class="highlight">stereotypical</span> view of landcare groups being all about planting. Weeding is however the single most effective method for regeneration the bush.
+    </p>
 
-    <p>To learn more about weeds and their impacts see our dedicated <a href="weeds.php">weeds</a> page.</p>
+    <p>
+        Weeding has many <span class="highlight">secondary benefits</span> such as fuel reduction.
+    </p>
+
+    <p>
+        To learn more about weeds and their impacts see our dedicated <a href="weeds.php">weeds</a> page.
+    </p>
 
     <h3>Principles</h3>
 
@@ -108,15 +111,15 @@
     <h3>Effectiveness</h3>
 
     <p>
-        Weeding is by no means a futile activity. Weeding is the single most effective activity to regenerate the bush.       Many think that weeding is futile because they will just come back. However, once a good native cover has been re-established, most weeds rarely reenter and when they are do they are few or weak.
+        Weeding is by no means a futile activity. Weeding is the single <span class="highlight">most effective activity</span> to regenerate the bush.       Many think that weeding is futile because they will just come back. However, once a good native cover has been re-established, most weeds rarely reenter and when they are do they are few or weak.
     </p>
 
     <p>
-        The effectiveness of this method is proven and is now widely accepted throughout Australian &quot;landcare&quot; groups as the most cost-effective method to regenerated the bush.
+        The effectiveness of this method is proven and is now <span class="highlight">widely accepted</span> throughout Australian &quot;landcare&quot; groups as the most cost-effective method to regenerated the bush.
 
-        It is important to understand that weeds are not removed simply because &quot;they don't belong&quot;, but because weeding is the most cost effective method of stimulating natural regrowth. An area that is weeded properly will regenerate much faster than an area that is not weeded or an area that is &quot;artificially&quot&quot; regenerated with direct plantings.
+        It is important to understand that weeds are not removed simply because &quot;they don't belong&quot;, but because weeding is the <span class="highlight">most cost effective method</span> of stimulating natural regeneration. An area that is weeded properly will regenerate much faster than an area that is not weeded or an area that is &quot;artificially&quot&quot; regenerated with direct plantings.
 
-        Weeding therefore has dual benefits - it not only decreases the exotics but also increasing the natives. The aim is to create a virutous circle.vituosc circle. The process can be slow at first (especially if the proportion of natives is low), but can rapid accelerate as the balance shifts from exotics to natives.
+        Weeding therefore has <span class="highlight">dual benefits</span> - it not only decreases the exotics but also increasing the natives. The aim is to create a virutous circle. The process can be slow at first (especially if the proportion of natives is low), but can rapid accelerate as the balance shifts from exotics to natives.
     </p>
 
     <p>

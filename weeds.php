@@ -16,6 +16,9 @@
         Weeds and weeding are the central focus of the groups <a href="methods">strategy</a> to regenerate the bush on Cooleman Ridge.
     </p>
 
+    <p>
+        Wees are often misunderstood. They either confuse weeds with natives or they simply believe that everything is a weed.
+    </p>
 
     <p>
         This page is intended to give a general overview of the definition, history, scope and types of weeds found on the ridge.
@@ -28,7 +31,7 @@
     </p>
 
     <p>
-        The problem of what constitues a weed is also complicated by several other factors including
+        The problem of what constituTes a weed is also complicated by several other factors including
     </p>
 
     <p>

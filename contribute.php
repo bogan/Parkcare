@@ -53,7 +53,11 @@
 
     <p>The group needs photographers of any standard just to take regular photos of things like work areas, trees, fires, dams, etc.</p>
 
-    <p>The phootos can then be added to one of our surveys, the newsletter or content elsewhere on this web site.</p>
+    <p>The photos can then be added to one of our surveys, the newsletter or content elsewhere on this web site.</p>
+
+    <h3>Administration</h3>
+
+    Administration is a significant part of what some in the group do. This can include attending briefings, information sessions and various other meetings. These can be both informative and interesting but valuable ways of promoting the the work the group does.
 
     <h3>Guided Walks</h3>
 

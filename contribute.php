@@ -1,5 +1,6 @@
 <?php $title = 'Contribute';	?>
 <?php include 'header.php'; ?>
+<?php include 'articleheader.php'; ?>
 
     <ul class="breadcrumb">
         <li><a href="#">Home</a></li>
@@ -21,7 +22,7 @@
 
     <h3>Weeding</h3>
 
-    <p>Yes, weeding! Weeding can be surprisingly satisfying and even addictive. Once you start, it can be hard to stop.</p>
+    <p>Yes, weeding! Weeding is not just the major focus of the groups activities, but it can be surprisingly satisfying and even addictive. Once you start, it can be hard to stop.</p>
 
     <p>Weeding does not necessarily mean you have to attend <a href="meetings.php#group">group meetings</a> or have an <a href="groupareas.php">individual area</a>. Many people weed just when they go for a walk on the ridge every day and pull out a hundred weeds each time.</p>
 
@@ -80,5 +81,5 @@
 
 
 
-
+<?php include 'articlefooter.php'; ?>
 <?php include 'footer.php'; ?>

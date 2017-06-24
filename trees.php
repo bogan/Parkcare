@@ -4,9 +4,9 @@
 
 
 <ul class="breadcrumb">
-    <li><a href="#">Home</a></li>
-    <li><a href="#">Our Work</a></li>
-    <li><a href="#">Surveys</a></li>
+    <li>Home</li>
+    <li>Our Work</li>
+    <li>Surveys</li>
     <li class="active">Tree Survey</li>
 </ul>
 

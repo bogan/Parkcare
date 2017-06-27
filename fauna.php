@@ -14,85 +14,410 @@
 <div class="row" id="content">
     <div class="span12">
 
-        <p>Dragons, brown snakes, blue-tongue lizards, skinks, kangaroos, magpies,
-        ducks, all live on, or visit, Cooleman Ridge. Echidnas, rabbits and foxes
-        only show themselves to the quiet, observant visitor. Kookaburras, falcons,
-        rosellas, parrots, robins, cockatoos, magpie-larks, crows/ravens, kestrels
-        and white-faced herons can also be seen. Then there are the millipedes,
-        snails, beetles and centipedes, etc. Insects, frogs and even long-necked
-        tortoises live in and around the dams.</p>
+        <p>Cooleman Ridge has suprising variety of animals. These include mammals, birds, lizards, amphibians and insects.</p>
 
         <p>Please see the <a href="animals.php">Animal List</a> page for a complete list of identified species.</p>
 
-        <p>We don't have many photos of these creatures as yet, so feel free to
-        contact us if you have some we can use.</p>
-
-        <p><a href="birds.php">Bird photos</a> are now on a different
-        <a href="birds.php">page</a>.</p>
-
     </div>
 </div>
 
 <br/>
 
-<div class="row" id="row2">
-    <div class="span5 offset1" style="align:center;text-align:center;">
-        <img alt="click for larger picture" style="margin:20px" border="1" height="151" src="images/drgbw.jpg" width="201">
-        <p>Eastern Bearded Dragon.</p>
+<div class="panel panel-success">
+    <div class="panel-heading">Eastern Bearded Dragon <em>(Blah blah)</em></div>
+    <div class="panel-body">
 
-    </div>
-    <div class="span5 offset1" style="align:center;text-align:center;">
-        <img alt="click for larger picture" style="margin:20px" border="1" height="151" src="images/drgbw1.jpg" width="218" style="float:none">
-        <p>Eastern Bearded Dragon.</p>
+        <img src="images/drgbw.jpg" style="height:100px;float:left;padding:0px;margin: 5px"/>
+
+        <p>
+            <a href="https://en.wikipedia.org/wiki/#"">Eastern Bearded Dragon</a> is a .
+        </p>
+
+        </p>
+            Blah.
+        <p>
+
+        <p>
+            Blah.
+        </p>
+
+        <p>
+            Blah.
+        </p>
+
+        <p>
+            <img alt="click for larger picture" style="margin:20px" border="1" height="151" src="images/drgbw1.jpg" width="218" style="float:none">
+            <p>Eastern Bearded Dragon.</p>
+        </p>
+
 
     </div>
 </div>
 
-<br/>
+    <div class="panel panel-success">
+        <div class="panel-heading">Striped Skink <em>(Ctenotus robustus)</em></div>
+        <div class="panel-body">
 
-<div class="row" id="row3">
-    <div class="span5 offset1" style="align:center;text-align:center;">
-        <img alt="click for larger picture" style="margin:20px" border="1" height="151" src="images/strpdsknk.jpg" width="201">
-        <p>
-            <em>Ctenotus robustus</em> - Striped Skink. <br>This reptile grows to
-            about 300 mm, a third of the length being tail. It is extensively distributed
-            over northern and eastern Australia. Here it is seen sheltering under
-            <em>Hardenbergia violacea</em>.
-        </p>
+            <img src="images/strpdsknk.jpg" style="height:100px;float:left;padding:0px;margin: 5px"/>
+
+            <p>
+                <a href="https://en.wikipedia.org/wiki/#"">Blah</a> is a .
+            </p>
+
+            </p>
+            Blah.
+            <p>
+
+            <p>
+                Blah.
+            </p>
+
+            <p>
+                Blah.
+            </p>
+
+            <p>
+                <img alt="click for larger picture" style="margin:20px" border="1" height="151" src="images/strpdsknk.jpg" width="201">
+                    This reptile grows to
+                    about 300 mm, a third of the length being tail. It is extensively distributed
+                    over northern and eastern Australia. Here it is seen sheltering under
+                    <em>Hardenbergia violacea</em>.
+                </p>
+            </p>
+
+        </div>
     </div>
-    <div class="span5 offset1" style="align:center;text-align:center;">
-        <img alt="click for larger picture" style="margin:20px" border="1" height="151" src="images/snake.jpg" width="218">
-        <p>
-            <em>Pseudechis porphyriacus</em> - Red-bellied black snake. <br>Upper
-            shiny black, with reddish lower sides and belly.
-        </p>
+
+    <div class="panel panel-success">
+        <div class="panel-heading">Eastern Longneck Turtle <em>(Chelodina longicollis)</em></div>
+        <div class="panel-body">
+
+            <img src="images/redgum.jpg" style="height:100px;float:left;padding:0px;margin: 5px"/>
+
+            <p>
+                <a href="https://en.wikipedia.org/wiki/Eastern_long-necked_turtle"">Eastern Longneck Turtle</a> is a .
+            </p>
+
+            </p>
+                The eastern long-necked turtle is carnivorous, eating a variety of animals. This includes insects, worms, tadpoles, frogs, small fish, crustaceans, and molluscs.
+            <p>
+
+            <p>
+                It is only known to exist in the Old Dam.
+            </p>
+
+            <p>
+                Blah.
+            </p>
+
+        </div>
     </div>
-</div>
 
-<br/>
+    <div class="panel panel-success">
+        <div class="panel-heading">Pink-tailed Legless Lizard <em>(Aprasia parapulchella)</em></div>
+        <div class="panel-body">
 
-<div class="row" id="row4">
-    <div class="span5 offset1" style="align:center;text-align:center;">
-        <img alt="click for larger picture" style="margin:20px" border="1" height="151" src="images/blutong.jpg" width="289">
-        <p>
-            <em>Tiliqua scincoids</em> – Eastern Blue-tongued Lizard <br>This reptile
-            is not venomous, and is often found in suburban gardens where it eats
-            snails and other invertebrates, as well as fruits and berries. It may
-            grow to 50 cm, and produces around a dozen live young in summer.
-        </p>
+            <img src="images/aprsa.jpg" style="height:100px;float:left;padding:0px;margin: 5px"/>
+
+            <p>
+                <a href="https://en.wikipedia.org/wiki/Pink-tailed_worm-lizard">Blah</a> is a Pink-tailed Legless Lizard is a rare legless lizard found in Australia. The animal looks like a combination of small snake and worm.
+            <p>
+
+            <p>
+                they are most likely to be found in rocky outcrops in native
+                grassland on north-facing slopes of the Ridge where exotic grasses have
+                not been encouraged by application of fertiliser, and there has not been
+                extensive grazing. When there is moisture in the soil, and before the ground
+                has warmed above their comfort level they may be found under shallowly embedded
+                rocks, in association with colonies of small black ants. They produce two
+                young. Listed as vulnerable.
+            </p>
+
+             <p>
+                Over the years this is only the fourth time members of our group have
+                reported finding <em>Aprasia.</em> According to Dr Will Osborne of Canberra
+                University
+            </p>
+        </div>
     </div>
-    <div class="span5 offset1" style="align:center;text-align:center;">
-        <img alt="click for larger picture" style="margin:20px" border="1" height="151" src="images/lz1.jpg" width="213">
-        <p>
-            Lizard on Kathner Street. At least 50 cm
-            long. Presumably an Eastern Blue-tongue.
-        </p>
+
+    <div class="panel panel-success">
+        <div class="panel-heading">Red Necked Wallaby <em>(Macropus rufogriseus)</em></div>
+        <div class="panel-body">
+
+            <img src="images/redgum.jpg" style="height:100px;float:left;padding:0px;margin: 5px"/>
+
+            <p>
+                <a href="https://en.wikipedia.org/wiki/#"">Blah</a> is a .
+            </p>
+
+            </p>
+            Blah.
+            <p>
+
+            <p>
+                Blah.
+            </p>
+
+            <p>
+                Blah.
+            </p>
+
+        </div>
     </div>
-</div>
 
-<br/>
+    <div class="panel panel-success">
+        <div class="panel-heading">Common Wombat <em>(Blah blah)</em></div>
+        <div class="panel-body">
 
-<div class="row" id="row5">
+            <img src="images/redgum.jpg" style="height:100px;float:left;padding:0px;margin: 5px"/>
+
+            <p>
+                <a href="https://en.wikipedia.org/wiki/#"">Blah</a> is a .
+            </p>
+
+            </p>
+            Blah.
+            <p>
+
+            <p>
+                Blah.
+            </p>
+
+            <p>
+                Blah.
+            </p>
+
+        </div>
+    </div>
+
+    <div class="panel panel-success">
+        <div class="panel-heading">Yabby <em>(Cherax destructor)</em></div>
+        <div class="panel-body">
+
+            <img src="images/redgum.jpg" style="height:100px;float:left;padding:0px;margin: 5px"/>
+
+            <p>
+                <a href="https://en.wikipedia.org/wiki/#"">Blah</a> is a .
+            </p>
+
+            </p>
+                Blah.
+            <p>
+
+            <p>
+                Blah.
+            </p>
+
+            <p>
+                Blah.
+            </p>
+
+        </div>
+    </div>
+
+    <div class="panel panel-success">
+        <div class="panel-heading">Eastern Grey Kangaroo <em>(Macropus giganteus)</em></div>
+        <div class="panel-body">
+
+            <img src="images/redgum.jpg" style="height:100px;float:left;padding:0px;margin: 5px"/>
+
+            <p>
+                <a href="https://en.wikipedia.org/wiki/#"">Blah</a> is a .
+            </p>
+
+            </p>
+                Blah.
+            <p>
+
+            <p>
+                Blah.
+            </p>
+
+            <p>
+                Blah.
+            </p>
+
+        </div>
+    </div>
+
+
+    <div class="panel panel-success">
+        <div class="panel-heading">Eastern Brown Snake <em>(Blah blah)</em></div>
+        <div class="panel-body">
+
+            <img src="images/redgum.jpg" style="height:100px;float:left;padding:0px;margin: 5px"/>
+
+            <p>
+                <a href="https://en.wikipedia.org/wiki/#"">Blah</a> is a .
+            </p>
+
+            </p>
+                Blah.
+            <p>
+
+            <p>
+                Blah.
+            </p>
+
+            <p>
+                Blah.
+            </p>
+
+        </div>
+    </div>
+
+    <div class="panel panel-success">
+        <div class="panel-heading">Australian Wood Duck <em>(Blah blah)</em></div>
+        <div class="panel-body">
+
+            <img src="images/redgum.jpg" style="height:100px;float:left;padding:0px;margin: 5px"/>
+
+            <p>
+                <a href="https://en.wikipedia.org/wiki/#"">Blah</a> is a .
+            </p>
+
+            </p>
+                Blah.
+            <p>
+
+            <p>
+                Blah.
+            </p>
+
+            <p>
+                Blah.
+            </p>
+
+        </div>
+    </div>
+
+    <div class="panel panel-success">
+        <div class="panel-heading">Echidna <em>(Blah blah)</em></div>
+        <div class="panel-body">
+
+            <img src="images/echidna.jpg" style="height:100px;float:left;padding:0px;margin: 5px"/>
+
+            <p>
+                <a href="https://en.wikipedia.org/wiki/#"">Blah</a> is a .
+            </p>
+
+            </p>
+                Blah.
+            <p>
+
+            <p>
+                Blah.
+            </p>
+
+            <p>
+                Blah.
+            </p>
+        </div>
+    </div>
+
+    <div class="panel panel-success">
+        <div class="panel-heading">Frog <em>(Crinia sp)</em></div>
+        <div class="panel-body">
+
+            <img src="images/froglet.jpg" style="height:100px;float:left;padding:0px;margin: 5px"/>
+
+            <p>
+                <a href="https://en.wikipedia.org/wiki/#"">Blah</a> is a .
+            </p>
+
+            </p>
+                Blah.
+            <p>
+
+            <p>
+                Blah.
+            </p>
+
+            <p>
+                Blah.
+            </p>
+
+            <p>
+                <em>.</em> – Froglet <br>Length: 2-3 cm. <br>Call: repetitive - crick-crick-crick
+            </p>
+
+            <img alt="click for larger picture" style="margin:20px" border="1" height="151" src="images/frogspawn.jpg" width="201">
+
+            <p>Frogspawn</p>
+
+        </div>
+    </div>
+
+    <div class="panel panel-success">
+        <div class="panel-heading">Eastern Blue-tongued Lizard <em>(Tiliqua scincoids)</em></div>
+        <div class="panel-body">
+
+            <img src="images/blutong.jpg" style="height:100px;float:left;padding:0px;margin: 5px"/>
+
+            <p>
+                <a href="https://en.wikipedia.org/wiki/#"">Blah</a> is a .
+            </p>
+
+            </p>
+                Blah.
+            <p>
+
+            <p>
+                Blah.
+            </p>
+
+            <p>
+                Blah.
+            </p>
+
+            <p>
+                This reptile is not venomous, and is often found in suburban gardens where it eats snails and other invertebrates, as well as fruits and berries. It may             grow to 50 cm, and produces around a dozen live young in summer.
+            </p>
+
+            <img alt="click for larger picture" style="margin:20px" border="1" height="151" src="images/lz1.jpg" width="213">
+
+            <p>
+                Lizard on Kathner Street. At least 50 cm
+                long. Presumably an Eastern Blue-tongue.
+            </p>
+
+        </div>
+    </div>
+
+    <div class="panel panel-success">
+        <div class="panel-heading">Red-bellied black snake <em>(Pseudechis porphyriacus)</em></div>
+        <div class="panel-body">
+
+            <img src="images/snake.jpg" style="height:100px;float:left;padding:0px;margin: 5px"/>
+
+            <p>
+                <a href="https://en.wikipedia.org/wiki/#"">Blah</a> is a .
+            </p>
+
+            </p>
+                Blah.
+            <p>
+
+            <p>
+                Blah.
+            </p>
+
+            <p>
+                Blah.
+            </p>
+
+             <p>
+                Upper shiny black, with reddish lower sides and belly.
+            </p>
+
+        </div>
+    </div>
+
+
+
+
+<!--<div class="row" id="row5">
     <div class="span5 offset1" style="align:center;text-align:center;">
         <img alt="click for larger picture" style="margin:20px" border="1" height="151" src="images/drgn.jpg" width="201">
         <p>
@@ -110,57 +435,18 @@
     </div>
 </div>
 
-<br/>
-
-<div class="row" id="row6">
-    <div class="span5 offset1" style="align:center;text-align:center;">
-        <img alt="click for larger picture" style="margin:20px" border="1" height="151" src="images/froglet.jpg" width="201">
-        <p>
-            <em>Crinia sp.</em> – Froglet <br>Length: 2-3 cm. <br>Call: repetitive - crick-crick-crick
-        </p>
-    </div>
-    <div class="span5 offset1" style="align:center;text-align:center;">
-        <img alt="click for larger picture" style="margin:20px" border="1" height="151" src="images/frogspawn.jpg" width="201">
-        <p>Frogspawn</p>
-    </div>
-</div>
-
-<br/>
 
 <div class="row" id="row7">
     <div class="span5 offset1" style="align:center;text-align:center;">
         <img alt="click for larger picture" style="margin:20px" border="1" height="177" src="images/centpede.jpg" width="144">
         <p>Centipede</p>
     </div>
-    <div class="span5 offset1" style="align:center;text-align:center;">
-        <img alt="click for larger picture" style="margin:20px" border="1" height="177" src="images/echidna.jpg" width="236"></a></td>
-        <p>Echidna</p>
-    </div>
-</div>
+
+</div>-->
 
 <br/>
 
-<div class="row" id="row8">
-    <div class="span5 offset1" style="align:center;text-align:center;">
-        <img alt="click for larger picture" style="margin:20px" border="1" height="151" src="images/aprsa.jpg" width="316">
-        <p>
-            <em>Aprasia parapulchella</em>
-            – Pink-tailed Legless Lizard <br>1 adult and 1 young pictured, of a family
-            of 4. Over the years this is only the fourth time members of our group have
-            reported finding <em>Aprasia.</em> According to Dr Will Osborne of Canberra
-            University they are most likely to be found in rocky outcrops in native
-            grassland on north-facing slopes of the Ridge where exotic grasses have
-            not been encouraged by application of fertiliser, and there has not been
-            extensive grazing. When there is moisture in the soil, and before the ground
-            has warmed above their comfort level they may be found under shallowly embedded
-            rocks, in association with colonies of small black ants. They produce two
-            young. Listed as vulnerable.
-        </p>
-    </div>
-    <div class="span5 offset1" style="align:center;text-align:center;">
-        <p>&nbsp;</p>
-    </div>
-</div>
+
 
 <?php include 'articlefooter.php'; ?>
 <?php include 'footer.php'; ?>

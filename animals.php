@@ -1,4 +1,4 @@
-<?php $title = 'Plant List';	?>
+<?php $title = 'Animal Survey';	?>
 <?php include 'header.php'; ?>
 <?php include 'articleheader.php'; ?>
 

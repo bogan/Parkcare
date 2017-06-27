@@ -64,28 +64,25 @@
         <a href="http://www.environment.act.gov.au/ACT-parks-conservation/bushfire_management/prescribed-burns">hazard reduction burn programme
     </a>
 
+    <p>
+        Cattle Grazing is also used on the ridge by Parks and Conservation as tool to manage fuel loads. Cattle are temporarily brought in to grazed down an area to remove the feul load. The group does not directly participate in these activities.
+    </p>
+
+
 
     <h3>Weeds</h3>
 
     <p>
-        The ridge has a significant weed problem. These weeds also play an important factor in the role of fire on the ridge.
+        The ridge has a significant <a href="weeds.php">weed</a> problem. These weeds are not only a major ecological problem but also a major problem in the management of fire as well.
     </p>
 
     <p>
-        Weeds are important to fires because some fires are major fuel source for fires. Several weeds found on the ridge are pasture grasses (such as Phalaris, Rye Grass, Fescue and Wild Oats). These grasses were were deliberately introduced by former graziers when the ridge used to be part of pastoral properties. These grasses were introduced because they were considered to be a better food source for large grazing animals (eg. horses, cows, sheep). They have a much greater biomass because they are typically thick, tall and fast growing.
+        Weeds are a significant problem in managing fire on the ridge because some weeds are major <span class="highlight">fuel source</span> for fires. Many weeds, especially those that were former pasture grasses (such as Canary Grass, Rye Grass, Fescue and Wild Oats), are now major fuel source for fires. These grasses were deliberately introduced by former graziers when the ridge was to be part of various pastoral properties (see <a href="history.php">history</a> for more details). These grasses were introduced because they were considered to be a better food source for large grazing animals (eg. horses, cows, sheep) as they have they are typically thick, tall and fast growing. However, the very qualities that made these plants good pasture grass are the very qualities that make them a significant fire hazard on the ridge. Because they have a much greater biomass, they burn fast and at a higher temperature and therefore can significantly increase the speed and intensity of grass fires.
     </p>
 
     <p>
-        These weeds are significant to the presence of fire on the ridge because they have now become a major <span class="highlight">fuel source</span>.
-
-        The very qualities that made these plants good pasture grass are the very qualities that make them a significant fire hazard on the ridge. Because they have a much greater biomass, they burn fast and at a higher temperature and therefore can significantly increase the speed and intensity of grass fires.
-    </p>
-
-    <p>
-        The fire problem associated with pasture grasses has become serious with <span class="highlight"> the removal of grazing</span> from the ridge.
-        These grasses when grazed regularly grazed have a minimal affect. These weeds were not a major fuel problem when they were actively grazed. However, now that regular grazing has been removed, they become a more significant problem.
-        Introduced pasture grasses when they are no longer grazed pose a significant fire hazard.
-         However, when they are no longer grazed, they dry out.
+        The fire problem associated with pasture grasses has become even more significant with <span class="highlight"> the removal of grazing</span> from the ridge.
+        These grasses when grazed regularly grazed were not a major fuel problem because grazing significantly reduced the biomass of the weeds and thus their role as a fuel source. However, now that regular grazing has been removed, they become a more significant problem because they have not been reduced.
     </p>
 
     <p>
@@ -97,21 +94,12 @@
 
     </p>
 
-
-
-
     <p>
         The group plays an important role in reducing the risk, intensity and impact of unplanned fires.
 
         The long term goal is to remove the pasture grasses and thereby significantly reduce the associated fire hazard.
 
         By replacing introduced pasture grasses with native grasses, the fuel load is significantly reduced.
-    </p>
-
-    <h3>Cattle Grazing</h3>
-
-    <p>
-        Cattle Grazing trials have been performed on the ridge as a fire management technique.
     </p>
 
     <h3>Regeneration</h3>

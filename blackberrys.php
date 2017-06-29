@@ -1,6 +1,6 @@
 <?php $title = 'Blackberrys'; ?>
-<?include 'header.php'; ?>
-<?include 'databasedb.php';?>
+<?php include 'header.php'; ?>
+<?php include 'databasedb.php';?>
 <?php include 'articleheader.php'; ?>
 
 <script>

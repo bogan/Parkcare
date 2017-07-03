@@ -15,7 +15,7 @@
     </p>
 
     <p>
-        The newsletter contains news of <a href="meetings.php">group meetings</a>, <a href="plants.php">plant sitings</a>, <a href="animals.php">animal sitings</a>, government initiatives, etc. The main highlight is a section called "What's Around" segment, which includes details about a particular plant or animal specie on the ridge.
+        The newsletter contains news of <a href="meetings.php">group meetings</a>, <a href="plants.php">plant sitings</a>, <a href="animals.php">animal sitings</a>, government initiatives, musing and other various chitchat etc. The main highlight is a section called "What's Around" segment, which includes details about a particular plant or animal specie on the ridge.
     </p>
 
     <p>

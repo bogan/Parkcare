@@ -14,7 +14,9 @@
 <div class="row" id="content">
     <div class="span12">
 
-        <p>Cooleman Ridge has suprising variety of animals. These include mammals, birds, lizards, amphibians and insects.</p>
+        <p>Cooleman Ridge has surprising variety of animal life. These include mammals, birds, lizards, amphibians and insects.</p>
+
+        <p>This page is intended to showcase some of the more common or unusual animals found on the ridge.</p>
 
         <p>Please see the <a href="animals.php">Animal List</a> page for a complete list of identified species.</p>
 

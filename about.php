@@ -19,7 +19,7 @@
     </p>
 
     <p>
-        You can read more about the important work that group performs in the Our Work section of the web site.
+        You can read more about the important work that group performs in the Our Work section of the web site. Blah
     </p>
 
     <h3>Mission</h3>
